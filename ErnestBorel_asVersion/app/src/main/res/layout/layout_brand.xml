@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/Brand_MainLayout">
+        
+	<ScrollView 	   
+	    android:id="@+id/Brand_scrollView"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:scrollbarAlwaysDrawHorizontalTrack="false"
+	    android:scrollbarAlwaysDrawVerticalTrack="false">
+		
+		<LinearLayout 
+		    android:layout_width="match_parent"
+		    android:layout_height="match_parent"	    
+		    android:orientation="vertical" 
+		    android:background="@drawable/general_bg">	      
+		    
+		    <ImageView
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content" 
+		        android:background="@drawable/general_menutopbar"	        
+		        />
+		    <TextView 
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_gravity="left"
+		        android:layout_marginTop="10dp"
+		        android:layout_marginLeft="10dp"
+		        android:id="@+id/Brand_Header"
+		        android:text="@string/brand_videoheader"
+		        android:textColor="@android:color/white"
+		        android:textSize="20sp"/>
+		    
+		    <Button
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_gravity="center_horizontal"
+		        
+		        android:clickable="false"
+		        android:layout_marginTop="5dp"
+		        android:background="@drawable/brand_moviethumbnail"
+		        android:id="@+id/Brand_MovieBtn"/>
+		    
+		    <TextView
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:lines="2"
+		         android:layout_gravity="left"
+		        android:layout_marginTop="5dp"
+		        android:layout_marginLeft="10dp"
+		        android:id="@+id/Brand_CopyRight"		       
+		        android:text="@string/brand_videocopyright"
+		        android:textColor="@android:color/white"
+		        android:textSize="13sp"
+		        />
+		    
+		    <ImageView 
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:background="@drawable/general_line"
+		        android:layout_gravity="center_horizontal"
+		        android:layout_marginTop="5dp"
+		        />
+		    
+		    <TextView 
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"	        	        
+				android:layout_gravity="left"
+		        android:layout_marginTop="5dp"
+		        android:layout_marginLeft="10dp"
+		        android:text="@string/brand_content"
+		        android:textColor="@android:color/white"
+		        android:textSize="13sp"
+		        android:id="@+id/Brand_Content"/>
+		    
+		    <RelativeLayout 
+		        android:layout_width="fill_parent"
+		        android:layout_height="40dp"/>
+		   		
+		</LinearLayout>
+		        
+	</ScrollView>
+</FrameLayout>

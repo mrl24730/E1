@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" 
+    android:id="@+id/cell_bg"
+    android:background="@drawable/collection_tablebg">
+    
+	<TextView 
+	    android:id="@+id/Location_CellTitle"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:drawableRight="@drawable/general_rightarrow"	    
+	    android:text="Hong Kong"
+	    android:textSize="20sp"
+	    android:layout_marginLeft="14dp"
+	    android:layout_marginRight="10dp"
+	    android:textColor="@android:color/white"
+	    android:textStyle="bold"
+	    android:layout_centerHorizontal="true"
+	    android:layout_centerVertical="true"
+	    />
+</RelativeLayout>

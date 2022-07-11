@@ -1,0 +1,36 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent" 
+	android:layout_height="fill_parent" 
+	android:id="@+id/MainActivity_layout"	
+    >
+    
+    <ImageView 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/general_bg"
+        android:id="@+id/Main_BGImg"/>
+        
+    <RelativeLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/MainMenuTopBar">
+        
+<!--         <Button 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/MainMenuBtn"
+            android:background="@drawable/mainmenu_homebtn"
+            android:layout_centerHorizontal="true"                   
+            />         -->
+            
+
+    </RelativeLayout>
+    
+    <RelativeLayout 
+        android:id="@+id/AddPageLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+    </RelativeLayout>
+        
+        
+</FrameLayout>

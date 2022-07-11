@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+    <ImageView
+      	android:layout_width="wrap_content"
+      	android:layout_height="wrap_content"
+      	android:background="@drawable/collection03"
+     	android:contentDescription="@string/imageDesc"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"  />
+        
+    <LinearLayout
+    	android:layout_width="match_parent"
+    	android:layout_height="match_parent"
+   	 	android:orientation="vertical" >
+    
+	    <ImageView
+	        android:layout_width="wrap_content" 
+	        android:layout_height="wrap_content"
+	        android:background="@drawable/general_menutopbar" 
+	     	android:contentDescription="@string/imageDesc" />
+	    
+	    <RelativeLayout 
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content">
+	        
+		    <LinearLayout
+		    	android:layout_width="fill_parent"
+		    	android:layout_height="wrap_content"
+				android:gravity="center_horizontal"
+				android:visibility="gone"
+		    	android:orientation="horizontal">
+		    	
+				<Button
+				    android:id="@+id/Collection_AutomaticBtn"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:background="@drawable/collection_auto_selected"
+				    android:visibility="invisible" />
+			
+				<Button
+					android:id="@+id/Collection_QuartzBtn"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:background="@drawable/collection_quartz"
+				    android:visibility="invisible" />
+			
+			</LinearLayout>
+		</RelativeLayout>
+		
+		<RelativeLayout
+	        android:id="@+id/Collection_ListLayout"
+	    	android:layout_width="wrap_content"
+	    	android:layout_height="wrap_content">
+			
+		</RelativeLayout>
+		
+    </LinearLayout>
+    
+    <RelativeLayout
+		android:id="@+id/Collection_Detail_LargeLayout"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:visibility="gone" >
+ 	</RelativeLayout>
+    
+</RelativeLayout>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/store_cellbar"
+    android:id="@+id/Cell_bg"
+    >
+    
+          <ImageView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/general_rightarrow"     
+        android:id="@+id/Cell_StoreArrow"
+        android:layout_centerVertical="true"        
+        android:layout_toLeftOf="@+id/Store_CellMargin"
+        />
+          
+          <RelativeLayout android:layout_width="10dp"
+              android:layout_height="10dp"
+              android:layout_alignParentRight="true"
+              android:id="@+id/Store_CellMargin">
+              
+          </RelativeLayout>
+                       
+    <LinearLayout 
+        android:layout_centerVertical="true"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@+id/Cell_StoreArrow"
+        android:orientation="vertical"         
+        >
+
+   	    <TextView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:id="@+id/Store_CellTitle"		        
+	        android:text="Title"	        
+	        android:drawableLeft="@drawable/store_nameicon"
+	        android:duplicateParentState="true"
+	        android:textColor="@android:color/white"
+	        android:textStyle="bold"     
+	        android:textSize="14sp"
+	        android:lines="1"
+	        android:drawablePadding="5dp"
+	        android:layout_marginLeft="15dp"       
+	        android:layout_gravity="left"/>
+	    	    
+	    <TextView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:id="@+id/Store_CellSubTitle"
+	        android:text="Sub Title"
+	        android:textColor="@android:color/white"	       
+	        android:textStyle="bold"
+	        android:textSize="13sp"	   
+	        android:lines="2"   
+	        android:layout_marginLeft="15dp"
+	        android:layout_gravity="left"
+	        android:drawableLeft="@drawable/store_addressicon"	        
+	        android:drawablePadding="5dp"
+	        />
+	
+	</LinearLayout>
+	
+</RelativeLayout>	

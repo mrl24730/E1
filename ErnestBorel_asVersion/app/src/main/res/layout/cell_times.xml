@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" 
+    android:background="@drawable/time_cellbg">   
+   	
+    <RelativeLayout	android:layout_width="wrap_content"
+    				android:layout_height="wrap_content"     
+    				android:background="@drawable/time_cellbg">
+    
+	    <TextView android:layout_width="wrap_content"
+	        android:layout_centerHorizontal="true"
+	        android:layout_centerVertical="true"
+	        android:gravity="center_vertical"
+	        android:layout_height="wrap_content"
+	        android:text="@string/times_addcity"
+	        android:textColor="@android:color/white"
+	        android:textSize="14sp"
+	        android:textStyle="bold"
+	        android:drawablePadding="9dp"
+	        android:drawableLeft="@drawable/time_addcityicon"/>
+	    
+	</RelativeLayout>    
+	
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"    
+        android:id="@+id/Time_AddCityBtn"/>   
+    
+</FrameLayout>
