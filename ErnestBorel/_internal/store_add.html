@@ -1,0 +1,114 @@
+﻿<!DOCTYPE HTML>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="keywords in here">
+<meta name="description" content="Description in here">
+<meta property="og:title" content="Add Store - ErnestBorel Admin">
+<meta property="og:description" content="Description in here">
+<title>ErnestBorel Internal Admin</title>
+<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.9.1/build/cssreset/cssreset-min.css" >
+<link rel="stylesheet" type="text/css" href="css/select2.css">
+<link href="css/admin.css" rel="stylesheet" type="text/css" media="all">
+<!--[if lt IE 9]> HTML5Shiv
+  <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script type="text/javascript" src="js/jquery-1.11.3.js"></script>
+<script type="text/javascript" src="../js/select2.js"></script>
+<script type="text/javascript" src="js/uifn.js"></script>
+<script type="text/javascript" src="js/store.js?v=236843"></script>
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+
+  $(document).ready(function(){
+    StoreAdd.init();
+  });
+</script>
+</head>
+
+<body>
+  <div id="StoreAdd" class="mainFrame">
+    <h2>Add Store</h2>
+    <p class="bc"><a href="home.html">Home</a> > <a href="store_list.html">Store</a> > Add Store</p>
+      <form id="form1" name="form1" action="" method="POST">
+      <table style="width:100%">
+        <tr>
+          <td><p class="seleboxname">Type:</p></td>      
+          <td>
+            <label><input type="checkbox" id="pos" name="pos" value="POS"> POS</label> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <label><input type="checkbox" id="aftersales" name="aftersale" value="AfterSales"> After-Sales</label>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="seleboxname">Region:</p></td>      
+          <td><select id="region"></select></td>
+        </tr>
+        <tr>
+          <td><p class="seleboxname">Country:</p></td>
+          <td><select id="country"></select></td>
+        </tr>
+        <tr class="province_wrapper">
+          <td><p class="seleboxname">Province:</p></td>
+          <td><select id="province"></select></td>
+        </tr>
+        <tr>
+          <td><p class="seleboxname">City:</p></td>
+          <td><select id="city"></select></td>
+        </tr>
+         <tr>
+          <td class="inputboxname inputboxname_align"><p>Name:</p></td>
+          <td class="inputboxname inputboxname_align">
+            <p><span class="inputbox">ENGLISH</span><input type="text" id="eName" name="ENGLISH" class="short" value="" maxlength="200"></p>
+            <p><span class="inputbox">简体中文</span><input type="text" id="sName" name="简体中文" class="short" value="" maxlength="200"></p>
+            <p><span class="inputbox">繁體中文</span><input type="text" id="tName" name="繁體中文" class="short" value="" maxlength="200"></p>
+            <p><span class="inputbox">日本語</span><input type="text" id="jName" name="日本語" class="short" value="" maxlength="200"></p>
+            <p><span class="inputbox">FRANÇAIS</span><input type="text" id="fName" name="FRANÇAIS" class="short" value="" maxlength="200"></p>
+          </td>
+        </tr>
+        <tr>
+          <td class="inputboxname inputboxname_align"><p>Address:</p></td>
+          <td class="inputboxname inputboxname_align">
+            <p><span class="inputbox">ENGLISH</span><input type="text" id="eAddress" name="ENGLISH" class="long" value="" maxlength="255"></p>
+            <p><span class="inputbox">简体中文</span><input type="text" id="sAddress" name="简体中文" class="long" value="" maxlength="255"></p>
+            <p><span class="inputbox">繁體中文</span><input type="text" id="tAddress" name="繁體中文" class="long" value="" maxlength="255"></p>
+            <p><span class="inputbox">日本語</span><input type="text" id="jAddress" name="日本語" class="long" value="" maxlength="255"></p>
+            <p><span class="inputbox">FRANÇAIS</span><input type="text" id="fAddress" name="FRANÇAIS" class="long" value="" maxlength="255"></p>
+          </td>
+        </tr>
+        <tr>
+          <td><p class="inputboxname">Telephone:</p></td>
+          <td><input type="text" id="telephone" name="telephone" value="" placeholder="(optional)"></td>
+        </tr>
+        <tr>
+          <td><p class="inputboxname">Fax:</p></td>
+          <td><input type="text" id="fax" name="fax" value="" placeholder="(optional)"></td>
+        </tr>
+        <tr>
+          <td><p class="inputboxname">Email:</p></td>      
+          <td><input type="text" id="email" name="email" value="" placeholder="(optional)"></td></td>
+        </tr>
+        <tr>
+          <td><p class="inputboxname">Web:</p></td>      
+          <td><input type="text" id="web" name="web" value="" placeholder="(optional)"></td>
+        </tr>
+        <tr>
+          <td><p class="inputboxname">lng:</p></td>
+          <td><input type="text" id="lng" name="lng" value="0"></td>
+        </tr>
+        <tr>
+          <td><p class="inputboxname">lat:</p></td>
+          <td><input type="text" id="lat" name="lat" value="0"></td>
+        </tr>      
+        <tr>
+          <td>&nbsp;</td>      
+          <td><input type="submit" id="send" name="send" value="Add Store" class="submitbtn"></td>
+        </tr>
+        
+      </table>
+    </form>
+  </div>
+</body>
+</html>

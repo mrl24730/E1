@@ -1,0 +1,91 @@
+﻿<!DOCTYPE HTML>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="keywords in here">
+<meta name="description" content="Description in here">
+<meta property="og:title" content="Add Store - ErnestBorel Admin">
+<meta property="og:description" content="Description in here">
+<title>ErnestBorel Internal Admin</title>
+<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.9.1/build/cssreset/cssreset-min.css" >
+<link rel="stylesheet" type="text/css" href="css/select2.css">
+<link href="css/admin.css" rel="stylesheet" type="text/css" media="all">
+<!--[if lt IE 9]> HTML5Shiv
+  <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script type="text/javascript" src="js/jquery-1.11.3.js"></script>
+<script type="text/javascript" src="../js/select2.js"></script>
+<script type="text/javascript" src="js/uifn.js"></script>
+<script type="text/javascript" src="js/city.js?v=236843"></script>
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+
+  $(document).ready(function(){
+    CityAdd.init();
+  });
+</script>
+</head>
+
+<body>
+  <div id="StoreAdd" class="mainFrame">
+    <h2>Add City</h2>
+    <p class="bc"><a href="home.html">Home</a> > <a href="city_list.html">City</a> > Add City</p>
+      <form id="form1" name="form1" action="" method="POST">
+        
+      <table style="width:100%">
+        <tr>
+          <td><p id="label_id" class="seleboxname">Id(idx_city)</p></td>
+          <td><input type="text" id="id" name="id" value="id"></td>
+        </tr>
+        <tr>
+            <td class="inputboxname inputboxname_align"><p>Name</p></td>
+            <td class="inputboxname inputboxname_align">
+                <p><span id="label_eName" class="inputbox">ENGLISH</span><input type="text" id="eName" name="ENGLISH" class="short" value="" maxlength="200"></p>
+                <p><span id="label_sName" class="inputbox">简体中文</span><input type="text" id="sName" name="简体中文" class="short" value="" maxlength="200"></p>
+                <p><span id="label_tName" class="inputbox">繁體中文</span><input type="text" id="tName" name="繁體中文" class="short" value="" maxlength="200"></p>
+                <p><span id="label_jName" class="inputbox">日本語</span><input type="text" id="jName" name="日本語" class="short" value="" maxlength="200"></p>
+                <p><span id="label_fName" class="inputbox">FRANÇAIS</span><input type="text" id="fName" name="FRANÇAIS" class="short" value="" maxlength="200"></p>
+            </td>
+        </tr>
+        <tr>
+            <td><p id="label_region" class="seleboxname">Region</p></td>
+            <td><select id="region"></select></td>
+        </tr>
+        <tr>
+          <td><p id="label_country" class="seleboxname">Country</p></td>
+          <td><select id="country"></select></td>
+        </tr>
+        <tr class="province_wrapper">
+            <td><p id="label_province" class="seleboxname">Province</p></td>
+            <td><select id="province"></select></td>
+        </tr>
+        <!--
+        <tr>
+            <td><p class="seleboxname">City:</p></td>
+            <td><select id="city"></select></td>
+        </tr> 
+        -->
+        <tr>
+          <td><p id="label_lng" class="inputboxname">lng</p></td>
+          <td><input type="text" id="lng" name="lng" value="0"></td>
+        </tr>
+        <tr>
+          <td><p id="label_lat" class="inputboxname">lat</p></td>
+          <td><input type="text" id="lat" name="lat" value="0"></td>
+        </tr>
+        <tr>
+          <td><p id="label_zoom" class="inputboxname">zoom</p></td>
+          <td><input type="text" id="zoom" name="zoom" value="0"></td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>      
+          <td><input type="submit" id="send" name="send" value="Add" class="submitbtn"></td>
+        </tr>
+      </table>
+    </form>
+  </div>
+</body>
+</html>

@@ -1,0 +1,197 @@
+/* Useful scss mixins */
+/* JQUERY UI CSS */
+html {
+  background: #3e0708;
+  background: -webkit-gradient(linear, left top, left bottom, from(#3e0708), to(black));
+  background: -moz-linear-gradient(top, #3e0708, black);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3e0708', endColorstr='black');
+  min-height: 100%; }
+
+body {
+  font: 12px "Trebuchet MS", sans-serif;
+  margin: 0px; }
+
+h1 {
+  font-size: 30px;
+  font-weight: bold;
+  padding: 5px 0;
+  /*color: #A20B0B;*/ }
+
+h2 {
+  font-size: 22px;
+  font-weight: bold;
+  color: #444; }
+
+p {
+  margin: 5px 0; }
+
+a {
+  color: #c00e11;
+  text-decoration: none; }
+
+a:hover {
+  color: #c00e11;
+  text-decoration: underline; }
+
+.headers {
+  margin-top: 2em; }
+
+.bc {
+  margin: 10px 0 30px; }
+
+a.btn {
+  display: inline-block;
+  min-width: 70px;
+  background-color: #840c0e;
+  color: #FFF;
+  padding: 5px 8px;
+  border-radius: 6px;
+  text-align: center;
+  font-size: 16px; }
+
+a.btn:hover {
+  background-color: #840c0e;
+  text-decoration: none; }
+
+/* CUSTOMISE CSS */
+.mainFrame {
+  margin: 50px auto;
+  border: 1px solid #CCC;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  padding: 20px;
+  background-color: #ecdbc2; }
+
+#Home {
+  width: 400px; }
+  #Home p {
+    margin: 20px 0;
+    font-size: 16px; }
+
+#StoreList, #CollectionList, #WatchList {
+  width: 1200px; }
+  #StoreList #formSearch .title, #CollectionList #formSearch .title, #WatchList #formSearch .title {
+    display: inline-block;
+    width: 150px; }
+  #StoreList #formSearch input[type="text"], #CollectionList #formSearch input[type="text"], #WatchList #formSearch input[type="text"] {
+    width: 500px;
+    padding: 5px 8px; }
+  #StoreList #formSearch #btnSearch, #CollectionList #formSearch #btnSearch, #WatchList #formSearch #btnSearch {
+    font-size: 16px;
+    font-weight: bold;
+    padding: 5px; }
+  #StoreList table td, #CollectionList table td, #WatchList table td {
+    padding: 5px;
+    border: 1px solid #CCC; }
+  #StoreList table thead, #CollectionList table thead, #WatchList table thead {
+    background-color: #CCC;
+    color: #000;
+    font-weight: bold; }
+  #StoreList .wrapper, #CollectionList .wrapper, #WatchList .wrapper {
+    margin: 30px 0; }
+
+#StoreAdd, #CollectionEdit, #WatchEdit {
+  width: 1200px; }
+  #StoreAdd select, #StoreAdd input[type="text"], #CollectionEdit select, #CollectionEdit input[type="text"], #WatchEdit select, #WatchEdit input[type="text"] {
+    padding: 5px 8px;
+    width: 200px; }
+  #StoreAdd select.short, #StoreAdd input.short, #CollectionEdit select.short, #CollectionEdit input.short, #WatchEdit select.short, #WatchEdit input.short {
+    width: 300px; }
+  #StoreAdd select.long, #StoreAdd input.long, #CollectionEdit select.long, #CollectionEdit input.long, #WatchEdit select.long, #WatchEdit input.long {
+    width: 800px; }
+  #StoreAdd textarea, #CollectionEdit textarea, #WatchEdit textarea {
+    width: 800px;
+    height: 100px;
+    vertical-align: top;
+    padding: 5px 8px; }
+  #StoreAdd table td, #CollectionEdit table td, #WatchEdit table td {
+    padding: 5px;
+    text-align: left;
+    vertical-align: top; }
+    #StoreAdd table td p, #CollectionEdit table td p, #WatchEdit table td p {
+      margin-bottom: 5px; }
+      #StoreAdd table td p .inputbox, #CollectionEdit table td p .inputbox, #WatchEdit table td p .inputbox {
+        display: inline-block;
+        width: 80px; }
+    #StoreAdd table td .submitbtn, #CollectionEdit table td .submitbtn, #WatchEdit table td .submitbtn {
+      font-size: 30px;
+      padding: 10px; }
+
+#StoreDetail, #CollectionDetail {
+  width: 1200px; }
+  #StoreDetail .short, #CollectionDetail .short {
+    width: 300px;
+    display: inline-block; }
+  #StoreDetail .long, #CollectionDetail .long {
+    width: 800px;
+    display: inline-block; }
+  #StoreDetail table td, #CollectionDetail table td {
+    padding: 5px;
+    text-align: left;
+    vertical-align: top; }
+    #StoreDetail table td p, #CollectionDetail table td p {
+      margin-bottom: 10px; }
+      #StoreDetail table td p .inputbox, #CollectionDetail table td p .inputbox {
+        display: inline-block;
+        width: 80px;
+        color: #900; }
+    #StoreDetail table td span, #CollectionDetail table td span {
+      vertical-align: top; }
+  #StoreDetail .control, #CollectionDetail .control {
+    margin: 50px 0 0px; }
+
+.hide {
+  display: none; }
+
+.white-popup {
+  position: relative;
+  background: #FFF;
+  padding: 20px;
+  width: auto;
+  max-width: 250px;
+  margin: 20px auto; }
+
+.item {
+  float: left;
+  width: 235px;
+  height: 235px;
+  margin: 0 20px 20px 0;
+  cursor: pointer;
+  position: relative; }
+  .item .remark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 30px 30px 0 0;
+    border-color: #fff transparent transparent transparent; }
+    .item .remark .ico {
+      position: absolute;
+      top: -35px;
+      left: 0;
+      color: #009e3b;
+      font-size: 25px; }
+      .item .remark .ico.rejected {
+        color: #ff1010; }
+  .item img {
+    width: 100%; }
+
+.white-popup:before,
+.white-popup:after,
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  display: table; }
+
+.white-popup:after,
+.clearfix:after {
+  clear: both; }
+
+.white-popup,
+.clearfix {
+  *zoom: 1; }
+
+/*# sourceMappingURL=admin.css.map */

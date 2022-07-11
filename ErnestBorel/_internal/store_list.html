@@ -1,0 +1,131 @@
+﻿<!DOCTYPE HTML>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="keywords in here">
+<meta name="description" content="Description in here">
+<meta property="og:title" content="title">
+<meta property="og:description" content="Description in here">
+<title>ErnestBorel Internal Admin</title>
+<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.9.1/build/cssreset/cssreset-min.css" >
+<link rel="stylesheet" type="text/css" href="css/select2.css">
+<link href="css/admin.css" rel="stylesheet" type="text/css" media="all">
+<!--[if lt IE 9]> HTML5Shiv
+  <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script type="text/javascript" src="js/jquery-1.11.3.js"></script>
+<script type="text/javascript" src="../js/select2.js"></script>
+<script type="text/javascript" src="js/uifn.js?v=236843"></script>
+<script type="text/javascript" src="js/store.js?v=236843"></script>
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  $(document).ready(function(){
+    StoreList.init();
+  })
+</script>
+</head>
+
+<body>
+  <div class="mainFrame" id="StoreList">
+    <h1>Store List</h1>
+    <p class="bc"><a href="home.html">Home</a> > Store</p>
+    <div class="wrapper">
+        <h2>Update drop down list:</h2>
+        <p><a class="btn" href="api/LocationActivate.ashx" target="_blank">Update</a></p>
+    </div>
+    <div class="wrapper">
+      <form id="formSearch">
+        <h2>Search by:</h2>
+        <p><span class="title">Lang: </span> 
+          <select id="lang">
+            <option value="en">English</option>
+            <option value="tc">繁中</option>
+            <option value="sc" selected>簡中</option>
+            <option value="fr">法文</option>
+            <option value="jp">日文</option>
+          </select>
+        </p>
+        <p><span class="title">Region: </span>
+          <select id="region"></select>
+        </p>
+        <p><span class="title">Country: </span>
+          <select id="country"></select>
+        </p>
+        <p class="province_wrapper"><span class="title">Province: </span>
+          <select id="province"></select>
+        </p>
+        <p><span class="title">City: </span>
+          <select id="city"></select>
+        </p>
+        <p><span class="title">Type: </span>
+          <label><input type="checkbox" checked id="pos" name="pos" value="POS"> POS</label> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <label><input type="checkbox" checked id="aftersales" name="aftersale" value="AfterSales"> After-Sales</label>
+        </p>
+        <p><span class="title">Include Deleted?: </span>
+          <select id="include_deleted">
+            <option value="1">Yes</option>
+            <option value="0" selected>No</option>
+          </select>
+        </p>
+        <p><span class="title">Name: </span> <input type="text" id="name" name="name" value="" maxlength="255" /></p>
+        <p><span class="title">Address: </span> <input type="text" id="address" name="address" value="" maxlength="255" /></p>
+        <p><span class="title">Tel: </span> <input type="text" id="tel" name="tel" value="" maxlength="20" /></p>
+        <p><span class="title">Email: </span> <input type="text" id="email" name="email" value="" maxlength="50" /></p>
+        <p><span class="title">&nbsp;</span>
+          <input type="submit" name="btnSearch" id="btnSearch" value="Search">
+        </p>
+      </form>
+    </div>
+
+    <div class="wrapper">
+      <h2>Search Result</h2>
+      <table>
+        <thead>
+          <tr>
+            <td>POS</td>
+            <td>Aftersales</td>
+            <td>City</td>
+            <td>Name</td>
+            <td>Address</td>
+            <td>Tel</td>
+            <td>Email</td>
+            <td>Is Deleted</td>
+            <td>Edit</td>
+            <td>Delete</td>
+            <td>Detail</td>
+          </tr>
+        </thead>
+        <tbody id="list"></tbody>
+      </table>
+    </div>
+    <div>
+      <a href="store_add.html" class="btn">Add a new store</a>
+    </div>
+  </div>
+
+
+
+  <div class="hide">
+    <table>
+      <tr id="template">
+        <td class="pos">Name</td>
+        <td class="aftersales">Name</td>
+        <td class="city">City</td>
+        <td class="name">Name</td>
+        <td class="address">Address</td>
+        <td class="tel">Tel</td>
+        <td class="email">Email</td>
+        <td class="is_deleted">0</td>
+        <td><a href="#" class="edit">Edit</a></td>
+        <td><a href="#" class="delete">Delete</a></td>
+        <td><a href="#" class="detail">Detail</a></td>
+      </tr>
+    </table>
+  </div>
+
+
+</body>
+</html>

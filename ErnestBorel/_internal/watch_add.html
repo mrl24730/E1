@@ -1,0 +1,130 @@
+<!DOCTYPE HTML>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="keywords in here">
+<meta name="description" content="Description in here">
+<meta property="og:title" content="Add Store - ErnestBorel Admin">
+<meta property="og:description" content="Description in here">
+<title>ErnestBorel Internal Admin</title>
+<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.9.1/build/cssreset/cssreset-min.css" >
+<link rel="stylesheet" type="text/css" href="css/select2.css">
+<link href="css/admin.css" rel="stylesheet" type="text/css" media="all">
+<!--[if lt IE 9]> HTML5Shiv
+  <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script type="text/javascript" src="js/jquery-1.11.3.js"></script>
+<script type="text/javascript" src="../js/select2.js"></script>
+<script type="text/javascript" src="js/uifn.js"></script>
+<script type="text/javascript" src="js/watch.js"></script>
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+
+  $(document).ready(function(){
+    WatchAdd.init();
+  });
+</script>
+</head>
+
+<body>
+  <div class="mainFrame" id="WatchEdit">
+    <h2>Add Watch</h2>
+    <p class="bc"><a href="home.html">Home</a> > <a href="collection_list.html">Collection</a> > <a class="bc_watch" href="watch_list.html#id={id}&lang={lang}&name={name}">Watch List</a> > Add Watch</p>
+      <form id="form1" name="form1" action="" method="POST">
+      <table style="width:100%">
+        <tr>
+          <td>Model Number:</td>
+          <td><input type="text" id="idx" name="idx" class="short" value=""></td>
+        </tr>
+        <tr>
+          <td>Collection:</td>
+          <td>
+            <select id="idx_collection" name="idx_collection"></select>
+          </td>
+        </tr>
+        <tr>
+          <td>Sort:</td>
+          <td><input type="text" id="sort" name="sort" class="short" value="0"></td>
+        </tr>
+        <tr>
+          <td class="inputboxname inputboxname_align"><p>Spec:</p></td>
+          <td class="inputboxname inputboxname_align">
+            <p><span class="inputbox">ENGLISH</span><textarea id="spec_en" name="ENGLISH" class="long" >&nbsp;</textarea></p>
+            <p><span class="inputbox">简体中文</span><textarea id="spec_sc" name="简体中文" class="long" >&nbsp;</textarea></p>
+            <p><span class="inputbox">繁體中文</span><textarea id="spec_tc" name="繁體中文" class="long" >&nbsp;</textarea></p>
+            <p><span class="inputbox">日本語</span><textarea id="spec_jp" name="日本語" class="long" >&nbsp;</textarea></p>
+            <p><span class="inputbox">FRANÇAIS</span><textarea id="spec_fr" name="FRANÇAIS" class="long" >&nbsp;</textarea></p>
+          </td>
+        </tr>
+        <tr>
+          <td>Gender:</td>
+          <td>
+            <select id="gender" name="gender" class="short">
+              <option value="" selected>---</option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <td>Matching:</td>
+          <td><input type="text" id="matching" name="matching" class="short" value=""></td>
+        </tr>
+        <tr>
+          <td>Bracelet:</td>
+          <td>
+            <select id="bracelet" name="bracelet" class="short">
+              <option value="" selected>---</option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <td>Case:</td>
+          <td>
+            <select id="case" name="case" class="short">
+              <option value="" selected>---</option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <td>Shape:</td>
+          <td>
+            <select id="shape" name="shape" class="short">
+              <option value="" selected>---</option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <td>Surface1:</td>
+          <td>
+            <select id="surface1" name="surface1" class="short">
+              <option value="" selected>---</option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <td>Surface2:</td>
+          <td>
+            <select id="surface2" name="surface2" class="short">
+              <option value="" selected>---</option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <td>Surface3:</td>
+          <td>
+            <select id="surface3" name="surface3" class="short">
+              <option value="" selected>---</option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>      
+          <td><input type="submit" id="send" name="send" value="Add" class="submitbtn"></td>
+        </tr>
+      </table>
+    </form>
+  </div>
+</body>
+</html>

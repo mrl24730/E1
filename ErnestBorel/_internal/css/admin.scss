@@ -1,0 +1,184 @@
+/* Useful scss mixins */
+@mixin box-shadow($top, $left, $blur, $color, $inset: false) {
+  @if $inset {
+    -webkit-box-shadow:inset $top $left $blur $color;
+    -moz-box-shadow:inset $top $left $blur $color;
+    box-shadow:inset $top $left $blur $color;
+  } @else {
+    -webkit-box-shadow: $top $left $blur $color;
+    -moz-box-shadow: $top $left $blur $color;
+    box-shadow: $top $left $blur $color;
+  }
+}
+ 
+@mixin rounded($radius: 0.5em) {
+  -webkit-border-radius: $radius;
+  -moz-border-radius: $radius;
+  border-radius: $radius;
+}
+
+@mixin gradient($from, $to) {
+  background: -webkit-gradient(linear, left top, left bottom, from($from), to($to));
+  background: -moz-linear-gradient(top,  $from, $to);
+  filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#{$from}', endColorstr='#{$to}');
+}
+
+
+/* JQUERY UI CSS */
+html{
+  background: #3e0708;
+  @include gradient(rgb(62,7,8),rgb(0,0,0));
+  min-height: 100%;
+}
+
+
+
+
+
+body{font: 12px "Trebuchet MS", sans-serif; margin: 0px; }
+
+h1{ font-size: 30px; font-weight: bold; padding: 5px 0; /*color: #A20B0B;*/ }
+h2{font-size: 22px; font-weight: bold; color:#444;}
+p{margin: 5px 0;}
+a{ color: #c00e11; text-decoration: none;}
+a:hover{ color: #c00e11; text-decoration: underline;}
+
+.headers {margin-top: 2em; }
+.bc { margin: 10px 0 30px;}
+
+a.btn{ display: inline-block; min-width: 70px; background-color: #840c0e; color: #FFF; padding: 5px 8px; border-radius: 6px; text-align: center; font-size: 16px;}
+a.btn:hover{ background-color: #840c0e; text-decoration: none;}
+
+
+/* CUSTOMISE CSS */
+.mainFrame{ margin: 50px auto; border: 1px solid #CCC; @include rounded(4px); padding: 20px; background-color: #ecdbc2;}
+
+
+#Home{
+	width: 400px; 
+  p{margin: 20px 0; font-size: 16px;}
+}
+
+
+#StoreList, #CollectionList, #WatchList{
+  width: 1200px;
+  #formSearch{
+    .title{display: inline-block; width: 150px;}  
+    input[type="text"]{width: 500px; padding: 5px 8px;}
+    #btnSearch{ font-size: 16px; font-weight: bold; padding: 5px;}
+  }
+  
+  table td{
+    padding: 5px; border: 1px solid #CCC;
+  }
+
+  table thead{
+    background-color: #CCC; color: #000; font-weight: bold;
+  }
+
+  .wrapper{ margin: 30px 0;}
+}
+
+#StoreAdd, #CollectionEdit, #WatchEdit{
+  width: 1200px;
+  select, input[type="text"]{padding: 5px 8px; width: 200px;}
+  select.short, input.short{ width: 300px;}
+  select.long, input.long{ width: 800px;}
+  textarea{ width: 800px; height: 100px; vertical-align: top; padding: 5px 8px;}
+  table td{
+    padding: 5px;
+    text-align: left; vertical-align: top;
+    p{ 
+      margin-bottom: 5px;
+      .inputbox{ display: inline-block; width: 80px;}
+    }
+    .submitbtn{ font-size: 30px; padding: 10px;}
+  }
+}
+
+#StoreDetail, #CollectionDetail{
+  width: 1200px;
+  
+  .short{ width: 300px; display: inline-block;}
+  .long{ width: 800px; display: inline-block;}
+  table td{
+    padding: 5px;
+    text-align: left;  vertical-align: top;
+    p{ 
+      margin-bottom: 10px;
+      .inputbox{ display: inline-block; width: 80px; color: #900;}
+    }
+    span{ vertical-align: top;}
+  }
+
+  .control{
+    margin: 50px 0 0px;
+  }
+}
+
+.hide{display: none;}
+
+.white-popup {
+      position: relative;
+      background: #FFF;
+      padding: 20px;
+      width: auto;
+      max-width: 250px;
+      margin: 20px auto;
+    }
+.item {
+  float:left;
+  width:235px;
+  height:235px;
+  margin:0 20px 20px 0;
+  cursor: pointer;
+  position: relative;
+  
+
+  .remark{
+    position: absolute;
+    top:0;
+    left:0;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 30px 30px 0 0;
+    border-color: #fff transparent transparent transparent;
+
+    .ico {
+      position: absolute;
+      top:-35px;
+      left:0;
+      color:#009e3b;
+      font-size:25px;
+
+      &.rejected {
+        color:#ff1010;
+      }
+    }
+  }
+  img {width:100%;}
+}
+
+.white-popup:before,
+.white-popup:after,
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  display: table;
+}
+ 
+.white-popup:after,
+.clearfix:after {
+  clear: both;
+}
+ 
+.white-popup,
+.clearfix {
+  *zoom: 1;
+}
+ 
+
+
+
+
