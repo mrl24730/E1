@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ernest Borel</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="imageDesc"></string>
+    <string name="title_collection">产品一览</string>
+    <string name="title_brand">品牌历史</string>
+    <string name="title_news">企业新闻</string>
+    <string name="title_stores">销售点</string>
+    <string name="title_aftersale">售后服务点</string>
+    <string name="title_wallpapers">下载手机桌布</string>
+	<string name="title_time">世界时计</string>    
+    
+		<string name="brand_videoheader">品牌简介短片</string>
+	<string name="brand_videocopyright">瑞士依波路表位于瑞士Le Noirmont的厂房片段</string>
+	<string name="brand_content">瑞士依波路始创于1856年，迄今已有157年历史。品牌一直以“浪漫时刻”为核心，始终秉承“坚固耐用，精确可靠，佩戴舒适，美观实用”的设计理念，
+	    以“精益求精”的探索精神，运用高新技术结合瑞士的传统制表工艺，从而奠定了在钟表领域的重要地位。\n\n
+经过长足的发展，瑞士依波路表的销售市场在全球快速扩展，从南北美洲到欧亚各国，随后有感于亚洲的发展潜力，于1903年正式进入中国。到目前为止，已在中国各大城市设立750个销售点，近年更积极开设旗舰店，大幅度提升品牌形象和品牌价值。</string>
+	
+	<string name="title_info">功能</string>
+
+	<string name="times_addcity">点选此处以加入城市</string>
+	<string name="times_searchHints">搜索城市</string>
+	<string name="times_today">今天</string>
+	<string name="times_tomorrow">明天</string>
+	<string name="times_yesterday">昨天</string>
+	
+	<string name="pdialog_complete">照片已储存至相册</string> 
+	<string name="pdialog_ok">确定</string> 
+	
+	<string name="timezone_name_amsterdam">阿姆斯特丹</string>
+	<string name="timezone_name_vienna">维也纳</string>
+	<string name="timezone_name_brussels">布鲁塞尔</string>
+	<string name="timezone_name_prague">布拉格</string>
+	<string name="timezone_name_copenhagen">哥本哈根</string>
+	<string name="timezone_name_paris">巴黎</string>
+	<string name="timezone_name_berlin">柏林</string>
+	<string name="timezone_name_vatican">梵蒂冈城</string>
+	<string name="timezone_name_rome">罗马</string>
+	<string name="timezone_name_monaco">摩纳哥</string>
+	<string name="timezone_name_oslo">奥斯陆</string>
+	<string name="timezone_name_warsaw">华沙</string>
+	<string name="timezone_name_madrid">马德里</string>
+	<string name="timezone_name_stockholm">斯德哥尔摩</string>
+	<string name="timezone_name_berne">伯尔尼</string>
+	<string name="timezone_name_cairo">开罗</string>
+	<string name="timezone_name_helsinki">赫尔辛基</string>
+	<string name="timezone_name_athens">雅典</string>
+	<string name="timezone_name_bucharest">布加勒斯特</string>
+	<string name="timezone_name_ankara">安卡拉</string>
+	<string name="timezone_name_kiev">乌克兰基辅</string>
+	<string name="timezone_name_istanbul">伊斯坦布尔</string>
+	<string name="timezone_name_kuwait">科威特市</string>
+	<string name="timezone_name_antananarivo">塔那那利佛</string>
+	<string name="timezone_name_tehran">德黑兰</string>
+	<string name="timezone_name_muscat">马斯喀特</string>
+	<string name="timezone_name_doha">多哈</string>
+	<string name="timezone_name_riyadh">利雅得</string>
+	<string name="timezone_name_moscow">莫斯科</string>
+	<string name="timezone_name_abudhabi">阿布扎比</string>
+	<string name="timezone_name_portlouis">路易港</string>
+	<string name="timezone_name_kabul">喀布尔</string>
+	<string name="timezone_name_male">马累</string>
+	<string name="timezone_name_islamabad">伊斯兰堡</string>
+	<string name="timezone_name_newdelhi">新德里</string>
+	<string name="timezone_name_colombo">可伦坡</string>
+	<string name="timezone_name_thimphu">廷布</string>
+	<string name="timezone_name_dhaka">达卡</string>
+	<string name="timezone_name_yangon">仰光</string>
+	<string name="timezone_name_phnompenh">金边</string>
+	<string name="timezone_name_jakarta">雅加达</string>
+	<string name="timezone_name_bangkok">曼谷</string>
+	<string name="timezone_name_hanoi">河内</string>
+	<string name="timezone_name_beijing">北京</string>
+	<string name="timezone_name_shanghai">上海</string>
+	<string name="timezone_name_macau">澳门</string>
+	<string name="timezone_name_kualalumpur">吉隆坡</string>
+	<string name="timezone_name_ulanbator">乌兰巴托</string>
+	<string name="timezone_name_manila">马尼拉</string>
+	<string name="timezone_name_singapore">新加坡</string>
+	<string name="timezone_name_taipei">台北</string>
+	<string name="timezone_name_hongkong">香港</string>
+	<string name="timezone_name_chongqing">重庆</string>
+	<string name="timezone_name_tokyo">东京</string>
+	<string name="timezone_name_osaka">大阪</string>
+	<string name="timezone_name_seoul">汉城</string>
+	<string name="timezone_name_adelaide">阿德莱德</string>
+	<string name="timezone_name_darwin">达尔文</string>
+	<string name="timezone_name_brisbane">布里斯班</string>
+	<string name="timezone_name_hagatna">阿加尼亚</string>
+	<string name="timezone_name_melbourne">墨尔本</string>
+	<string name="timezone_name_canberra">堪培拉</string>
+	<string name="timezone_name_sydney">悉尼</string>
+	<string name="timezone_name_solomonislands">索罗门群岛</string>
+	<string name="timezone_name_newcaledonia">新喀里多尼亚</string>
+	<string name="timezone_name_portvila">维拉港</string>
+	<string name="timezone_name_suva">苏瓦，斐济</string>
+	<string name="timezone_name_magadan">马加丹，俄罗斯</string>
+	<string name="timezone_name_auckland">奥克兰</string>
+	<string name="timezone_name_wellington">威灵顿</string>
+	<string name="timezone_name_samoa">萨摩亚</string>
+	<string name="timezone_name_nuku">努库阿洛法</string>
+	<string name="timezone_name_dublin">都柏林</string>
+	<string name="timezone_name_lisbon">里斯本</string>
+	<string name="timezone_name_london">伦敦</string>
+	<string name="timezone_name_azores">亚速群岛</string>
+	<string name="timezone_name_dakar">达喀尔</string>
+	<string name="timezone_name_brasilia">巴西利亚</string>
+	<string name="timezone_name_midatlantic">中大西洋</string>
+	<string name="timezone_name_greenland">格陵兰</string>
+	<string name="timezone_name_fortaleza">福塔莱萨</string>
+	<string name="timezone_name_buenosaires">布宜诺斯艾利斯</string>
+	<string name="timezone_name_santiago">圣地亚哥</string>
+	<string name="timezone_name_newfoundland">纽芬兰</string>
+	<string name="timezone_name_hamiltonbermuda">汉密尔顿,百慕大</string>
+	<string name="timezone_name_britishvirginislands">英属维京群岛</string>
+	<string name="timezone_name_sanjuanpuertorico">圣胡安,波多黎各</string>
+	<string name="timezone_name_castries">卡斯特里</string>
+	<string name="timezone_name_caracas">加拉加斯</string>
+	<string name="timezone_name_nassaubahamas">拿索,巴哈马</string>
+	<string name="timezone_name_toronto">多伦多</string>
+	<string name="timezone_name_havana">哈瓦那</string>
+	<string name="timezone_name_kingston">金斯敦</string>
+	<string name="timezone_name_panamacity">巴拿马城</string>
+	<string name="timezone_name_washington">华盛顿</string>
+	<string name="timezone_name_sanjose">圣何塞</string>
+	<string name="timezone_name_mexicocity">墨西哥城</string>
+	<string name="timezone_name_chicago">芝加哥</string>
+	<string name="timezone_name_chihuahua">吉娃娃</string>
+	<string name="timezone_name_arizona">亚利桑那州</string>
+	<string name="timezone_name_losangeles">洛杉矶</string>
+	<string name="timezone_name_pitcairnislands">皮特肯群岛</string>
+	<string name="timezone_name_vancouver">温哥华</string>
+	<string name="timezone_name_alaska">阿拉斯加州</string>
+	<string name="timezone_name_honoluluhawaii">檀香山,夏威夷</string>
+	<string name="timezone_name_midwayatoll">中途岛</string>
+	<string name="timezone_name_enderburyisland">恩德伯里岛</string>
+	<string name="timezone_name_kwajaleinatoll">瓜加林环礁</string>
+	<string name="timezone_name_switzerland">瑞士</string>
+	
+	<string name="instagram_not_found">Instagram not found"</string>
+	
+</resources>

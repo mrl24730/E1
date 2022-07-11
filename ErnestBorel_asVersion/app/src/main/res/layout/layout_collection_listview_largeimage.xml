@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    
+	<ImageView
+      	android:layout_width="fill_parent"
+      	android:layout_height="fill_parent"
+      	android:background="@drawable/general_bg"
+     	android:contentDescription="@string/imageDesc"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"  />
+	
+	 <ImageView
+	    android:id="@+id/Collection_Detail_LargeImage"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:layout_centerHorizontal="true"
+	    android:layout_centerVertical="true"
+	    android:background="@drawable/collection_detail_largeimage_loading"
+	    android:contentDescription="@string/imageDesc"
+	    android:scaleType="matrix" />
+	
+	<Button
+		android:id="@+id/Collection_Detail_LargeClose"
+		android:layout_width="wrap_content"
+	  	android:layout_height="wrap_content"
+     	android:contentDescription="@string/imageDesc"
+	  	android:layout_alignParentTop="true"
+	  	android:layout_alignParentRight="true"
+       	android:layout_marginTop="30dp"
+	 	android:background="@drawable/collection_detail_close" />
+	
+</RelativeLayout>
+
+<!-- <ImageView
+	    android:id="@+id/Collection_Detail_LargeImage"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:layout_centerHorizontal="true"
+	    android:layout_centerVertical="true"
+	    android:background="@drawable/collection_detail_largeimage_loading"
+	    android:contentDescription="@string/imageDesc"
+	    android:scaleType="center" /> -->
+	    
+<!-- 	    <com.ernestborel.CollectionObject.TouchImageView
+	    android:id="@+id/Collection_Detail_LargeImage"
+      	android:layout_width="fill_parent"
+      	android:layout_height="fill_parent"  /> -->

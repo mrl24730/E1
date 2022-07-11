@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    
+    <ImageView
+      	android:id="@+id/Collection_CellBg"
+      	android:layout_width="wrap_content"
+      	android:layout_height="wrap_content"
+      	android:background="@drawable/collection_tablebg"
+     	android:contentDescription="@string/imageDesc"
+        android:layout_centerVertical="true"  />
+    
+    <ImageView
+      	android:id="@+id/Collection_CellBg_HighLight"
+      	android:layout_width="wrap_content"
+      	android:layout_height="wrap_content"
+      	android:background="@drawable/collection_tablebg_selected"
+     	android:contentDescription="@string/imageDesc"
+        android:layout_centerVertical="true"  />
+    
+    <RelativeLayout 
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal"
+    	android:gravity="center_vertical"
+        android:layout_centerVertical="true" >
+    	
+        <ImageView
+      		android:id="@+id/Collection_TitleImage"
+      		android:layout_width="wrap_content"
+      		android:layout_height="wrap_content"
+      		android:background="@drawable/collection_tableicon"
+     		android:contentDescription="@string/imageDesc"
+       		android:layout_marginLeft="0dp"
+        	android:layout_centerVertical="true" 
+	   		android:scaleType="fitCenter" />
+
+        <ImageView
+      		android:id="@+id/Collection_ArrowImage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/general_rightarrow"
+            android:contentDescription="@string/imageDesc"
+       		android:layout_centerVertical="true"
+       		android:layout_marginRight="5dp"  />
+
+        <TextView
+            android:id="@+id/Collection_Item_SubTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/Collection_TitleImage"
+            android:layout_toLeftOf="@+id/Collection_ArrowImage"
+            android:ellipsize="end"
+            android:gravity="left"
+            android:maxLines="1"
+            android:text="Techno Sports Collection"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"
+            android:textStyle="bold"
+       	 	android:layout_centerVertical="true"
+       		android:layout_marginLeft="0dp"  />
+        
+    </RelativeLayout>
+    
+</RelativeLayout>

@@ -1,0 +1,261 @@
+<!DOCTYPE HTML>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="keywords in here">
+<meta name="description" content="Description in here">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta property="og:title" content="XMLgenerator">
+<meta property="og:description" content="Description in here">
+<title>XMLgenerator</title>
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css" >
+<link rel="stylesheet" type="text/css" href="//code.jquery.com/ui/1.11.2/themes/black-tie/jquery-ui.css" >
+<!--[if lt IE 9]>
+	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script>
+	document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="//code.jquery.com/ui/1.11.2/jquery-ui.min.js"></script>
+<script src="js/vkbeautify.0.99.00.beta.js"></script>
+<script src="js/FileSaver.min.js"></script>
+<script type="text/javascript">
+
+window.dataJson = null;
+window.dataXML = null;
+window.ttlCity = 0;
+window.currentCity = 0;
+	$(document).ready(function(){
+		init();
+	})
+
+	function init(){
+		$(".btn-go").click(function(){
+			$(this).attr("disabled","disabled");
+			$(this).val("Loading...");
+			$("active").empty();
+			genXML.init($(".sel-lang").val());
+		});
+
+		$( "input[type=button], a, button" ).button();
+		$("select").selectmenu();
+	}
+
+	var genXML = {
+
+		init:function(_lang){
+
+			var that = this;
+
+			$.ajax({
+			  type: "GET",
+			  url: "api/getLocation.ashx",
+			  data: { lang: _lang}
+			})
+			  .success(function( result ) {
+			  	that.setInitData(result,_lang);
+			  });
+		},
+
+		setInitData:function(_data,_lang){
+			var that = this;
+			for(var i = 0; i < _data.region.length; i++){
+				var region = _data.region[i];
+				var dom_region = $("<div/>");
+				dom_region.addClass("region").attr("title",region.name);
+
+				for(var j = 0; j < region.country.length; j++){
+					var country = region.country[j];
+					
+					var dom_country = $("<div/>");
+					dom_country.addClass("country").attr("title",country.name);
+
+					for(var k = 0; k < country.city.length; k++){
+						var city = country.city[k];
+						var dom_city = $("<div/>");
+						dom_city.addClass("city").attr("title",city.name);
+						//AJAX load
+						that.getShop(_lang,i,j,k,city.id);
+						dom_country.append(dom_city);
+
+					}
+					window.ttlCity += country.city.length;
+					dom_region.append(dom_country);
+				}
+
+				$("active").append(dom_region);
+			}
+
+			$(".debug").append($("<p/>").text("Total City:" + window.ttlCity));
+		},
+
+		getShop:function(lang,r,c,cc,ccIdx){
+			var that = this;
+			$.ajax({
+			  type: "POST",
+			  url: "api/getStore.ashx",
+			  data: { lang: lang, id: ccIdx, addSplit:true,shop_type:$(".sel-shop").val() }
+			})
+			  .success(function(_data) {
+			  	var dom_city =  
+			  					$(
+				  					$( 
+				  						$(".region").get(r)
+				  					).find(".country").get(c)
+			  					).find(".city").get(cc);
+
+				dom_city = $(dom_city);
+
+				for(var i = 0; i < _data.shop.length; i++){
+			    	var shop = _data.shop[i];
+			    	var dom_shop = $("<div/>");
+
+			    	dom_shop.addClass("shop");
+			    	//Name
+			    	dom_shop.append($("<h4/>").text(shop[0]));
+
+			    	//Address
+			    	dom_shop.append($("<p/>").text(shop[1]).addClass("address"));
+
+			    	//Contact
+			    	
+			    	if(shop[2] == ""){
+
+			    		var contact = $("<p/>");
+			    		contact.addClass("contact hidden");
+
+			    		dom_shop.append(contact);
+			    	}else{
+			    		var contacts = shop[2].split("//");
+			    		for(var j = 0; j < contacts.length; j++){
+
+			    			if(contacts[j] != ""){
+				    			var contact = $("<p/>");
+				    			contact.addClass("contact");
+				    			contact.text(contacts[j]);
+				    			dom_shop.append(contact);
+			    			}
+
+			    		}
+			    	}
+			    	
+
+			    	//Lat
+			    	dom_shop.append($("<p/>").text(shop[3]).addClass("lat"));
+
+			    	//Lng
+			    	dom_shop.append($("<p/>").text(shop[4]).addClass("lng"));
+
+
+
+			    	dom_city.append(dom_shop);
+
+			    	var isFlagStore = false;
+			    	if(shop[6] == "-1"){
+						dom_city.find(".separateLine").remove();
+						dom_city.append($("<div/>").addClass("separateLine"));
+			    	}
+			    }//end for loop shop 
+			    
+			    $(".debug").append($("<p/>").text(ccIdx + "...Completed..."));
+			    window.currentCity++;
+
+			    if(window.currentCity == window.ttlCity){
+			    	$(".debug").append($("<p/>").text("DONE!!!"));
+
+			    	$("data").attr("ts",that.getDate());
+			    	var code = $(".xml").html();
+			    	code = '<?xml version="1.0" encoding="utf-8"?>' + code.toString();
+			    	
+			    	code = vkbeautify.xml(code);
+			    	$(".output").text(code);
+
+			    	that.save(lang);
+
+			    	$(".btn-go").removeAttr("disabled");
+					$(".btn-go").val("GO!");
+			    }
+			  });
+		},
+
+		getDate : function(){
+			var d = new Date();
+
+			return (
+				(d.getFullYear()) + "-" + 
+			    ("00" + (d.getMonth() + 1)).slice(-2) + "-" + 
+			    ("00" + d.getDate()).slice(-2) + " " + 
+			    
+			    ("00" + d.getHours()).slice(-2) + ":" + 
+			    ("00" + d.getMinutes()).slice(-2) + ":" + 
+			    ("00" + d.getSeconds()).slice(-2)
+			);
+		},
+
+		save : function(_lang){
+			var html = $(".output").text();
+			
+				  BB = window.Blob
+				, xml_serializer = new XMLSerializer()
+				, doc = html
+			;
+			saveAs(
+				  new BB(
+					  [html]
+					, {type: "application/xhtml+xml;charset=" + document.characterSet}
+				)
+				, ("cs_{0}_{1}.xml").replace("{0}",$(".sel-shop").children(':selected').text()).replace("{1}",_lang)
+			);
+		}
+	}
+
+
+</script>
+<style type="text/css">
+select {
+	width:200px;
+}
+input{
+	vertical-align: top !important;
+}
+</style>
+</head>
+
+<body>
+	<!-- Document Content Start -->
+	<div id="doc">
+		<select class="sel-shop">
+			<option value="0">network</option>
+			<option value="1">distributor</option>
+		</select>
+
+		<select class="sel-lang">
+			<option value="sc">SC</option>
+			<option value="tc">TC</option>
+			<option value="en">EN</option>
+			<option value="jp">JP</option>
+			<option value="fr">FR</option>
+		</select>
+
+		<input type="button" class="btn-go" value="GO!">
+	</div>
+
+	<div class="debug"></div>
+	<pre class="xml">
+		
+		<data ts="2014-09-02 00:00:00">
+			<active></active>
+		</data>
+	</pre>
+	<div class="output"></div>
+	<!-- Document Content End -->
+
+	<!--
+
+</body>
+</html>

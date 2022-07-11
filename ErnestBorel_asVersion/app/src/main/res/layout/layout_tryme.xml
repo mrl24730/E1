@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <RelativeLayout
+	    android:id="@+id/TryMe_CameraView"
+    	android:layout_width="match_parent"
+    	android:layout_height="match_parent"
+    	android:orientation="vertical" >
+    	
+		<SurfaceView
+		    android:id="@+id/TryMe_CameraSurfaceView"
+		    android:layout_width="fill_parent"
+		    android:layout_height="fill_parent"
+		    android:layout_below="@+id/TryMe_PickPhotoTopBar" />
+		
+		<ImageView
+			android:id="@+id/TryMe_PickPhotoTopBar"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:background="@drawable/general_menutopbar"
+		    android:contentDescription="@string/imageDesc"
+		    android:layout_centerHorizontal="true"  />
+		
+				<ImageView
+		    android:id="@+id/TryMe_Outline"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:background="@drawable/collection_detail_outline"
+		    android:layout_centerHorizontal="true"		
+		    android:layout_centerVertical="true"		    
+		    />
+
+		
+		<Button
+		    android:id="@+id/TryMe_PickPhotoBtn"
+	 		android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+            android:background="@drawable/tryme_camera_pickphotobtn" 
+	 		android:layout_alignParentBottom="true"
+	        android:layout_centerHorizontal="true"
+	        android:layout_marginBottom="10dp" />
+			
+	</RelativeLayout>
+	
+    <RelativeLayout
+	    android:id="@+id/TryMe_ImageLayout"
+    	android:layout_width="match_parent"
+    	android:layout_height="match_parent"
+    	android:orientation="vertical"
+	    android:visibility="gone" >
+	
+        <ImageView
+	      	android:layout_width="wrap_content"
+	      	android:layout_height="wrap_content"
+	      	android:background="@drawable/collection03"
+	     	android:contentDescription="@string/imageDesc"
+	        android:layout_centerVertical="true"
+	        android:layout_centerHorizontal="true"  />
+        
+        <RelativeLayout
+		    android:id="@+id/TryMe_CaptureImageLayout"
+	    	android:layout_width="match_parent"
+	    	android:layout_height="match_parent"
+	    	android:orientation="vertical" >
+		    
+			<ImageView
+			    android:id="@+id/TryMe_ImageView"
+		      	android:layout_width="fill_parent"
+		      	android:layout_height="fill_parent"
+		     	android:contentDescription="@string/imageDesc"
+		    	android:layout_below="@+id/TryMe_PickPhotoImageTopBar"
+		     	android:scaleType="fitXY"/>
+			
+			<ImageView
+			    android:id="@+id/TryMe_PickPhotoImageTopBar"
+		      	android:layout_width="wrap_content"
+		      	android:layout_height="wrap_content"
+		      	android:background="@drawable/general_menutopbar"
+		     	android:contentDescription="@string/imageDesc"
+		        android:layout_centerHorizontal="true" 
+		        android:visibility="invisible" />
+		
+			<ImageView
+			    android:id="@+id/TryMe_WatchImage"
+			    android:layout_width="fill_parent"
+			    android:layout_height="fill_parent"
+			    android:layout_centerHorizontal="true"
+			    android:layout_centerVertical="true"
+			    android:background="@drawable/collection_detail_largeimage_loading"
+			    android:contentDescription="@string/imageDesc"
+			    android:scaleType="matrix" />
+			
+			
+			<ImageView
+		    android:id="@+id/TryMe_PopupMsg"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:background="@drawable/collection_detail_tipbox"
+		    android:layout_centerHorizontal="true"		
+		    android:layout_centerVertical="true"		    
+		    />
+		
+		</RelativeLayout>
+		
+		<RelativeLayout
+		    android:id="@+id/TryMe_ImageBarLayout"
+	    	android:layout_width="match_parent"
+	    	android:layout_height="match_parent"
+	    	android:orientation="vertical" >
+		    
+		    <Button
+			    android:id="@+id/TryMe_RetakeBtn"
+		 		android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+	            android:background="@drawable/collection_retakebtn"
+		 		android:layout_alignParentBottom="true"
+		 		android:layout_alignParentLeft="true"
+				android:layout_marginLeft="10dp"
+	        	android:layout_marginBottom="10dp" />
+			
+			<Button
+			    android:id="@+id/TryMe_SaveBtn"
+		 		android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+	            android:background="@drawable/collection_savebtn"
+		 		android:layout_alignParentBottom="true"
+		 		android:layout_alignParentRight="true"
+				android:layout_marginRight="10dp"
+	        	android:layout_marginBottom="10dp" />
+			
+			<Button
+			    android:id="@+id/TryMe_InstagramBtn"
+		 		android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+	            android:background="@drawable/collection_save_inst_btn"
+		    	android:layout_centerHorizontal="true"		
+		 		android:layout_alignParentBottom="true"
+	        	android:layout_marginBottom="10dp" />
+			
+		    <Button
+			    android:id="@+id/TryMe_RetakeBtn2"
+		 		android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+	            android:background="@drawable/collection_retakebtn"
+	            android:layout_alignTop="@id/TryMe_InstagramBtn"
+	            android:layout_alignLeft="@id/TryMe_InstagramBtn" />
+			
+			<Button
+			    android:id="@+id/TryMe_SaveBtn2"
+		 		android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+	            android:background="@drawable/collection_savebtn"
+	            android:layout_alignTop="@id/TryMe_InstagramBtn"
+	            android:layout_alignRight="@id/TryMe_InstagramBtn"  />
+			
+		</RelativeLayout>
+	
+	</RelativeLayout>
+	
+</RelativeLayout>
+
+
+			<!-- <com.ernestborel.CollectionObject.TouchImageView
+			    android:id="@+id/TryMe_WatchImage"
+			    android:layout_width="fill_parent"
+			    android:layout_height="fill_parent" /> -->

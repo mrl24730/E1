@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="fill_parent" 
+    >
+     
+   	  <FrameLayout android:layout_width="fill_parent"
+        		android:layout_height="fill_parent"
+        	    android:layout_centerVertical="true"
+	        	android:layout_centerHorizontal="true"
+	        	android:id="@+id/Collection_FrameLayout" >
+	        	
+	        <ImageView
+	        	android:id="@+id/Collection_Detail_WatchImage"
+	      		android:layout_width="wrap_content"
+	      		android:layout_height="wrap_content"
+	      		android:layout_gravity="center_vertical|center_horizontal"
+	      		android:background="@drawable/collection_detail_watch"
+	     		android:contentDescription="@string/imageDesc" />
+	        
+	          <Button
+	            android:id="@+id/Collection_Detail_Zoom"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_marginRight="60dp"
+	            android:layout_marginTop="60dp"	       
+	            android:layout_gravity="right"     
+	            android:background="@drawable/collection_detail_zoom" />        
+      
+	     </FrameLayout>
+        
+   	  <RelativeLayout 
+   	      android:layout_width="fill_parent"
+   	      android:layout_height="wrap_content"
+   	      android:layout_alignParentBottom="true" 
+   	      android:layout_centerHorizontal="true"
+   	      android:layout_marginBottom="30dp"
+   	      >
+   	      
+   	         <TextView
+            android:id="@+id/Collection_Detail_WatchNum"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:maxLines="1"
+            android:text="GS608-2556"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+       		 />
+        
+        <Button
+            android:id="@+id/Collection_Detail_TryMe"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"          
+            android:layout_toLeftOf="@id/Collection_Detail_WatchNum"            
+            android:layout_marginRight="10dp"
+            android:background="@drawable/collection_detail_try"
+            android:visibility="gone" />
+        
+        <Button
+            android:id="@+id/Collection_Detail_Info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"			                         
+            android:layout_toRightOf="@id/Collection_Detail_WatchNum"
+            android:layout_marginLeft="10dp"            
+            android:background="@drawable/collection_detail_info" />
+   	      
+   	  </RelativeLayout>    
+
+        <RelativeLayout
+            android:id="@+id/Collection_Detail_InfoLayout"
+    		android:layout_width="match_parent"
+    		android:layout_height="match_parent"
+    		android:visibility="gone" >
+    		
+            <ImageView
+	            android:id="@+id/Collection_Detail_InfoBg"
+	      		android:layout_width="fill_parent"
+	      		android:layout_height="wrap_content"
+	      		android:background="@drawable/collection_detail_bg"
+	     		android:contentDescription="@string/imageDesc"
+	        	android:layout_centerHorizontal="true"
+	        	android:layout_alignParentBottom="true" />
+            
+            <Button
+	            android:id="@+id/Collection_Detail_InfoClose"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_above="@+id/Collection_Detail_InfoBg"
+	            android:layout_alignParentRight="true"
+	            android:background="@drawable/collection_detail_close" />
+            
+            <ScrollView
+				android:id="@+id/Collection_Detail_Info_ScrollView"
+				android:layout_height="wrap_content"
+				android:layout_width="fill_parent"
+				android:layout_alignTop="@+id/Collection_Detail_InfoBg">
+	    
+                <LinearLayout
+					android:id="@+id/Collection_Detail_Info_ScrollView_LinearLayout"
+					android:orientation="vertical"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:gravity="left" >
+					
+		            <TextView
+		            	android:id="@+id/Collection_Detail_InfoTitel"
+		            	android:layout_width="wrap_content"
+		            	android:layout_height="wrap_content"
+		            	android:ellipsize="end"
+		            	android:gravity="left"
+		            	android:maxLines="1"
+		            	android:text="@string/title_info"
+		            	android:textColor="@android:color/white"
+		            	android:textSize="20sp"
+		            	android:textStyle="bold"
+		       			android:layout_marginTop="10dp"
+		       			android:layout_marginLeft="20dp" />
+				
+		             <TextView
+		            	android:id="@+id/Collection_Detail_InfoText"
+		            	android:layout_width="wrap_content"
+		            	android:layout_height="wrap_content"
+		            	android:ellipsize="end"
+		            	android:gravity="left"
+		            	android:maxLines="999"
+		            	android:text="Model: GS608-2556\nSwiss made quartz movement\nDate indication\nStainless steel case and bracelet\nSapphire crystal\n5 ATM Water"
+		            	android:textColor="@android:color/white"
+		            	android:textSize="15sp"
+		       			android:layout_marginTop="10dp"
+		       			android:layout_marginLeft="20dp"  />
+	             </LinearLayout>
+            </ScrollView>
+    	</RelativeLayout>
+        
+</RelativeLayout>

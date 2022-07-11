@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+	<watches> 
+		<watch model="GS8300-4522" active="1">
+			<ul>
+				<li>Mouvement suisse mécanique automatique 2893GMT</li>
+				<li>Double temps</li>
+				<li>24h, heur, minute, seconde, date</li>
+				<li>Autonomie jusqu'à 42h</li>
+				<li>Polissage soigné </li>
+				<li>Rhodiage </li>
+				<li>Boîtier et bracelet en acier inoxydable</li>
+				<li>Verre de montre en cristal de saphir </li>
+				<li>Dos transparent</li>
+				<li>Couronne filetée</li>
+				<li>Etanche à 100 mètres</li>
+			</ul>
+		</watch>
+		<watch model="GS8300-5529" active="1">
+			<ul>
+				<li>Mouvement suisse mécanique automatique 2893GMT</li>
+				<li>Double temps</li>
+				<li>24h, heur, minute, seconde, date</li>
+				<li>Autonomie jusqu'à 42h</li>
+				<li>Polissage soigné </li>
+				<li>Rhodiage </li>
+				<li>Boîtier en acier inoxydable</li>
+				<li>Bracelet en cuir supérieur</li>
+				<li>Verre de montre en cristal de saphir</li>
+				<li>Dos transparent</li>
+				<li>Couronne filetée</li>
+				<li>Etanche à 100 mètres</li>
+			</ul>
+		</watch>
+		<watch model="GS8300-5529BK" active="1">
+			<ul>
+				<li>Mouvement suisse mécanique automatique 2893GMT</li>
+				<li>Double temps</li>
+				<li>24h, heur, minute, seconde, date</li>
+				<li>Autonomie jusqu'à 42h</li>
+				<li>Polissage soigné </li>
+				<li>Rhodiage </li>
+				<li>Boîtier en acier inoxydable</li>
+				<li>Bracelet en cuir supérieur</li>
+				<li>Verre de montre en cristal de saphir</li>
+				<li>Dos transparent</li>
+				<li>Couronne filetée</li>
+				<li>Etanche à 100 mètres</li>
+			</ul>
+		</watch>
+		<watch model="LS8300-4522" active="1">
+			<ul>
+				<li>Mouvement suisse à quartz en haute qualité</li>
+				<li>Double temps</li>
+				<li>24h, heure, minute, seconde, date</li>
+				<li>Boîtier et bracelet en acier inoxydable</li>
+				<li>Verre de montre en cristal de saphir</li>
+				<li>Couronne filetée</li>
+				<li>Etanche à 100 mètres</li>
+			</ul>
+		</watch>
+		<watch model="LS8300-5529" active="1">
+			<ul>
+				<li>Mouvement suisse à quartz en haute qualité</li>
+				<li>Double temps</li>
+				<li>24h, heure, minute, seconde, date</li>
+				<li>Boîtier et bracelet en acier inoxydable</li>
+				<li>Verre de montre en cristal de saphir</li>
+				<li>Couronne filetée</li>
+				<li>Etanche à 100 mètres</li>
+			</ul>
+		</watch>
+</watches> 

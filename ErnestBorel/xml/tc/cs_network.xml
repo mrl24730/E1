@@ -1,0 +1,1794 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<active>
+		<div class="region" title="亞洲">
+			<div class="country" title="中國">
+				<!-- 0 -->
+				<!-- <div class="city" id="r0-c3-cc0" title="依波路品牌專業維修中心">
+					<div class="shop" id="r0-c3-cc0-s0">
+						<h4>依波路品牌專業維修中心</h4>
+						<p class="address">廣州市天河區天河路385號太古匯一座701室</p>
+						<p class="contact">電話： 400 830 3865</p>
+						<p class="lat">23.133372461686072</p>
+						<p class="lng">113.33245038986206</p>
+					</div>
+				</div> -->
+					
+				<!-- 1 -->
+				<div class="city" id="r0-c3-cc1" title="安徽">
+					<div class="shop" id="r0-c3-cc1-s0">
+						<h4>合肥百盛商場一層名表城</h4>
+						<p class="address">合肥市淮河路77號</p>
+						<p class="contact">電話： (86-551) 6261 6030</p>
+						<p class="lat">31.8659162</p>
+						<p class="lng">117.28319779999993</p>
+					</div>
+					<div class="shop" id="r0-c3-cc1-s1">
+						<h4>合肥新宇亨得利世界名表中心有限公司</h4>
+						<p class="address">合肥市長江東路1104號古井假日酒店818室</p>
+						<p class="contact">電話： (86-551) 6267 2580</p>
+						<p class="lat">331.864995</p>
+						<p class="lng">117.301744</p>
+					</div>
+				</div>
+					
+				<!-- 2 -->
+				<div class="city" id="r0-c3-cc2" title="北京">
+					<div class="shop" id="r0-c3-cc2-s0">
+						<h4>依波路（北京）维修部</h4>
+						<p class="address">北京市東城區崇文門外大街11號新成文化大廈8層805室</p>
+						<p class="contact">電話： (86-10) 6708 3096</p>
+						<p class="lat">39.89385534320362</p>
+						<p class="lng">116.41825675964355</p>
+					</div>
+					<div class="shop" id="r0-c3-cc2-s1">
+						<h4>北京北亨名表維修中心</h4>
+						<p class="address">北京市東城區王府井大街172號丹耀大廈地下一層</p>
+						<p class="lat">39.912830501606656</p>
+						<p class="lng">116.4116907119751</p>
+					</div>
+				</div>
+					
+				<!-- 3 -->
+				<div class="city" id="r0-c3-cc3" title="重慶">
+					<div class="shop" id="r0-c3-cc3-s0">
+						<h4>重慶瑞皇名表維修站</h4>
+						<p class="address">重慶市渝中區民權路1號</p>
+						<p class="contact">電話: (86-23) 6373 7878</p>
+						<p class="lat">29.556851</p>
+						<p class="lng">106.57703600000002</p>
+					</div>
+				</div>
+					
+				<!-- 4 -->
+				<div class="city" id="r0-c3-cc4" title="甘肅">
+					<div class="shop" id="r0-c3-cc4-s0">
+						<h4>蘭州巍雅斯名表眼鏡行依波路特約維修站</h4>
+						<p class="address">蘭州市東方紅廣場國芳百貨北門東側</p>
+						<p class="contact">電話： (86-931) 889 0166</p>
+						<p class="contact">傳真： (86-931) 8890 881</p>
+						<p class="lat">36.052525273855814</p>
+						<p class="lng">103.84116411209106</p>
+					</div>
+				</div>
+					
+				<!-- 5 -->
+				<div class="city" id="r0-c3-cc5" title="廣東">
+					<div class="shop" id="r0-c3-cc5-s0">
+						<h4>依波路品牌專業維修中心</h4>
+						<p class="address">廣州市天河區天河路385號太古匯一座701室</p>
+						<p class="contact">電話： 400 830 3865</p>
+						<p class="lat">23.133372461686072</p>
+						<p class="lng">113.33245038986206</p>
+					</div>
+					<div class="shop" id="r0-c3-cc5-s1">
+						<h4>珠海百貨廣場名表城周玉贊名表維修中心</h4>
+						<p class="address">珠海市吉大景山路百貨廣場二樓</p>
+						<p class="contact">電話： (86-756) 335 0570</p>
+						<p class="lat">22.25617395551605</p>
+						<p class="lng">113.57914924621582</p>
+					</div>
+					<div class="shop" id="r0-c3-cc5-s2">
+						<h4>汕頭市亨達利鐘表有限公司</h4>
+						<p class="address">汕頭市金砂路144號（世貿花園正門東側）</p>
+						<p class="contact">電話： (86-754) 8843 8938</p>
+						<p class="lat">23.36674494861038</p>
+						<p class="lng">116.74360871315002</p>
+					</div>
+					<div class="shop" id="r0-c3-cc5-s3">
+						<h4>佛山百花廣場瑞士表坊</h4>
+						<p class="address">佛山市祖廟路百花廣場四樓</p>
+						<p class="contact">電話： (86-757) 8610 0823</p>
+						<p class="lat">23.02651645498473</p>
+						<p class="lng">113.11172068119049</p>
+					</div>
+					<div class="shop" id="r0-c3-cc5-s4">
+						<h4>佛山市禪城區分秒鐘表維修店</h4>
+						<p class="address">佛山市禪城區汾江中路205號首層2號鋪</p>
+						<p class="contact">电话：(86-757) 8330 0505</p>
+						<p class="lat">23.0169860000</p>
+						<p class="lng">113.1082630000</p>
+					</div>
+					<div class="shop" id="r0-c3-cc5-s5">
+						<h4>湛江百吉时间廊表行</h4>
+						<p class="address">湛江市霞山区人民大道南42号城市广场一楼</p>
+						<p class="contact">电话：(86-759)229 6661</p>
+						<p class="lat">21.1983484</p>
+						<p class="lng">110.40558620000002</p>
+
+					</div>
+					<div class="shop" id="r0-c3-cc5-s6">
+						<h4>韶关风度名城依波路专卖店</h4>
+						<p class="address">韶关解放路一号风度名城1B062号</p>
+						<p class="contact">电话: (86-751) 881 2468</p>
+						<p class="lat">24.797925799753525</p>
+						<p class="lng">113.60002756118774</p>
+					</div>
+
+			          <div class="shop">
+			              <h4>汕頭合勝百貨商場</h4>
+			              <p class="address">汕頭市龍湖區長江路23號（天山路與長江路交界）合勝商場</p>
+			              <p class="contact hidden"></p>
+			              <p class="lat">23.376332</p>
+			              <p class="lng">116.722702</p>
+			          </div>
+				</div>
+					
+				<!-- 6 -->
+				<div class="city" id="r0-c3-cc6" title="貴州">
+					<div class="shop" id="r0-c3-cc6-s0">
+						<h4>貴陽市瑞時名表服務中心</h4>
+						<p class="address">中華中路117號龍港大廈東區5樓表修堂</p>
+						<p class="contact">電話： (86-851) 521 1020</p>
+						<p class="lat">26.58217561339595</p>
+						<p class="lng">106.71237230300903</p>
+					</div>
+					<div class="shop" id="r0-c3-cc6-s1">
+						<h4>貴陽星力購物廣場</h4>
+						<p class="address">貴陽市富水南路2號星力購物廣場一樓名表中心</p>
+						<p class="contact">電話: (86-851) 5827 685</p>
+						<p class="lat">26.57714546664565</p>
+						<p class="lng">106.71519935131073</p>
+					</div>
+				</div>
+					
+				<!-- 7 -->
+				<div class="city" id="r0-c3-cc7" title="河北">
+					<div class="shop" id="r0-c3-cc7-s0">
+						<h4>石家莊仕博名表維修中心</h4>
+						<p class="address">石家莊中山路188號北國商城一層A區依波路特約服務站</p>
+						<p class="contact">電話： (86-311) 8526 1075</p>
+						<p class="lat">38.26883074269917</p>
+						<p class="lng">114.68870401382446</p>
+					</div>
+				</div>
+					
+				<!-- 8 -->
+				<div class="city" id="r0-c3-cc8" title="黑龍江">
+					<div class="shop" id="r0-c3-cc8-s0">
+						<h4>哈爾濱新一百一樓名表館維修中心</h4>
+						<p class="address">哈爾濱道裡區石頭道街118號</p>
+						<p class="contact">電話: (86) 13936176035 安師傅</p>
+						<p class="lat">45.770441</p>
+						<p class="lng">126.623704</p>
+					</div>
+				</div>
+					
+				<!-- 9 -->
+				<div class="city" id="r0-c3-cc9" title="河南">
+					<div class="shop" id="r0-c3-cc9-s0">
+						<h4>河南富豪表行鄭州新宇三寶店</h4>
+						<p class="address">鄭州市太康路24號1棟樓1層139號</p>
+						<p class="contact">電話： (86-371) 6628 9033</p>
+						<p class="lat">34.7251907</p>
+						<p class="lng">112.79852159999996</p>
+					</div>
+				</div>
+					
+				<!-- 10 -->
+				<div class="city" id="r0-c3-cc10" title="湖北">
+					<div class="shop" id="r0-c3-cc10-s0">
+						<h4>新宇三寶名表</h4>
+						<p class="address">武漢市江漢區新華路218號,浦發銀行大廈二樓。</p>
+						<p class="contact">電話: (86-27) 8555 2628</p>
+						<p class="lat">30.590003</p>
+						<p class="lng">114.275075</p>
+					</div>
+				</div>
+					
+				<!-- 11 -->
+				<div class="city" id="r0-c3-cc11" title="湖南">
+					<div class="shop" id="r0-c3-cc11-s0">
+						<h4>長沙友阿百貨</h4>
+						<p class="address">長沙市人民中路9號</p>
+						<p class="contact">電話： (86-731) 8979 5661</p>
+						<p class="lat">28.1372918</p>
+						<p class="lng">113.62763429999995</p>
+					</div>
+				</div>
+				
+				<!-- 12 -->
+				<div class="city" id="r0-c3-cc12" title="內蒙古">
+					<div class="shop" id="r0-c3-cc12-s0">
+						<h4>包頭王府井青山店</h4>
+						<p class="address">內蒙古包頭市青山區幸福路甲3號包頭王府井一樓進口表依波路專櫃</p>
+						<p class="contact">Tel: (86-472) 3166 634</p>
+						<p class="lat">40.669083530824935</p>
+						<p class="lng">109.87984657287598</p>
+					</div>
+					<div class="shop" id="r0-c3-cc12-s1">
+						<h4>包頭神華國際城藍天商廈一樓名表</h4>
+						<p class="address">包頭市昆區阿爾丁大街1號</p>
+						<p class="contact">电话: (86-472) 5368 860</p>
+						<p class="lat">40.6597286007</p>
+						<p class="lng">109.8466726288</p>
+					</div>
+					<div class="shop" id="r0-c3-cc12-s2">
+						<h4>鄂爾多斯北國新天地</h4>
+						<p class="address">內蒙古鄂爾多斯市東勝區鄂爾多斯東街15號（北國新天地）一樓愛國名表</p>
+						<p class="contact">电话: (86-477) 3982 122</p>
+						<p class="lat">39.81226121816951</p>
+						<p class="lng">110.00454783439636</p>
+					</div>
+				</div>
+					
+				<!-- 13 -->
+				<div class="city" id="r0-c3-cc13" title="江蘇">
+					<div class="shop" id="r0-c3-cc13-s0">
+						<h4>蘇州世家名表中心</h4>
+						<p class="address">蘇州觀前街邵磨針巷88號 </p>
+						<p class="contact">電話: (86-512) 6522 9666</p>
+						<p class="lat">31.3108455</p>
+						<p class="lng">120.6234518</p>
+					</div>
+				</div>
+					
+				<!-- 14 -->
+				<div class="city" id="r0-c3-cc14" title="江西">
+					<div class="shop" id="r0-c3-cc14-s0">
+						<h4>南昌百貨大樓</h4>
+						<p class="address">南昌市中山路1號</p>
+						<p class="contact">電話: (86-791) 8627 1283</p>
+						<p class="lat">28.675678</p>
+						<p class="lng">115.90305130000002</p>
+					</div>
+					<div class="shop" id="r0-c3-cc14-s1">
+						<h4>南昌亨得利鐘表店</h4>
+						<p class="address">南昌市勝利路28號</p>
+						<p class="contact"></p>
+						<p class="lat">28.676362</p>
+						<p class="lng">115.888462</p>
+					</div>
+				</div>
+					
+				<!-- 15 -->
+				<div class="city" id="r0-c3-cc15" title="吉林">
+					<div class="shop" id="r0-c3-cc15-s0">
+						<h4>長春市國際貿易中心</h4>
+						<p class="address">長春市朝陽區人民大街2059號</p>
+						<p class="contact">電話： (86-431) 8848 7636</p>
+						<p class="lat">43.890311</p>
+						<p class="lng">125.32435099999998</p>
+					</div>
+				</div>
+					
+				<!-- 16 -->
+				<div class="city" id="r0-c3-cc16" title="遼寧">
+					<!-- <div class="shop" id="r0-c3-cc16-s0">
+						<h4>遼寧晟新商貿發展有限公司</h4>
+						<p class="address">沈陽市沈河區市府大路433號峰景國際商務會館1-16-5號</p>
+						<p class="contact">電話: (86-24) 2274 4386</p>
+						<p class="lat">41.80497386705762</p>
+						<p class="lng">123.44392776489258</p>
+					</div> -->
+					<div class="shop" id="r0-c3-cc16-s2">
+						<h4>盤錦興隆台區亨達利鐘表維修中心</h4>
+						<p class="address">盤錦市興隆台區中興路103號</p>
+						<p class="lat">41.128086</p>
+						<p class="lng">122.068442</p>
+					</div>
+					<div class="shop" id="r0-c3-cc16-s1">
+						<h4>依波路（瀋陽）維修部</h4>
+						<p class="address">瀋陽市和平區中山路59號朗勤泰元中心702室</p>
+						<p class="contact">電話： (86-024) 8389 5100</p>
+						<p class="lat">41.795797</p>
+						<p class="lng">123.403902</p>
+					</div>								
+				</div>
+					
+				<!-- 17 -->
+				<div class="city" id="r0-c3-cc17" title="山東">
+					<div class="shop" id="r0-c3-cc17-s0">
+						<h4>青島市亨得利鐘表眼鏡珠寶有限公司</h4>
+						<p class="address">青島市中山路144號</p>
+						<p class="contact">電話： (86-532) 8280 5856</p>
+						<p class="lat">36.070604203857975</p>
+						<p class="lng">120.31855881214142</p>
+					</div>
+					<div class="shop" id="r0-c3-cc17-s1">
+						<h4>臨沂亨得利瑞士名表店</h4>
+						<p class="address">臨沂市解放路中段71號</p>
+						<p class="contact">電話： (86-539) 8236 509</p>
+						<p class="lat">35.069345</p>
+						<p class="lng">118.269451</p>
+					</div>
+					<div class="shop" id="r0-c3-cc17-s2">
+						<h4>济南世茂国际广场依波路旗艦店</h4>
+						<p class="address">山东省泉城路26号济南世茂国际广场1层E105</p>
+						<p class="contact">电话：(86-531) 5571 6782</p>
+						<p class="lat">36.665187</p>
+						<p class="lng">117.029649</p>
+					</div>
+				</div>
+					
+				<!-- 18 -->
+				<div class="city" id="r0-c3-cc18" title="上海">
+					<div class="shop" id="r0-c3-cc18-s0">
+						<h4>依波路（上海）维修部</h4>
+						<p class="address">上海市浙江中路400号春申江大厦1702室</p>
+						<p class="contact">電話: (86-21) 6351 8017</p>
+						<p class="lat">31.236284055022406</p>
+						<p class="lng">121.47824674844742</p>
+					</div>
+					<div class="shop" id="r0-c3-cc18-s1">
+						<h4>上海三聯集團有限公司名表維修中心</h4>
+						<p class="address">上海市南京東路456號，亨得利鐘表公司B1樓</p>
+						<p class="contact">電話： (86-21) 6321 1802</p>
+						<p class="lat">31.23646293891111</p>
+						<p class="lng">121.48184359073639</p>
+					</div>
+					<div class="shop" id="r0-c3-cc18-s2">
+						<h4>上海金鐘名表服務中心</h4>
+						<p class="address">上海市淮海中路98號金鐘廣場14樓1409室</p>
+						<p class="lat">31.22556645740019</p>
+						<p class="lng">121.47922575473785</p>
+					</div>
+					<div class="shop" id="r0-c3-cc18-s3">
+						<h4>上海上鐘名表服務中心</h4>
+						<p class="address">上海市雁蕩路34號</p>
+						<p class="lat">31.22042396429737</p>
+						<p class="lng">121.46982729434967</p>
+					</div>
+				</div>
+					
+				<!-- 19 -->
+				<div class="city" id="r0-c3-cc19" title="陝西">
+					<div class="shop" id="r0-c3-cc19-s0">
+						<h4>西安開元商城世界名表維修中心</h4>
+						<p class="address">西安市碑林區東大街解放市場6號</p>
+						<p class="contact">電話： (86-29) 8725 6995</p>
+						<p class="lat">34.25918724104541</p>
+						<p class="lng">108.94856214523315</p>
+					</div>
+					<div class="shop" id="r0-c3-cc19-s1">
+						<h4>西安春江商貿有限責任公司</h4>
+						<p class="address">西安市東關正街129號世貿大廈C座25層A戶</p>
+						<p class="contact">電話: (86-29) 8812 2091</p>
+						<p class="lat">34.25904092918819</p>
+						<p class="lng">108.9752984046936</p>
+					</div>
+					<div class="shop" id="r0-c3-cc19-s2">
+						<h4>瑞士依波路表專賣店</h4>
+						<p class="address">西安市南大街100號鐘樓飯店一樓</p>
+						<p class="contact">電話: (86-29) 8728 0926</p>
+						<p class="lat">34.2647092734</p>
+						<p class="lng">108.9530726725</p>
+					</div>
+					<div class="shop" id="r0-c3-cc19-s3">
+						<h4>亨吉利西安豪門店名表維修中心</h4>
+						<p class="address">西安市碑林區南大街36號</p>
+						<p class="contact">電話: (86-29) 8761 5329</p>
+						<p class="lat">34.255462</p>
+						<p class="lng">108.946814</p>
+					</div>
+				</div>
+					
+				<!-- 20 -->
+				<div class="city" id="r0-c3-cc20" title="山西">
+					<div class="shop" id="r0-c3-cc20-s0">
+						<h4>太原巴黎春天百貨有限公司</h4>
+						<p class="address">山西太原迎澤區米市街53號1層鐘表維修中心 </p>
+						<p class="contact">電話: (86-351) 821 2206</p>
+						<p class="lat">37.86446985726342</p>
+						<p class="lng">112.56540298461914</p>
+					</div>
+				</div>
+					
+				<!-- 21 -->
+				<div class="city" id="r0-c3-cc21" title="深圳">
+					<div class="shop" id="r0-c3-cc21-s0">
+						<h4>深圳市免稅商場亨吉利世界名表中心</h4>
+						<p class="address">深圳市深南中路3024號格蘭雲天大酒店免稅商場1樓</p>
+						<p class="contact">電話： (86-755) 8336 5968</p>
+						<p class="lat">22.540789</p>
+						<p class="lng">114.08267799999999</p>
+					</div>
+				</div>
+					
+				<!-- 22 -->
+				<div class="city" id="r0-c3-cc22" title="四川">
+					<div class="shop" id="r0-c3-cc22-s2">
+						<h4>瑞士依波路表成都專賣店維修站</h4>
+						<p class="address">成都市錦江區中紗帽街8號（成都遠洋太古里）地下一層M076a號</p>
+						<p class="contact">電話： (86-28) 8671 5086</p>
+						<p class="lat">30.653123</p>
+						<p class="lng">104.081718</p>
+					</div>
+					<div class="shop" id="r0-c3-cc22-s1">
+						<h4>宜賓市敘府商城依波路維修站</h4>
+						<p class="address">宜賓市人民路14號</p>
+						<p class="contact">電話： (86-831) 823 9893</p>
+						<p class="lat">28.767166</p>
+						<p class="lng">104.62126699999999</p>
+					</div>
+					<div class="shop">
+			            <h4>成都沙彎凱德廣場</h4>
+			            <p class="address">成都市金牛區二環路北一段10號沙灣凱德廣場</p>
+			            <p class="contact hidden"></p>
+			            <p class="lat">30.626687</p>
+			            <p class="lng">104.028128</p>
+			          </div>
+			          <div class="shop">
+			              <h4>內江万達百貨</h4>
+			              <p class="address">四川內江市市中區河東新區萬達百貨</p>
+			              <p class="contact hidden"></p>
+			              <p class="lat">29.521984</p>
+			              <p class="lng">104.671522</p>
+			          </div>
+			          <div class="shop">
+			              <h4>廣元萬達百貨</h4>
+			              <p class="address">廣元市利州區萬源新區萬達百貨一樓鐘表櫃</p>
+			              <p class="contact hidden"></p>
+			              <p class="lat">32.428025</p>
+			              <p class="lng">105.850090</p>
+			          </div>				
+				</div>
+		
+				<!-- 23 -->
+				<div class="city" id="r0-c3-cc23" title="天津">
+					<div class="shop" id="r0-c3-cc23-s0">
+						<h4>天津亨得利特約維修部</h4>
+						<p class="address">天津市和平區和平路243號，聖奧商廈4樓</p>
+						<p class="contact">電話: (86-22) 2711 4432</p> 
+						<p class="lat">39.12686432058989</p>
+						<p class="lng">117.20176219940186</p>
+					</div>
+				</div>
+					
+				<!-- 24 -->
+				<div class="city" id="r0-c3-cc24" title="新疆">
+					<div class="shop" id="r0-c3-cc24-s0">
+						<h4>世紀名表特約維修中心</h4>
+						<p class="address">烏市中山路299號，世紀名表中山店三樓維修中心</p>
+						<p class="contact">電話： (86-991) 2819 620</p>
+						<p class="lat">43.79439924268015</p>
+						<p class="lng">87.61622697114944</p>
+					</div>
+					<div class="shop" id="r0-c3-cc24-s1">
+						<h4>星寶國際名表有限公司天百維修中心</h4>
+						<p class="address">烏市和平北路16號，天山百貨大樓一樓名表廳</p>
+						<p class="contact">電話： (86-991) 2326 131</p>
+						<p class="lat">43.79386681466335</p>
+						<p class="lng">87.62645423412323</p>
+					</div>
+
+			          <div class="shop">
+			              <h4>烏魯木齊太百購物中心</h4>
+			              <p class="address">新疆省烏魯木齊市沙依巴克區友好路太百購物中心一樓名表廳</p>
+			              <p class="contact hidden"></p>
+			              <p class="lat">43.822595</p>
+			              <p class="lng">87.589938</p>
+			          </div>
+				</div>
+					
+				<!-- 25 -->
+				<div class="city" id="r0-c3-cc25" title="雲南">
+					<div class="shop" id="r0-c3-cc25-s0">
+						<h4>昆明金格百貨（金龍店）名表維修中心</h4>
+						<p class="address">昆明市白塔路90號</p>
+						<p class="contact">電話： (86-871) 316 7055</p>
+						<p class="lat">25.037243</p>
+						<p class="lng">102.72549800000002</p>
+
+					</div>
+					<div class="shop" id="r0-c3-cc25-s1">
+						<h4>昆明百貨大樓</h4>
+						<p class="address">昆明市東風西路1號昆明百貨大樓5樓維修部</p>
+						<p class="contact">電話： (86-871) 364 3629</p>
+						<p class="lat">25.036040261853728</p>
+						<p class="lng">102.70964205265045</p>
+					</div>
+				</div>
+		
+				<!-- 26 -->
+				<div class="city" id="r0-c3-cc26" title="浙江">
+					<div class="shop" id="r0-c3-cc26-s0">
+						<h4>杭州瑞表貿易有限公司天域鐘表店</h4>
+						<p class="address">杭州市城站廣場江城路885號聯銀大廈</p>
+						<p class="contact">電話： (86-571) 8780 0121</p>
+						<p class="lat">30.242461483954536</p>
+						<p class="lng">120.18035262823105</p>
+					</div>
+					<div class="shop" id="r0-c3-cc26-s1">
+						<h4>杭州大廈購物城</h4>
+						<p class="address">浙江省杭州市武林廣場1號</p>
+						<p class="contact">電話： (86-571) 8517 3485</p>
+						<p class="lat">30.27301782226549</p>
+						<p class="lng">120.16148865222931</p>
+					</div>
+					<div class="shop" id="r0-c3-cc26-s2">
+						<h4>杭州廣誠鐘表有限公司</h4>
+						<p class="address">杭州市下城區慶春路118號嘉德廣場2006室</p>
+						<p class="contact">電話: (86-571) 8880 3981</p>
+						<p class="lat">30.2638369093</p>
+						<p class="lng">120.1798148090</p>
+					</div>
+					<div class="shop" id="r0-c3-cc26-s3">
+						<h4>嘉興市戴夢得手表服務中心</h4>
+						<p class="address">嘉興市禾興路366號戴夢得大酒店6樓</p>
+						<p class="contact">電話: (86-573) 8207 7765</p>
+						<p class="lat">30.780879</p>
+						<p class="lng">120.745235</p>
+					</div>
+				</div>
+
+				<!-- 27 -->
+				<div class="city" id="r0-c3-cc27" title="廣西">
+					<div class="shop" id="r0-c3-cc27-s0">
+						<h4>瑞士依波路品牌南寧專業維修中心</h4>
+						<p class="address">南寧市青秀區東葛路延長線118號萬達百貨一樓依波路專櫃</p>
+						<!-- <p class="contact">電話: (86-771) 253 2339</p> -->
+						<p class="lat">22.8076577000</p>
+						<p class="lng">108.3359858000</p>
+					</div>
+				</div>
+
+				<!-- 28 -->
+				<div class="city" id="r0-c3-cc28" title="福建">
+					<div class="shop" id="r0-c3-cc28-s0">
+						<h4>福州世歐廣場伊信佳名表</h4>
+						<p class="address">福州市晉安區長樂中路世歐廣場A3座一層9號</p>
+						<p class="contact">電話: (86-0591) 6316 0889</p>
+						<p class="lat">26.071586</p>
+						<p class="lng">119.306463</p>
+					</div>
+				</div>
+			</div>
+			<div class="country" title="中國 (香港)">
+				<div class="city default" title="中國 (香港)">
+					<div class="shop">
+						<h4>香港周玉贊鐘表技術服務中心</h4>
+						<p class="address">香港中環皇后大道131號中財中心一樓整層</p>						
+						<p class="lat">22.284523</p>
+						<p class="lng">114.156099</p>
+					</div>
+					<div class="shop">
+						<h4>依波路 (遠東) 有限公司</h4>
+						<p class="address">香港九龍尖沙咀廣東道9號海港城, 港威大廈第6座11樓1101-3及1112-14室</p>
+						<p class="contact">電話: (852) 3628 5511</p>
+						<p class="contact">電郵: enquiry@ernestborel.ch</p>
+						<p class="lat">22.29708</p>
+						<p class="lng">114.168146</p>
+					</div>
+					<div class="shop">
+						<h4>旗艦店 (尖沙咀)</h4>
+						<p class="address">香港九龍尖沙咀彌敦道90-94C號華敦大廈地下C鋪及1樓</p>
+						<p class="contact">電話: (852) 2739 3168</p>
+						<p class="lat">22.299220</p>
+						<p class="lng">114.172294</p>
+					</div>
+					<div class="shop">
+						<h4>專門店 - 瑞士名表</h4>
+						<p class="address">九龍尖沙咀彌敦道63號國際廣場UG 05樓層</p>
+						<p class="contact">電話: (852) 2677 8699</p>
+						<p class="lat">22.29702554316115</p>
+						<p class="lng">114.17189061641693</p>
+					</div>
+					<div id="hkisland" class="sub_region_nav hkisland">
+						<ul>
+							<li class="active"><a href="#" onClick="javascript: subregion_scroll('hkisland');" title="香港">香港</a></li>
+							<li><a href="#" onClick="javascript: subregion_scroll('hkkln');" title="九龍">九龍</a></li>
+							<li><a href="#" onClick="javascript: subregion_scroll('hknt');" title="新界">新界</a></li>
+						</ul>
+					</div>
+					<div class="shop">
+						<h4>九龍表行 - 銅鑼灣</h4>
+						<p class="address">香港銅鑼灣利園山道29-33號麗園大廈地下H號舖</p>
+						<p class="contact">電話: (852) 2890 3912</p>
+						<p class="lat">22.278956</p>
+						<p class="lng">114.183382</p>
+					</div>
+					<div class="shop">
+						<h4>大上海鐘表珠寶</h4>
+						<p class="address">香港銅鑼灣利園山道5號及7號地下</p>
+						<p class="contact">電話: (852) 2831 9881</p>
+						<p class="lat">22.279769505118242</p>
+						<p class="lng">114.18327122926712</p>
+					</div>
+					<div class="shop">
+						<h4>大中華表行</h4>
+						<p class="address">香港中環干諾道中62號地下</p>
+						<p class="contact">電話: (852) 2543 0968</p>
+						<p class="lat">22.28538111551405</p>
+						<p class="lng">114.15562570095062</p>
+					</div>
+					<div class="shop">
+						<h4>百老滙鐘表珠寶</h4>
+						<p class="address">香港銅鑼灣怡和街1號A2舖</p>
+						<p class="contact">電話: (852) 2882 2381</p>
+						<p class="lat">22.279739721534348</p>
+						<p class="lng">114.18541967868805</p>
+					</div>
+					<div class="shop">
+						<h4>百老滙電器 - 東角中心</h4>
+						<p class="address">銅鑼灣東角路26號地下16號舖</p>
+						<p class="contact">電話: (852) 2890 6818</p>
+						<p class="contact">傳真: (852) 2890 7889</p>
+						<p class="lat">22.281032819627107</p>
+						<p class="lng">114.18444067239761</p>
+					</div>
+					<div class="shop">
+						<h4>東方表行 - 上環</h4>
+						<p class="address">香港中環德輔道中133號地下</p>
+						<p class="contact">電話: (852) 2545 4577</p>
+						<p class="lat">22.285207384824552</p>
+						<p class="lng">114.15522336959839</p>
+					</div>
+					<div class="shop">
+						<h4>金豐鐘表</h4>
+						<p class="address">香港皇后大道西250號地下</p>
+						<p class="contact">電話: (852) 2858 9232</p>
+						<p class="lat">22.286904972595643</p>
+						<p class="lng">114.14307564496994</p>
+					</div>
+					<!-- <div class="shop">
+						<h4>百老滙電器 - 恆隆中心</h4>
+						<p class="address">銅鑼灣百德新街2-20號恒隆中心G02及F02號舖</p>
+						<p class="contact">電話: (852) 3427 9819</p>
+						<p class="contact">傳真: (852) 3427 9919</p>
+						<p class="lat">22.280169100921906</p>
+						<p class="lng">114.1860044002533</p>
+					</div> -->
+					<div class="shop">
+						<h4>祥達表行</h4>
+						<p class="address">香港北角馬寶道18號2號舖</p>
+						<p class="contact">電話: (852) 2563 1315</p>
+						<p class="lat">22.29171965616674</p>
+						<p class="lng">114.20004308223724</p>
+					</div>
+					<div class="shop">
+						<h4>銀聯鐘表珠寶</h4>
+						<p class="address">香港銅鑼灣波斯富街64號地舖</p>
+						<p class="contact">電話: (852) 2836 0028</p>
+						<p class="contact">傳真: (852) 2838 8329</p>
+						<p class="lat">22.27956846580391</p>
+						<p class="lng">114.18283939361572</p>
+					</div>
+					<div class="shop">
+						<h4>尊貴鐘表珠寶有限公司 - 銅鑼灣</h4>
+						<p class="address">香港銅鑼灣波斯富街63號地下</p>
+						<p class="contact">電話: (852) 2891 6308</p>
+						<p class="lat">22.279394727892058</p>
+						<p class="lng">114.18292254209518</p>
+					</div>
+					<div class="shop">
+						<h4>百老滙電器 - 時代廣場</h4>
+						<p class="address">銅鑼灣時代廣場814-816號舖</p>
+						<p class="contact">電話: (852) 2506 0228</p>
+						<p class="contact">傳真: (852) 2506 2815</p>
+						<p class="lat">22.278235642299578</p>
+						<p class="lng">114.18196231126785</p>
+					</div>
+					<div class="shop">
+						<h4>有榮珠寶鍾表金行</h4>
+						<p class="address">灣仔軒尼詩道416號地下</p>
+						<p class="contact">電話: (852) 2833 0970</p>
+						<p class="contact">傳真: (852) 2838 4670</p>
+						<p class="lat">22.278736</p>
+						<p class="lng">114.180362</p>
+					</div>
+					<div class="shop">
+						<h4>東興表行有限公司</h4>
+						<p class="address">香港德輔道中162號地下</p>
+						<p class="contact">電話: (852) 2541 0130</p>
+						<p class="contact">傳真: (852) 2854 3534</p>
+						<p class="lat">22.285645</p>
+						<p class="lng">114.154188</p>
+					</div>
+					<!-- <div class="shop">
+						<h4>名表廊有限公司 - 世貿中心</h4>
+						<p class="address">銅鑼灣告士打道280號Podium 1 P123號舖</p>
+						<p class="contact">電話: (852) 2808 1811</p>
+						<p class="lat">22.281646</p>
+						<p class="lng">114.184141</p>
+					</div> -->
+					<div class="shop">
+						<h4>瑞聯表行 (香港) 有限公司 - Sogo</h4>
+						<p class="address">香港銅鑼灣崇光百貨公司一樓新翼</p>
+						<p class="contact">電話: (852) 2834 3789</p>
+						<p class="lat">22.280301</p>
+						<p class="lng">114.184631</p>
+					</div>
+					<div class="shop">
+						<h4>滴達鐘表 – 信德中心</h4>
+						<p class="address">上環干諾道中200號信德中心2樓246號舖</p>
+						<p class="contact">電話: (852) 2857 5368</p>
+						<p class="lat">22.287909</p>
+						<p class="lng">114.151802</p>
+					</div>
+					<div class="shop">
+						<h4>ISA Boutique - 信和廣場</h4>
+						<p class="address">香港銅鑼灣告士打道256-258號信和廣場，地下及一樓</p>
+						<p class="contact">電話: (852) 2366 5828</p>
+						<p class="lat">22.281374</p>
+						<p class="lng">114.182439</p>
+					</div>
+		          <div class="shop">
+		            <h4>百老滙電器 - 柏寧酒店商場</h4>
+		            <p class="address">香港銅鑼灣柏寧酒店商場地下C舖及一樓103號舖</p>
+		            <p class="contact">電話: (852) 2796 2444</p>
+		            <p class="lat">22.281170</p>
+		            <p class="lng">114.186361</p>
+		          </div>  
+					<div id="hkkln" class="sub_region_nav hkkln">
+						<ul>
+							<li><a href="#" onClick="javascript: subregion_scroll('hkisland');" title="香港">香港</a></li>
+							<li class="active"><a href="#" onClick="javascript: subregion_scroll('hkkln');" title="九龍">九龍</a></li>
+							<li><a href="#" onClick="javascript: subregion_scroll('hknt');" title="新界">新界</a></li>
+						</ul>
+					</div>
+					<!-- <div class="shop">
+						<h4>九龍表行 - 官塘</h4>
+						<p class="address">九龍觀塘物華街23號地下</p>
+						<p class="contact">電話: (852) 2343 8315</p>
+						<p class="lat">22.315013928597875</p>
+						<p class="lng">114.22453165054321</p>
+					</div> -->
+					<div class="shop">
+						<h4>九龍表行 - 旺角</h4>
+						<p class="address">九龍旺角西洋菜街南256號地下</p>
+						<p class="contact">電話: (852) 2381 0962</p>
+						<p class="lat">22.32317481418699</p>
+						<p class="lng">114.16930228471756</p>
+					</div>
+					<div class="shop">
+						<h4>九龍表行 - 尖沙咀 (I SQUARE)</h4>
+						<p class="address">尖沙咀彌敦道63號, ISQUARE, MTR樓層13號舖</p>
+						<p class="contact">電話: (852) 2811 2172</p>
+						<p class="contact">傳真: (852) 2811 2256</p>
+						<p class="lat">22.297035469795514</p>
+						<p class="lng">114.17189866304398</p>
+					</div>
+					<!-- <div class="shop">
+						<h4>九龍表行 - 信和中心</h4>
+						<p class="address">九龍旺角彌敦道582號信和中心G28-29</p>
+						<p class="contact">電話: (852) 2782 3777</p>
+						<p class="lat">22.316061049754023</p>
+						<p class="lng">114.1703724861145</p>
+					</div> -->
+					<div class="shop">
+						<h4>九龍表行 - 亞皆老街</h4>
+						<p class="address">九龍旺角亞皆老街24-26號東方大厦地下號舖</p>
+						<p class="contact">電話: (852) 2789 3011</p>
+						<p class="lat">22.31925447263937</p>
+						<p class="lng">114.17015254497528</p>
+					</div>
+					<!-- <div class="shop">
+						<h4>太子珠寶鐘表 - 海洋中心</h4>
+						<p class="address">九龍尖沙咀海港城海洋中心3樓316-318及366-367號舖</p>
+						<p class="contact">電話: (852) 2736 6636</p>
+						<p class="lat">22.296320750318156</p>
+						<p class="lng">114.16829645633698</p>
+					</div> -->
+					<!-- <div class="shop">
+						<h4>太子珠寶鐘表 - 海運大廈</h4>
+						<p class="address">九龍尖沙咀海港城海運大廈2樓OT281號舖</p>
+						<p class="contact">電話: (852) 2311 4432</p>
+						<p class="lat">22.29503027533561</p>
+						<p class="lng">114.16687488555908</p>
+					</div> -->
+					<div class="shop">
+						<h4>太子珠寶鐘表 - 北京道</h4>
+						<p class="address">尖沙咀北京道10號寶業大廈地下3號舖</p>
+						<p class="contact">電話: (852) 2369 2123</p>
+						<p class="contact">傳真: (852) 2311 3755</p>
+						<p class="lat">22.296588770550596</p>
+						<p class="lng">114.17070508003235</p>
+					</div>
+					<div class="shop">
+						<h4>太子珠寶鐘表 - 彩星中心</h4>
+						<p class="address">九龍尖沙咀彌敦道23-25號彩星中心地下1-2號舖</p>
+						<p class="contact">電話: (852) 2739 2333</p>
+						<p class="lat">22.296000614366754</p>
+						<p class="lng">114.17195230722427</p>
+					</div>
+					<!-- <div class="shop">
+						<h4>六福珠寶金行 - 佐敦</h4>
+						<p class="address">九龍彌敦道221B-E號恆福時裝中心地下G02號舖</p>
+						<p class="contact">電話: (852) 2782 1777</p>
+						<p class="contact">電話: (852) 2783 2522</p>
+						<p class="lat">22.303956643921786</p>
+						<p class="lng">114.17160362005234</p>
+					</div> -->
+					<div class="shop">
+						<h4>日內瓦鐘表行 - 彌敦道</h4>
+						<p class="address">九龍尖沙咀彌敦道64號B地下</p>
+						<p class="contact">電話: (852) 2369 0376</p>
+						<p class="lat">22.297082621299158</p>
+						<p class="lng">114.1724243760109</p>
+					</div>
+					<div class="shop">
+						<h4>東方表行 - 油麻地</h4>
+						<p class="address">九龍油麻地彌敦道555號九龍行地下B-C號舖</p>
+						<p class="contact">電話: (852) 2384 8103</p>
+						<p class="lat">22.314138013161617</p>
+						<p class="lng">114.170281291008</p>
+					</div>
+					<!-- <div class="shop">
+						<h4>美億珠寶</h4>
+						<p class="address">九龍彌敦道375-381號地下6號舖</p>
+						<p class="contact">電話: (852) 2789 2808</p>
+						<p class="lat">22.308276930505343</p>
+						<p class="lng">114.17106181383133</p>
+					</div> -->
+					<div class="shop">
+						<h4>時計寶</h4>
+						<p class="address">九龍尖沙咀漆咸道39號鐵路大厦地下及一樓A號</p>
+						<p class="contact">電話: (852) 2723 9989</p>
+						<p class="lat">22.304991440415783</p>
+						<p class="lng">114.17149633169174</p>
+					</div>
+					<div class="shop">
+						<h4>華興表行</h4>
+						<p class="address">九龍旺角彌敦道644-646號</p>
+						<p class="contact">電話: (852) 2396 0389</p>
+						<p class="lat">22.31859693621582</p>
+						<p class="lng">114.169742166996</p>
+					</div>
+					<div class="shop">
+						<h4>榮記表行</h4>
+						<p class="address">九龍彌敦道301-309號裕華國貨地面專櫃</p>
+						<p class="contact">電話: (852) 2388 0591</p>
+						<p class="lat">22.305502632017674</p>
+						<p class="lng">114.17144268751144</p>
+					</div>
+					<div class="shop">
+						<h4>駿昇表城</h4>
+						<p class="address">九龍紅磡民樂街23號駿昇中心B1座地下</p>
+						<p class="contact">電話: (852) 2367 3222</p>
+						<p class="lat">22.30940102681421</p>
+						<p class="lng">114.18972730636597</p>
+					</div>
+					<div class="shop">
+						<h4>鑽表城</h4>
+						<p class="address">九龍紅磡黄埔花園第7期地下3號A-B舖</p>
+						<p class="contact">電話: (852) 2187 2301</p>
+						<p class="lat">22.303495077545538</p>
+						<p class="lng">114.1913178563118</p>
+					</div>
+					<div class="shop">
+						<h4>喜樂時鐘表</h4>
+						<p class="address">九龍旺角西洋菜街258-260號地下C-D舖</p>
+						<p class="contact">電話: (852) 2780 3983</p>
+						<p class="lat">22.316066012394828</p>
+						<p class="lng">114.17035907506943</p>
+					</div>
+					<div class="shop">
+						<h4>瑞聯表行 (香港) 有限公司</h4>
+						<p class="address">九龍佐敦彌敦道333號加盛商業中心地下B號舖</p>
+						<p class="contact">電話: (852) 2374 4688</p>
+						<p class="lat">22.306694</p>
+						<p class="lng">114.171269</p>
+					</div>
+					<div class="shop">
+						<h4>瑞鑽國際名表匯</h4>
+						<p class="address">九龍灣展貿徑1號香港國際展貿中心2層B號舖</p>
+						<p class="contact">電話： (852) 2155 1197</p>
+						<p class="contact">傳真： (852) 2155 9179</p>
+						<p class="lat">22.323968</p>
+						<p class="lng">114.203942</p>
+					</div>
+					<div class="shop">
+						<h4>星光表行</h4>
+						<p class="address">九龍尖沙咀梳士巴利道3號星光行地下10號鋪</p>
+						<p class="contact">電話: (852) 2367 2988</p>
+						<!-- <p class="contact">電話: (852) 2346 9028</p> -->
+						<p class="lat">22.294687</p>
+						<p class="lng">114.168793</p>
+					</div>
+					<div class="shop">
+						<h4>寶時鐘表</h4>
+						<p class="address">香港九龍觀塘偉業街182號觀塘碼頭廣場地下</p>
+						<p class="contact">電話: (852) 2112 9696</p>
+						<p class="lat">22.309044</p>
+						<p class="lng">114.221697</p>
+					</div>
+					<!-- <div class="shop">
+						<h4>名表廊有限公司 - 新港中心</h4>
+						<p class="address">尖沙咀廣東道30號新港中心地庫LＧ73號舖</p>
+						<p class="contact">電話: (852) 2375 1813</p>
+						<p class="lat">22.297334</p>
+						<p class="lng">114.169384</p>
+					</div> -->
+					<div class="shop">
+						<h4>御表城</h4>
+						<p class="address">尖沙咀科學館道 14 號新文華中心 9B-10B及地庫</p>
+						<p class="contact">電話: (852) 3963 9108</p>
+						<p class="lat">22.300216</p>
+						<p class="lng">114.178216</p>
+					</div>
+					<div class="shop">
+						<h4>尊貴鐘表珠寶有限公司 - 旺角</h4>
+						<p class="address">旺角彌敦道603-609號新興大廈地下</p>
+						<p class="contact">電話: (852) 2891 6682</p>
+						<p class="lat">22.316872</p>
+						<p class="lng">114.169634</p>
+					</div>
+					<div class="shop">
+						<h4>百老滙電器 - 亞皆老街</h4>
+						<p class="address">旺角亞皆老街79號</p>
+						<p class="contact">電話: (852) 2381 9818</p>
+						<p class="lat">22.319553</p>
+						<p class="lng">114.170326</p>
+					</div>
+					<!-- <div class="shop">
+						<h4>百老滙電器 - 金馬倫道</h4>
+						<p class="address">尖沙咀金馬倫道56號地下</p>
+						<p class="contact">電話: (852) 2890 6818</p>
+						<p class="lat">22.299217</p>
+						<p class="lng">114.175208</p>
+					</div> -->
+					<div class="shop">
+						<h4>百老滙電器 - 城市中心</h4>
+						<p class="address">旺角西洋菜南街78號旺角城市中心地下至二樓</p>
+						<p class="contact">電話: (852) 2366 3032</p>
+						<p class="lat">22.318958</p>
+						<p class="lng">114.170270</p>
+					</div>
+					<div class="shop">
+						<h4>百老滙電器 - 海洋中心</h4>
+						<p class="address">尖沙咀海港城海洋中心3樓341-342號舖</p>
+						<p class="contact">電話: (852) 2381 6760</p>
+						<p class="lat">22.295770</p>
+						<p class="lng">114.169210</p>
+					</div>
+					<div class="shop">
+						<h4>百老滙電器 - 銀行中心</h4>
+						<p class="address">旺角彌敦道636號銀行中心地下1號舖</p>
+						<p class="contact">電話: (852) 3427 9819</p>
+						<p class="lat">22.318224</p>
+						<p class="lng">114.169919</p>
+					</div>
+					<div class="shop">
+						<h4>百老滙電器 - 好望角大廈</h4>
+						<p class="address">旺角西洋菜南街13號好望角大廈地庫B2</p>
+						<p class="contact">電話: (852) 2506 0228</p>
+						<p class="lat">22.317371</p>
+						<p class="lng">114.170054</p>
+					</div>
+					<div class="shop">
+		              <h4>百老滙電器 - 旺角廣場</h4>
+		              <p class="address">九龍旺角豉油街28號地下</p>
+		              <p class="contact">電話: (852) 2359 7899</p>
+		              <p class="lat">22.316548000000000000</p>
+		              <p class="lng">114.170754000000000000</p>
+		          </div>
+					<div class="shop">
+						<h4>ISA Boutique - 漢口中心</h4>
+						<p class="address">九龍尖沙咀漢口道5/15號漢口中心地下G至9/9A及一字樓全層</p>
+						<p class="contact">電話: (852) 2366 5816</p>
+						<p class="lat">22.295950</p>
+						<p class="lng">114.170983</p>
+					</div>
+	          <div class="shop">
+	              <h4>環球表城</h4>
+	              <p class="address">香港尖沙咀加連威老道100號港晶中心9-49號地鋪</p>
+	              <p class="contact">電話: (852) 2126 7257</p>
+	              <p class="lat">22.300835500000000000</p>
+	              <p class="lng">114.178362500000000000</p>
+	          </div>                   
+	          <div class="shop">
+	              <h4>ISA Boutique - 新港中心</h4>
+	              <p class="address">尖沙咀廣東道30號新港中心地庫LG73號舖</p>
+	              <p class="contact">電話: (852) 2366 6308</p>
+	              <p class="lat">22.297484900000000000</p>
+	              <p class="lng">114.169408500000000000</p>
+	          </div>
+				<div id="hknt" class="sub_region_nav hknt">
+					<ul>
+						<li><a href="#" onClick="javascript: subregion_scroll('hkisland');" title="香港">香港</a></li>
+						<li><a href="#" onClick="javascript: subregion_scroll('hkkln');" title="九龍">九龍</a></li>
+						<li class="active"><a href="#" onClick="javascript: subregion_scroll('hknt');" title="新界">新界</a></li>
+					</ul>
+				</div>
+				<div class="shop">
+		            <h4>九龍表行 - 荃灣</h4>
+		            <p class="address">新界荃灣青山道338號荃綿中心2樓190-19號舖</p>
+		            <p class="contact">電話: 2427 3164</p>
+		            <p class="lat">22.374217300000000000</p>
+		            <p class="lng">114.115215500000000000</p>
+		          </div>
+				<div class="shop">
+					<h4>太子珠寶鐘表 - 上水廣場</h4>
+					<p class="address">上水龍琛路39號上水廣場2樓201至203及263至265號舖</p>
+					<p class="contact">電話: (852) 2323 2308</p>
+					<p class="contact">傳真: (852) 2323 2302</p>
+					<p class="lat">22.502660214744523</p>
+					<p class="lng">114.12785947322845</p>
+				</div>
+				<div class="shop">
+					<h4>傑成表行有限公司</h4>
+					<p class="address">新界元朗青山道211-223號喜利商場地下5號</p>
+					<p class="contact">電話: (852) 2476 1482</p>
+					<p class="lat">22.444717632210512</p>
+					<p class="lng">114.02541249990463</p>
+				</div>
+				<div class="shop">
+					<h4>九龍表行 - 將軍澳</h4>
+					<p class="address">將軍澳唐俊街9號君薈坊1樓F10-11號舖</p>
+					<p class="contact">電話: (852) 2323 6300</p>
+					<p class="lat">22.308523</p>
+					<p class="lng">114.261153</p>
+				</div>
+				<div class="shop">
+					<h4>瑞聯表行 (香港) 有限公司 - 屯門</h4>
+					<p class="address">新界屯門屯門市廣場一期一樓1073號舖</p>
+					<p class="contact">電話: (852) 2116 2318</p>
+					<p class="lat">22.394140</p>
+					<p class="lng">113.976150</p>
+				</div>
+	          <div class="shop">
+	            <h4>傑成表行有限公司</h4>
+	            <p class="address">新界康樂路33-35號豐興樓地下A舖</p>
+	            <p class="contact">電話: (852) 2476 8826</p>
+	            <p class="lat">22.443150</p>
+	            <p class="lng">114.027281</p>
+	          </div>
+				</div>
+			</div>
+			<div class="country" title="中國 (澳門)">
+				<div class="city" title="中國 (澳門)">
+					<div class="shop">
+						<h4>澳門周玉贊鐘表技術服務中心</h4>
+						<p class="address">澳门殷皇子大馬路47-53號澳門廣場10樓G室</p>
+						<p class="contact">電話: (853) 2871 7323</p>
+						<p class="lat">22.191599</p>
+						<p class="lng">113.541546</p>
+					</div>
+					<div class="shop">
+						<h4>澳門周玉贊鐘表技術服務中心</h4>
+						<p class="address">澳門殷皇子大馬路47-53號澳門廣場D鋪地下及閣樓</p>
+						<p class="contact">電話: (853) 2871 7323</p>
+						<p class="lat">22.191599</p>
+						<p class="lng">113.541546</p>
+					</div>
+					<div class="shop">
+						<h4>大豐表行</h4>
+						<p class="address">澳門新馬路310至316號</p>
+						<p class="contact">電話: (853) 2837 5155</p>
+						<p class="lat">22.194468175489394</p>
+						<p class="lng">113.53882491588593</p>
+					</div>
+					<div class="shop">
+						<h4>東方表行 - 澳門廣場</h4>
+						<p class="address">殷皇子大馬路47-53號澳門廣場D舖地下及閣樓</p>
+						<p class="contact">電話: (853) 2871 7323</p>
+						<p class="lat">22.19097139737843</p>
+						<p class="lng">113.5419899225235</p>
+					</div>
+					<div class="shop">
+						<h4>港澳(國際)免稅店</h4>
+						<p class="address">新口岸友誼大馬路及孫逸仙大馬路澳門漁人碼頭邁阿密館地下及一樓</p>
+						<p class="contact">電話: (853) 2872 8148</p>
+						<p class="lat">22.191840633022508</p>
+						<p class="lng">113.556307554245</p>
+					</div>
+					<div class="shop">
+						<h4>金善美珠寶</h4>
+						<p class="address">澳門蘇亞利斯博士大馬路267-269</p>
+						<p class="contact">電話: (853) 2876 1111</p>
+						<p class="lat">22.191632016958522</p>
+						<p class="lng">113.54170024394989</p>
+					</div>
+			          <div class="shop">
+			            <h4>專門店 - 裕興隆表行有限公司</h4>
+			            <p class="address">澳門新馬路194號舖</p>
+			            <p class="contact">Tel: (853) 2835 7004</p>
+			            <p class="lat">22.193631</p>
+			            <p class="lng">113.539523</p>
+			          </div>
+			          <div class="shop">
+			            <h4>ISA Boutique - 澳門觀光塔</h4>
+			            <p class="address">澳門觀光塔會展娛樂中心地庫</p>
+			            <p class="contact">電話: (853) 2896 7880</p>
+			            <p class="lat">22.179968</p>
+			            <p class="lng">113.537771</p>
+			          </div>
+					<div class="shop">
+						<h4>裕興隆表行有限公司(GMT TIME)</h4>
+						<p class="address">澳門板樟堂街23號地舖</p>
+						<p class="contact">電話: (853) 2835 7004</p>
+						<p class="lat">22.1944781093941</p>
+						<p class="lng">113.54173511266708</p>
+					</div>
+					<div class="shop">
+						<h4>裕興隆表行有限公司 - 賣草地街</h4>
+						<p class="address">賣草地街10號錦興大廈B舖</p>
+						<p class="contact">電話: (853) 2836 6396</p>
+						<p class="lat">22.195036890402424</p>
+						<p class="lng">113.54064881801605</p>
+					</div>
+					<!-- <div class="shop">
+						<h4>裕興隆表行有限公司 - 新馬路</h4>
+						<p class="address">澳門新馬路200號地舖</p>
+						<p class="contact">電話: (853) 2835 6232</p>
+						<p class="lat">22.193701</p>
+						<p class="lng">113.539445</p>
+					</div> -->
+					<div class="shop">
+						<h4>東方表行 - 澳門廣場</h4>
+						<p class="address">殷皇子大馬路47-53號澳門廣場D舖地下及閣樓</p>
+						<p class="contact">電話: (853) 2871 7323</p>
+						<p class="lat">22.191390</p>
+						<p class="lng">113.541323</p>
+					</div>
+					<div class="shop">
+						<h4>新時代鐘表有限公司</h4>
+						<p class="address">約翰四世大馬路17號高利富大廈地下D舖</p>
+						<p class="contact">電話: (853) 2828 2201</p>
+						<p class="lat">22.192012</p>
+						<p class="lng">113.543239</p>
+					</div>
+					<div class="shop">
+						<h4>瑞士時計</h4>
+						<p class="address">澳門新口岸北京街怡珍閣地下A9舖</p>
+						<p class="contact">電話: (853) 2833 8455</p>
+						<p class="lat">22.191002</p>
+						<p class="lng">113.546483</p>
+					</div>					
+				</div>
+			</div>
+			<div class="country" title="印度">
+				<div class="city" title="Mumbai, Maharashtra">
+					<div class="shop">
+						<h4>Bayside Labels Pvt Ltd</h4>
+						<p class="address">104, Navkar chambers marol naka metro station andheri east, 40001 Mumbai, Maharashtra, India</p>
+						<p class="contact">Tel: +91 022 40039299</p>
+                        <p class="contact">Web: www.baysidelabels.com</p>
+						<p class="lat">19.108188</p>
+						<p class="lng">72.879556</p>
+					</div>
+				</div>
+			</div>
+			<div class="country" title="馬來西亞">
+				<div class="city" title="馬來西亞">
+					<div class="shop">
+						<h4>萬金表行 - 成功時代廣場</h4>
+						<p class="address">Berjaya Times Square #01-63, No.1 Jalan Imbi 55100 Kuala Lumpur</p>
+						<p class="contact">電話: (603) 2142 8128</p>
+						<p class="lat">3.142661</p>
+						<p class="lng">101.710397</p>
+					</div>
+				</div>
+			</div>
+			<div class="country" title="新加坡">
+				<div class="city" title="新加坡">
+					<div class="shop">
+						<h4>萬金表行 - 白沙浮廣場</h4>
+						<p class="address">Bugis Junction, 200 Victoria St #01‐104 Singapore 188021</p>
+						<p class="contact">電話: (65) 6337 0669</p>
+						<p class="lat">1.299416</p>
+						<p class="lng">103.855594</p>
+					</div>
+					<div class="shop">
+						<h4>依波路專門店</h4>
+						<p class="address">Chinatown Point, 133 New Bridge Rd #01-21 Singapore 059413</p>
+						<p class="contact">電話: (65) 6636 3376</p>
+						<p class="contact">傳真: (65) 6543 6125</p>
+						<p class="lat">1.285326</p>
+						<p class="lng">103.844916</p>
+					</div>			
+					<div class="shop">
+						<h4>萬金表行 - 幸運商業中心</h4>
+						<p class="address">304 Orchard Rd, #B1-128 Lucky Plaza, Singapore 238863</p>
+						<p class="contact">電話: (65) 6732 7673</p>
+						<p class="contact">傳真: (65) 6734 8816</p>
+						<p class="lat">1.3045584</p>
+						<p class="lng">103.83388220000006</p>
+					</div>					
+					<div class="shop">
+						<h4>萬金表行 - OG Dept Store</h4>
+						<p class="address">OG Dept Store Level 2, Albert Complex, 60 Albert St Singapore 189969</p>
+						<p class="contact">電話: (65) 6339 3771</p>
+						<p class="lat">1.302371</p>
+						<p class="lng">103.853896</p>
+					</div>
+					<div class="shop">
+						<h4>萬金表行 - 威士馬廣場</h4>
+						<p class="address">Wisma Atria, 435 Orchard Rd #01‐16/17 Singapore 238877</p>
+						<p class="contact">電話: (65) 6733 2823</p>
+						<p class="lat">1.303803</p>
+						<p class="lng">103.833125</p>
+					</div>
+					<div class="shop">
+						<h4>Aptimos BHG</h4>
+						<p class="address">BHG Dept Store Level 1, Bugis Junction, 230 Victoria St Singapore 188024</p>
+						<p class="contact">電話: (65) 6337 5075</p>
+						<p class="lat">1.299399</p>
+						<p class="lng">103.855489</p>
+					</div>
+					<div class="shop">
+						<h4>Aptimos - 幸運商業中心</h4>
+						<p class="address">Lucky Plaza, 304 Orchard Rd #B1‐116/117 Singapore 238863</p>
+						<p class="contact">電話: (65) 6732 6386</p>
+						<p class="lat">1.304567</p>
+						<p class="lng">103.833941</p>
+					</div>
+				</div>
+			</div>			
+			<div class="country" title="台灣">
+				<div class="city" id="r0-c4-cc0" title="新北市">
+					<div class="shop" id="r0-c4-cc0-s0">
+						<h4>瑞德利國際有限公司</h4>
+						<p class="address">新北市三重區重新路5段609巷18號2樓之2(湯城園區)</p>
+						<p class="contact">電話: (02) 2999 1331</p>
+						<p class="lat">25.045950190213286</p>
+						<p class="lng">121.46703779697418</p>
+					</div>
+				</div>
+			</div>			
+			<div class="country" title="越南">
+				<div class="city" title="河內">
+					<div class="shop">
+						<h4>依波路專門店</h4>
+						<p class="address">3 Hang Khay street, Hoan Kiem District, Ha Noi, Viet Nam</p>
+						<p class="contact">Tel: (84) 3936 6701</p>
+						<p class="lat">21.025508730141873</p>
+						<p class="lng">105.8532178401947</p>
+					</div>
+					<div class="separateLine">
+					</div>
+					<div class="shop">
+						<h4>Galle Watch</h4>
+						<p class="address">41 Thi Sach street, Hai Ba Trung District, Ha Noi, Viet Nam</p>
+						<p class="contact">Tel: (84) 3978 4500</p>
+						<p class="lat">20.93234214154338</p>
+						<p class="lng">105.86058855056763</p>
+					</div>
+					<div class="shop">
+						<h4>Galle Watch</h4>
+						<p class="address">BigC Center, 222 Tran Duy Hung, Cau Giay District, Ha Noi, Viet Nam</p>
+						<p class="contact">Tel: (84) 3783 0732</p>
+						<p class="lat">21.007230</p>
+						<p class="lng">105.794918</p>
+					</div>
+					<div class="shop">
+						<h4>Galle Watch</h4>
+						<p class="address">25 Hang Khay street , Hoan Kiem District, Ha Noi, Viet Nam</p>
+						<p class="contact">Tel: (84) 3936 6701</p>
+						<p class="lat">21.025658947844768</p>
+						<p class="lng">105.85295230150223</p>
+					</div>
+					<div class="shop">
+						<h4>Galle Watch</h4>
+						<p class="address">1st Level, Vincom Center, 191 Ba Trieu street, Hai Ba Trung District, Ha Noi, Viet Nam</p>
+						<p class="contact">Tel: (84) 3974 4525</p>
+						<p class="lat">21.011392</p>
+						<p class="lng">105.850035</p>
+					</div>
+					<div class="shop">
+						<h4>Galle Watch</h4>
+						<p class="address">B1/R4/K11 Royal City Center, 72A Nguyen Trai, Thanh Xuan District, Ha Noi, Viet Nam</p>
+						<p class="contact">Tel: (84) 6262 0168</p>
+						<p class="lat">20.985704</p>
+						<p class="lng">105.795232</p>
+					</div>
+					<div class="shop">
+						<h4>Galle Watch</h4>
+						<p class="address">B1/D1/K8 Times City Center, 458 Minh Khai street, Hai Ba Trung District, Ha Noi, Viet Nam</p>
+						<p class="contact">Tel: (84) 3200 1689</p>
+						<p class="lat">20.997598</p>
+						<p class="lng">105.866851</p>
+					</div>
+					<div class="shop">
+						<h4>Galle Watch</h4>
+						<p class="address">202 Thai Ha street, Dong Da District, Ha Noi, Viet Nam</p>
+						<p class="contact">Tel: (84) 3538 1882</p>
+						<p class="lat">21.038499</p>
+						<p class="lng">105.829003</p>
+					</div>
+			          <div class="shop">
+			            <h4>Galle Watch</h4>
+			            <p class="address">F3-B11 Tang 3 TTTM Lotte, 54 Lieu Giai, Ba Dinh, Ha Noi, Viet Nam</p>
+			            <p class="contact">Tel: (84) 3267 6031</p>
+			            <p class="contact">Tel: (84) 3267 6032</p>
+			            <p class="lat">21.032201</p>
+			            <p class="lng">105.812639</p>
+			          </div>
+				</div>
+				<div class="city" id="r0-c5-cc1" title="胡志明">
+					<div class="shop">
+						<h4>Galle Watch</h4>
+						<p class="address">L1-45 Level, Vicom Center, 72 Le Thanh Ton street, One District, Ho Chi Minh, Viet Nam</p>
+						<p class="contact">Tel: (84) 3936 9727</p>
+						<p class="lat">10.777091</p>
+						<p class="lng">106.701781</p>
+					</div>
+					<div class="shop">
+						<h4>Galle Watch</h4>
+						<p class="address">Maximark 3/2 Center, 3-3C, 3/2 street, Ten District, Ho Chi Minh, Viet Nam</p>
+						<p class="contact">Tel: (84) 3832 9092</p>
+						<p class="lat">10.776183</p>
+						<p class="lng">106.680840</p>
+					</div>
+					<div class="shop">
+						<h4>Galle Watch</h4>
+						<p class="address">BigC Center, 202B Hoang Van Thu street, Phu Nhuan Distict, Ho Chi Minh, Viet Nam</p>
+						<p class="contact">Tel: (84) 3997 3748</p>
+						<p class="lat">10.801904</p>
+						<p class="lng">106.669608</p>
+					</div>
+					<div class="shop">
+						<h4>Galle Watch</h4>
+						<p class="address">BigC Pandora, 1/1 Truong Chinh street, Tan Phu District, Ho Chi Minh, Viet Nam</p>
+						<p class="contact">Tel: (84) 3842 9764</p>
+						<p class="lat">10.765236</p>
+						<p class="lng">106.672102</p>
+					</div>
+					<div class="shop">
+						<h4>Galle Watch</h4>
+						<p class="address">352 Le van Sy street, Fourteen Ward, Three District, Ho Chi Minh, Viet Nam</p>
+						<p class="contact">Tel: (84) 6290 4132</p>
+						<p class="lat">10.787835</p>
+						<p class="lng">106.677552</p>
+					</div>
+					<div class="shop">
+						<h4>Galle Watch</h4>
+						<p class="address">129, 15-17 Cong Hoa street, Four Ward, Ho Chi Minh, Viet Nam</p>
+						<p class="contact">Tel: (84) 3948 3307</p>
+						<p class="lat">10.769643</p>
+						<p class="lng">106.689252</p>
+					</div>
+					<div class="shop">
+						<h4>Galle Watch</h4>
+						<p class="address">717 Cach mang Thang Tam Street, Six Ward, Tan Binh District, Ho Chi Minh, Viet Nam</p>
+						<p class="contact">Tel: (84) 6297 2138</p>
+						<p class="lat">10.780106</p>
+						<p class="lng">106.677576</p>
+					</div>
+			          <div class="shop">
+			            <h4>Galle Watch</h4>
+			            <p class="address">L1-K3 TTTM Vincom Center Thu Duc, 216 Vo Van Ngan, P Binh Tho, Q Thu Duc, TP Ho Chi Minh</p>
+			            <p class="contact">Tel: (84) 3722 5262</p>
+			            <p class="contact">Tel: (84) 3722 5263</p>
+			            <p class="lat">10.850008</p>
+			            <p class="lng">106.765278</p>
+			        </div>				
+				</div>
+			</div>
+			<div class="country" title="韓國">
+				<!-- <div class="city" id="r0-c6-cc0" title="首爾">
+					<div class="shop" id="r0-c6-cc0-s0">
+						<h4>E-TIMEWORLD</h4>
+						<p class="address">1F, 31-45, Changcheon-dong, Seodaemun-gu, Seoul, Korea</p>
+						<p class="contact">電話: +82-2-313-4108</p>
+						<p class="lat">37.555678</p>
+						<p class="lng">126.937194</p>
+					</div>
+				</div> -->
+				<div class="city" id="r0-c6-cc1" title="京畿道">
+					<div class="shop" id="r0-c6-cc1-s0">
+						<h4>TBOSS CORPORATION (TBOSS Corp.)</h4>
+						<p class="address">2F, O-RYONG Bldg., 625-4, E-dong, Sangrok-gu, Ansan-si, Gyeonggi-do, Korea</p>
+						<p class="contact">電話: (82) 1661 5705</p>
+						<p class="contact">傳真: (82) 505 977 9997</p>
+						<p class="lat">37.314978</p>
+						<p class="lng">126.844512</p>
+					</div>
+				</div>
+			</div>
+			<div class="country" title="緬甸">
+				<div class="city" id="r0-c7-cc1" title="仰光">
+					<div class="shop" id="r0-c7-cc1-s0">
+						<h4>Tin Sein Watch Gallery</h4>
+						<p class="address">No.89, U Chit Mg Stree, Bahan Township Yangon</p>
+						<p class="contact">電話: (95) 165 1386</p>
+						<p class="contact">傳真: (82) 165 1386</p>
+						<p class="lat">16.859214</p>
+						<p class="lng">96.122336</p>
+					</div>
+				</div>
+			</div>
+			<div class="country" title="印尼">
+				<div class="city" id="r0-c8-cc1" title="北乾巴魯">
+					<div class="shop" id="r0-c8-cc1-s0">
+						<h4>Verona Exclusive Fashion</h4>
+						<p class="address">Jl. Jend Ahmad Yani, No. 2H-21 Pekanbaru, Indonesia</p>
+						<p class="contact">電話: (62) 0761855561</p>
+						<p class="lat">0.527729</p>
+						<p class="lng">101.442478</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="region" title="歐洲">
+			<div class="country" title="瑞士">
+				<div class="city" title="Le Noirmont">
+					<div class="shop">
+						<h4>Ernest Borel SA</h4>
+						<p class="address">Rue des Perrières 8, 2340 Le Noirmont, Switzerland</p>
+						<p class="contact">+41 32 926 17 26</p>
+		                <p class="contact">Email: info@ernestborel.ch</p>
+		                <p class="contact">Web: www.ernestborel.ch</p>
+						<p class="lat">47.224169</p>
+						<p class="lng">6.955173</p>
+					</div>					
+				</div>				
+            </div>
+            <div class="country" title="北愛爾蘭">
+				<div class="city" title="Belfast - Belfast">
+					<div class="shop">
+						<h4>Gardiner Brothers Limited</h4>
+						<p class="address">44-46 Waring Street, BT1 2ED Belfast, Northern Ireland</p>
+						<p class="contact">+44 28 9023 42 71</p>
+		                <p class="contact">Email: info@ernestborel.ch</p>
+		                <p class="contact">Web: www.ernestborel.ch</p>
+						<p class="lat">47.224169</p>
+						<p class="lng">6.955173</p>
+					</div>					
+				</div>				
+            </div>
+            <div class="country" title="荷蘭">
+				<div class="city" title="AN Amsterdam">
+					<div class="shop">
+						<h4>HQ-Time</h4>
+						<p class="address">P.O. Box 75590, 1070 Amsterdam, The Netherlands</p>
+						<p class="contact">+31 65 589 0504</p>
+		                <p class="contact">Email: info@hq-time.com</p>
+		                <p class="contact">Web: www.hq-time.com</p>
+						<p class="lat"></p>
+						<p class="lng"></p>
+					</div>					
+				</div>				
+            </div>
+            <div class="country" title="比利時">
+				<div class="city" title="AN Amsterdam">
+					<div class="shop">
+						<h4>HQ-Time</h4>
+						<p class="address">P.O. Box 75590, 1070 Amsterdam, The Netherlands</p>
+						<p class="contact">+31 65 589 0504</p>
+		                <p class="contact">Email: info@hq-time.com</p>
+		                <p class="contact">Web: www.hq-time.com</p>
+						<p class="lat"></p>
+						<p class="lng"></p>
+					</div>					
+				</div>				
+            </div>
+            <div class="country" title="盧森堡">
+				<div class="city" title="AN Amsterdam">
+					<div class="shop">
+						<h4>HQ-Time</h4>
+						<p class="address">P.O. Box 75590, 1070 Amsterdam, The Netherlands</p>
+						<p class="contact">+31 65 589 0504</p>
+		                <p class="contact">Email: info@hq-time.com</p>
+		                <p class="contact">Web: www.hq-time.com</p>
+						<p class="lat"></p>
+						<p class="lng"></p>
+					</div>					
+				</div>				
+            </div>
+            <div class="country" title="保加利亞">
+				<div class="city" title="Sofia">
+					<div class="shop">
+						<h4>Juliany</h4>
+						<p class="address">70 Rakovski, Sofia, Bulgaria</p>
+						<p class="contact">+359 (0)2 980 6310</p>
+		                <p class="contact">Email: office@julliany.com</p>
+		                <p class="contact">Web: www.julliany.com</p>
+						<p class="lat">42.699370</p>
+						<p class="lng">23.329430</p>
+					</div>					
+				</div>				
+            </div>
+            <div class="country" title="西班牙">
+				<div class="city" title="Barcelona">
+					<div class="shop">
+						<h4>Luxus</h4>
+						<p class="address">Passeig de Gracia 118, Principal, 8008 Barcelona, Spain</p>
+						<p class="contact">+932 553 104</p>
+		                <p class="contact">Email: f.battle@luxus-fb.com</p>
+						<p class="lat">41.397342</p>
+						<p class="lng">2.158986</p>
+					</div>					
+				</div>				
+            </div>
+            <div class="country" title="匈牙利">
+				<div class="city" title="Budapest">
+					<div class="shop">
+						<h4>Swiss-Time Ltd.</h4>
+						<p class="address">Jàsz u. 83-87, 1135 Budapest, Hungary</p>
+						<p class="contact">+36 1 330 51 49</p>
+		                <p class="contact">Email: info@swisstime.hu</p>
+						<p class="lat">47.535305</p>
+						<p class="lng">19.086176</p>
+					</div>					
+				</div>				
+            </div>            
+            <div class="country" title="法國">
+				<div class="city" title="Levallois Perret">
+					<div class="shop">
+						<h4>Tendance 2 Luxe</h4>
+						<p class="address">110 Boulevard du President Wilson, 92300 Levallois Perret, France</p>
+						<p class="contact">+33 6 41941281</p>
+		                <p class="contact">Email: contact@tendances2luxe.com</p>
+						<p class="lat">48.896695</p>
+						<p class="lng">2.286597</p>
+					</div>					
+				</div>				
+            </div>            
+            <div class="country" title="德國">
+				<div class="city" title="Madrid">
+					<div class="shop">
+						<h4>Time Square Development</h4>
+						<p class="address">C/ Ligonde 3, Pl, 2°B, 28050 Madrid, Spain</p>
+						<p class="contact">+34 659 633 407</p>
+		                <p class="contact">Email: bezos@timesqd.com</p>
+						<p class="lat"></p>
+						<p class="lng"></p>
+					</div>					
+				</div>				
+            </div>            
+            <div class="country" title="瑞典">
+				<div class="city" title="Madrid">
+					<div class="shop">
+						<h4>Time Square Development</h4>
+						<p class="address">C/ Ligonde 3, Pl, 2°B, 28050 Madrid, Spain</p>
+						<p class="contact">+34 659 633 407</p>
+		                <p class="contact">Email: bezos@timesqd.com</p>
+						<p class="lat"></p>
+						<p class="lng"></p>
+					</div>					
+				</div>				
+            </div>            
+            <div class="country" title="烏克蘭">
+				<div class="city" title="Kiev">
+					<div class="shop">
+						<h4>Veltim Technokom</h4>
+						<p class="address">Str. Turgenevskaya, 25 of #15, 4050 Kiev, Ukraine</p>
+						<p class="contact"></p>
+		                <p class="contact">Email: andrew_hit15@yahoo.com</p>
+						<p class="lat">50.452081</p>
+						<p class="lng">30.491094</p>
+					</div>					
+				</div>				
+            </div>
+		</div>
+
+		<div class="region" title="中東">
+			<div class="country" title="阿聯酋, 卡塔爾, 伊朗, 科威特, 阿曼, 沙特阿拉伯">
+				<div class="city default" title="阿聯酋">
+					<div class="shop">
+						<h4>Enjoy Bijoux Dubai</h4>
+						<p class="address">Dubai Airport Free Zone, East Wing 2E 209, PO BOX 54487</p>
+						<p class="contact">Tel: +971 4 299 6500</p>
+						<p class="contact">Email: office@enjoybijouxdubai.com</p>
+						<p class="contact">web: www.enjoyyourbrands.com</p>
+						<p class="lat">25.260765</p>
+						<p class="lng">55.374983</p>
+					</div>
+				</div>
+			</div>
+			<!-- <div class="country" title="卡塔爾">
+				<div class="city default" title="卡塔爾">
+					<div class="shop">
+						<h4>Enjoy Bijoux Dubai</h4>
+						<p class="address">Dubai Airport Free Zone, East Wing 2E 209, PO BOX 54487</p>
+						<p class="contact">Tel: +971 4 299 6500</p>
+						<p class="contact">Email: office@enjoybijouxdubai.com</p>
+						<p class="contact">web: www.enjoyyourbrands.com</p>
+						<p class="lat">25.260765</p>
+						<p class="lng">55.374983</p>
+					</div>
+				</div>
+			</div>
+			<div class="country" title="伊朗">
+				<div class="city" title="伊朗">
+					<div class="shop">
+						<h4>Enjoy Bijoux Dubai</h4>
+						<p class="address">Dubai Airport Free Zone, East Wing 2E 209, PO BOX 54487</p>
+						<p class="contact">Tel: +971 4 299 6500</p>
+						<p class="contact">Email: office@enjoybijouxdubai.com</p>
+						<p class="contact">web: www.enjoyyourbrands.com</p>
+						<p class="lat">25.260765</p>
+						<p class="lng">55.374983</p>
+					</div>
+				</div>
+			</div>
+			<div class="country" title="科威特">
+				<div class="city" title="科威特">
+					<div class="shop">
+						<h4>Enjoy Bijoux Dubai</h4>
+						<p class="address">Dubai Airport Free Zone, East Wing 2E 209, PO BOX 54487</p>
+						<p class="contact">Tel: +971 4 299 6500</p>
+						<p class="contact">Email: office@enjoybijouxdubai.com</p>
+						<p class="contact">web: www.enjoyyourbrands.com</p>
+						<p class="lat">25.260765</p>
+						<p class="lng">55.374983</p>
+					</div>
+				</div>
+			</div>
+			<div class="country" title="阿曼">
+				<div class="city" title="阿曼">
+					<div class="shop">
+						<h4>Enjoy Bijoux Dubai</h4>
+						<p class="address">Dubai Airport Free Zone, East Wing 2E 209, PO BOX 54487</p>
+						<p class="contact">Tel: +971 4 299 6500</p>
+						<p class="contact">Email: office@enjoybijouxdubai.com</p>
+						<p class="contact">web: www.enjoyyourbrands.com</p>
+						<p class="lat">25.260765</p>
+						<p class="lng">55.374983</p>
+					</div>
+				</div>
+			</div>
+			<div class="country" title="沙特阿拉伯">
+				<div class="city" title="沙特阿拉伯">
+					<div class="shop">
+						<h4>Enjoy Bijoux Dubai</h4>
+						<p class="address">Dubai Airport Free Zone, East Wing 2E 209, PO BOX 54487</p>
+						<p class="contact">Tel: +971 4 299 6500</p>
+						<p class="contact">Email: office@enjoybijouxdubai.com</p>
+						<p class="contact">web: www.enjoyyourbrands.com</p>
+						<p class="lat">25.260765</p>
+						<p class="lng">55.374983</p>
+					</div>
+				</div>
+			</div> -->
+		</div>
+
+		<div class="region" title="北美">
+			<div class="country" title="加拿大">
+				<div class="city" title="Montreal, Quebec">
+					<div class="shop">
+						<h4>Valangin Inc.</h4>
+						<p class="address">1435 Rue Saint-Alexandre, H3A 2G4 Montreal, Quebec, Canada</p>
+						<p class="contact">Tel: +1 514 845 2259</p>
+						<p class="contact">Email: admin@valangin.com</p>
+						<p class="contact">Web: http://www.valangin.com/</p>
+						<p class="lat">50.452081</p>
+						<p class="lng">30.491094</p>
+					</div>
+				</div>
+			</div>
+			<div class="country" title="美國">
+				<div class="city" title="Montreal, Quebec">
+					<div class="shop">
+						<h4>Valangin Inc.</h4>
+						<p class="address">1435 Rue Saint-Alexandre, H3A 2G4 Montreal, Quebec, Canada</p>
+						<p class="contact">Tel: +1 514 845 2259</p>
+						<p class="contact">Email: admin@valangin.com</p>
+						<p class="contact">Web: http://www.valangin.com/</p>
+						<p class="lat">50.452081</p>
+						<p class="lng">30.491094</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="region" title="大洋洲">
+			<div class="country" title="澳大利亞">
+				<div class="city" title="Glen Huntly">
+					<div class="shop">
+						<h4>Lion Brands</h4>
+						<p class="address">1068-1070 Glenhuntly Rd, 3163 Glen Huntly, VIC, Australia</p>
+						<p class="contact">Tel: +61 4 0913 8607</p>
+						<p class="contact">Email: service@lionbrandsaustralia.com.au</p>
+						<p class="contact">Web: www.lionbrandsaustralia.com.au</p>
+						<p class="lat">-37.889157</p>
+						<p class="lng">145.037981</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</active>
+	<inactive>
+		<div class="country" id="r0-c0" title="台灣">
+				<div class="city" id="r0-c0-cc0" title="台北市">
+					<div class="shop" id="r0-c0-cc0-s0">
+						<h4>Galaxy Watch Limited</h4>
+						<p class="address">1/F.,No.6,Ln.180,Sec.6, Minquan E Rd. Neihu Dist.,
+		 Taipei City 114,Taiwan (R.O.C.)</p>
+						<p class="contact">Tel: 02 7743 7966
+		Fax: 02 7721 0298</p>
+					</div>
+					<div class="shop" id="r0-c0-cc0-s1">
+
+						<h4>Hengdeli</h4>
+						<p class="address">2F, No. 142, Sec. 4, Zhongxiao E. Rd., 106 Taipei City, Taiwan</p>
+						<p class="contact">Tel: 02 2781 8222</p>
+					</div>
+				</div>
+			</div>
+		<div class="region" id="i-r0" title="亞洲">
+			<div class="country" id="i-r0-c0" title="中國">
+				<div class="city" id="i-r0-c0-cc0" title="內蒙古">
+					<div class="shop" id="i-r0-c0-cc0-s0">
+						<h4>呼和浩特維多利商廈鐘表中心</h4>
+						<p class="address">內蒙古呼和浩特市中山西路39號</p>
+						<p class="contact">電話： (86-471) 226 3319</p>
+					</div>
+					<div class="shop" id="i-r0-c0-cc0-s1">
+
+						<h4>包頭王府井百貨名表店</h4>
+						<p class="address">內蒙古包頭市鋼鐵大街71號</p>
+						<p class="contact">電話： (86-472) 251 3343</p>
+					</div>
+					<div class="shop" id="i-r0-c0-cc0-s2">
+						<h4>包頭神華國際城藍天商廈一樓名表</h4>
+						<p class="address">內蒙古包頭市昆區阿爾丁大街1號 </p>
+						<p class="contact">電話： (86-472)536 8860</p>
+					</div>
+
+					<div class="shop" id="i-r0-c0-cc0-s3">
+						<h4>鄂爾多斯市愛國名表店</h4>
+						<p class="address">內蒙古鄂爾多斯市伊金霍洛東街3號</p>
+						<p class="contact">電話： (86-477) 399 9022</p>
+					</div>
+				</div>
+				<div class="city" id="i-r0-c0-cc1" title="北京">
+					<div class="shop" id="i-r0-c0-cc1-s0">
+						<h4>北京藍島大廈一層名表維修中心</h4>
+
+						<p class="address">北京市朝陽區朝外大街甲8號</p>
+						<p class="contact">電話: (86-10) 5821 4031</p>
+					</div>
+					<div class="shop" id="i-r0-c0-cc1-s1">
+						<h4>北京王府井丹耀亨得利表店</h4>
+						<p class="address">北京市東城區王府井大街176號丹耀大廈</p>
+						<p class="contact">電話 : (86-10) 6528 6155</p>
+					</div>
+				</div>
+
+			</div>
+		</div>
+		<div class="region" id="i-r1" title="北美">
+		</div>
+		<div class="region" id="i-r2" title="歐洲">
+			<div class="country" id="i-r2-c0" title="瑞士">
+				<div class="city" id="i-r2-c0-cc0" title="瑞士">
+					<div class="shop" id="i-r2-c0-cc0-s0">
+						<h4>Ernest Borel S.A.</h4>
+						<p class="address">Case postale 234
+						rue des Perrieres 8
+						CH-2340 Le Noirmont Switzerland</p>
+						<p class="contact">Tel: +41 (0)32 926 17 26
+						Fax: (0041)(32) 9261 729
+						Web: www.ernestborel.ch
+						Email: info@ernestborel.ch</p>
+					</div>
+					<div class="shop" id="i-r2-c0-cc0-s1">
+						<h4>Juwelia Watches Souvenirs</h4>
+						<p class="address">Denkmalstrasse 1-3 CH6006 Luzern Switzerland.</p>
+						<p class="contact">Tel: +41 (0)41 410 53 29
+						Fax: (041) 410 61 19</p>
+					</div>
+				</div>
+			</div>
+			<div class="country" id="i-r2-c1" title="俄羅斯">
+				<div class="city" id="i-r2-c1-cc0" title="俄羅斯">
+					<div class="shop" id="i-r2-c1-cc0-s0">
+						<h4>Fregat LTD</h4>
+						<p class="address">Electrodnaya st. 2, 20
+						111141 Moscow
+						Russia</p>
+						<p class="contact">Tel: +7 495 637 96 06
+						Email: nadin@fregat-ltd.ru</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="region" id="i-r3" title="中東">
+		</div>
+	</inactive>
+</data>

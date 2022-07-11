@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+	<watches> 
+		<watch model="GS5310-4522BR" active="1">
+			<ul>
+				<li>Swiss made automatic movement</li>
+				<li>Window type calendar</li>
+				<li>Stainless steel case </li>
+				<li>and bracelet</li>
+				<li>Sapphire crystal</li>
+				<li>50m Water resistant</li>
+			</ul>
+		</watch>
+		<watch model="GS5310-5522BR" active="1">
+			<ul>
+				<li>Swiss made automatic movement</li>
+				<li>Window type calendar</li>
+				<li>Stainless steel case </li>
+				<li>and bracelet</li>
+				<li>Sapphire crystal</li>
+				<li>50m Water resistant</li>
+			</ul>
+		</watch>
+		<watch model="GS5310-5522BK" active="1">
+			<ul>
+				<li>Swiss made automatic movement</li>
+				<li>Window type calendar</li>
+				<li>Stainless steel case and bracelet</li>
+				<li>Sapphire crystal</li>
+				<li>50m Water resistant</li>
+			</ul>
+		</watch>
+		<watch model="GS5310-4522" active="1">
+			<ul>
+				<li>Swiss made automatic movement</li>
+				<li>Window type calendar</li>
+				<li>Stainless steel case </li>
+				<li>and bracelet</li>
+				<li>Sapphire crystal</li>
+				<li>50m Water resistant</li>
+			</ul>
+		</watch>		
+		<watch model="LS5310-4522" active="1">
+			<ul>
+				<li>Swiss made automatic movement</li>
+				<li>Window type calendar</li>
+				<li>Stainless steel case </li>
+				<li>and bracelet</li>
+				<li>Sapphire crystal</li>
+				<li>50m Water resistant</li>
+			</ul>
+		</watch>
+		<watch model="GS5310-5522" active="1">
+			<ul>
+				<li>Swiss made automatic movement</li>
+				<li>Window type calendar</li>
+				<li>Stainless steel case </li>
+				<li>and bracelet</li>
+				<li>Sapphire crystal</li>
+				<li>50m Water resistant</li>
+			</ul>
+		</watch>		
+		<watch model="LS5310-5522" active="1">
+			<ul>
+				<li>Swiss made automatic movement</li>
+				<li>Window type calendar</li>
+				<li>Stainless steel case </li>
+				<li>and bracelet</li>
+				<li>Sapphire crystal</li>
+				<li>50m Water resistant</li>
+			</ul>
+		</watch>		
+		<watch model="GB5310-4521" active="1">
+			<ul>
+				<li>Swiss made automatic movement</li>
+				<li>Window type calendar</li>
+				<li>Stainless steel case </li>
+				<li>and bracelet</li>
+				<li>Sapphire crystal</li>
+				<li>50m Water resistant</li>
+			</ul>
+		</watch>
+		<watch model="LB5310-4521" active="1">
+			<ul>
+				<li>Swiss made automatic movement</li>
+				<li>Window type calendar</li>
+				<li>Stainless steel case </li>
+				<li>and bracelet</li>
+				<li>Sapphire crystal</li>
+				<li>50m Water resistant</li>
+			</ul>
+		</watch>				
+		<watch model="GG5310-4521BR" active="1">
+			<ul>
+				<li>Swiss made automatic movement</li>
+				<li>Window type calendar</li>
+				<li>Stainless steel case and bracelet </li>
+				<li>Sapphire crystal</li>
+				<li>50m Water resistant</li>
+			</ul>
+		</watch>
+
+		<!-- inactivated - 18 Nov 2011 -->
+		<watch model="GG5310-4529BR" active="0">
+			<ul>
+				<li>Swiss made automatic movement</li>
+				<li>Window type calendar</li>
+				<li>Stainless steel case </li>
+				<li>and bracelet</li>
+				<li>Sapphire crystal</li>
+				<li>50m Water resistant</li>
+			</ul>
+		</watch>
+</watches> 

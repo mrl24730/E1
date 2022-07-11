@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<data ts="2015-08-20 15:30:00">
+	<automatic>
+		<!-- this collection break into 4 collection 2014-09-05
+		<collection qty="25" file="retro_collection_3" name_en="Retro Collection" name_tc="復古系列" name_sc="复古系列" name_fr="Collection Retro" name_jp="復古コレクション" img="GS8880P3_25121_f.png"/>
+		-->
+		<collection qty="18" file="retro_collection_32" name_en="Retro Collection" name_tc="復古系列" name_sc="复古系列" name_fr="Retro Collection" name_jp="Retro Collection" img="GS8280_211_f.png"/>
+
+		<collection qty="9" file="cocktail_collection" name_en="Cocktail Collection" name_tc="雞尾酒系列" name_sc="鸡尾酒系列" name_fr="Cocktail Collection" name_jp="Cocktail Collection" img="cocktail_collection_BG8080_08211PR.png"/>
+
+		<collection qty="23" file="yally_series_auto" name_en="Yally Collection" name_tc="雅麗系列" name_sc="雅丽系列" name_fr="Yally Collection" name_jp="Yally Collection" img="GBR5680N_432_f.png"/>
+
+		<collection qty="15" file="jules_borel_collection" name_en="Jules Borel Collection" name_tc="祖爾斯系列" name_sc="祖尔斯系列" name_fr="Jules Borel Collection" name_jp="Jules Borel Collection" img="jules_borel_collection.png"/>
+
+		<collection qty="30" file="braque_collection" name_en="Braque Collection" name_tc="布拉克系列" name_sc="布拉克系列" name_fr="Braque Collection" name_jp="Braque Collection" img="braque_collection.png"/>
+
+		<collection qty="1" file="iris_collection" name_en="Iris Collection" name_tc="蝴蝶花系列" name_sc="蝴蝶花系列" name_fr="Iris Collection" name_jp="Iris Collection" img="IrisCollection.png"/>
+
+		<collection qty="9" file="retro_collection_31" name_en="Retro Collection" name_tc="復古系列" name_sc="复古系列" name_fr="Retro Collection" name_jp="Retro Collection" img="GS8680T6_48551BK_f.png"/>
+
+		
+
+		<collection qty="3" file="retro_collection_33" name_en="Retro Collection" name_tc="復古系列" name_sc="复古系列" name_fr="Retro Collection" name_jp="Retro Collection" img="GS8880T5_28121_f.png"/>
+
+		<collection qty="5" file="retro_collection_34" name_en="Retro Collection" name_tc="復古系列" name_sc="复古系列" name_fr="Retro Collection" name_jp="Retro Collection" img="GS8880P3_25121_f.png"/>		
+
+		<collection qty="15" file="royal_collection" name_en="Royal Collection" name_tc="皇室系列" name_sc="皇室系列" name_fr="Royal Collection" name_jp="Royal Collection" img="LBR6155_5599.png"/>
+
+		<collection qty="1" file="harmonic_collection999" name_en="Harmonic Collection" name_tc="音韻系列" name_sc="音韵系列" name_fr="Harmonic Collection" name_jp="Harmonic Collection" img="harmonic_collection999.png"/>
+
+		<collection qty="6" file="borel_chrono_collection" name_en="Borel Chrono Collection" name_tc="波萊爾系列" name_sc="波莱尔系列" name_fr="Borel Chrono Collection" name_jp="Borel Chrono Collection" img="borel_chrono_collection.png"/>
+
+		<collection qty="27" file="romance_series_2" name_en="Romance Collection" name_tc="傳奇系列" name_sc="传奇系列" name_fr="Romance Collection" name_jp="Romance Collection" img="romance_series_2.png"/>
+
+		<collection qty="24" file="romance_series_3" name_en="Romance Collection" name_tc="傳奇系列" name_sc="传奇系列" name_fr="Romance Collection" name_jp="Romance Collection" img="romance_series_3.png"/>
+
+		<collection qty="5" file="romance_chonometer_series" name_en="Romance Chonometer Collection" name_tc="傳奇天文台系列" name_sc="传奇天文台系列" name_fr="Romance Chonometer Collection" name_jp="Romance Chonometer Collection" img="romance_chonometer_series.png"/>
+
+
+		<!-- same file name!!!! -->
+		<collection qty="4" file="duke_collection" name_en="Duke Collection" name_tc="公爵系列" name_sc="公爵系列" name_fr="Duke Collection" name_jp="Duke Collection" img="GG7351_28191BR.png"/>
+
+		<collection qty="1" file="artist_collection" name_en="Artist collection" name_tc="藝術家系列" name_sc="艺术家系列" name_fr="Artist collection" name_jp="Artist collection" img="artist_collection.png"/>
+
+		<collection qty="1" file="majestic_collection" name_en="Majestic Collection" name_tc="爵士系列" name_sc="爵士系列" name_fr="Majestic Collection" name_jp="Majestic Collection" img="majestic_collection.png"/>
+
+		<collection qty="3" file="regulateur_series" name_en="Regulateur Collection" name_tc="騎士系列" name_sc="骑士系列" name_fr="Regulateur Collection" name_jp="Regulateur Collection" img="regulateur_series.png"/>
+
+		<collection qty="4" file="aegean_sea_collection" name_en="Aegean sea Collection" name_tc="愛琴海系列" name_sc="爱琴海系列" name_fr="Aegean sea Collection" name_jp="Aegean sea Collection" img="aegean_sea_collection.png"/>
+
+		<collection qty="2" file="athletic_collection" name_en="Athletic Collection" name_tc="運動家系列" name_sc="运动家系列" name_fr="Athletic Collection" name_jp="Athletic Collection" img="athletic_collection.png"/>
+
+		<collection qty="5" file="marine_adventrue_series" name_en="Marine Adventure Collection" name_tc="哥倫布系列" name_sc="哥伦布系列" name_fr="Marine Adventure Collection" name_jp="Marine Adventure Collection" img="marine_adventrue_series.png"/>		
+
+		<collection qty="8" file="euroya_series" name_en="Euroya Collection" name_tc="歐雅系列" name_sc="欧雅系列" name_fr="Euroya Collection" name_jp="Euroya Collection" img="euroya_series.png"/>
+
+		<collection qty="10" file="rocky_series_1" name_en="Rocky Collection" name_tc="洛奇系列" name_sc="洛奇系列" name_fr="Rocky Collection" name_jp="Rocky Collection" img="rocky_series_1.png"/>
+
+		<collection qty="8" file="gary_automatic_series" name_en="Gary Collection" name_tc="雅仕系列" name_sc="雅仕系列" name_fr="Gary Collection" name_jp="Gary Collection" img="gary_automatic_series.png"/>
+
+		<collection qty="4" file="danaus_automatic_series" name_en="Danaus Collection" name_tc="典雅系列" name_sc="典雅系列" name_fr="Danaus Collection" name_jp="Danaus Collection" img="danaus_automatic_series.png"/>
+
+		<collection qty="3" file="barrel_series" name_en="Barrel Collection" name_tc="巴奴系列" name_sc="巴奴系列" name_fr="Barrel Collection" name_jp="Barrel Collection" img="barrel_series.png"/>
+
+		<!-- same file name!!!! -->
+		<!--<collection qty="0" file="columbus_series_automatic" name_en="Columbus Collection" name_tc="哥倫布系列" name_sc="哥伦布系列" name_fr="Columbus Collection" name_jp="Columbus Collection" img="columbus_series_automatic.png"/>-->
+
+		<collection qty="30" file="noble_series" name_en="Noble Collection" name_tc="豪爽系列" name_sc="豪爽系列" name_fr="Noble Collection" name_jp="Noble Collection" img="noble_series.png"/>
+	</automatic>
+
+	<quartz>
+		<collection qty="28" file="danaus_quartz_series" name_en="Danaus Collection" name_tc="典雅系列" name_sc="典雅系列" name_fr="Danaus Collection" name_jp="Danaus Collection" img="BGR860_59291PR_f.png"/>
+
+		<collection qty="9" file="retro_collection_2" name_en="Retro Collection" name_tc="復古系列" name_sc="复古系列" name_fr="Retro Collection" name_jp="Retro Collection" img="GS901SX_48651BK.png"/>
+
+		<collection qty="4" file="romance_series_3_q" name_en="Romance Collection" name_tc="傳奇系列" name_sc="傳奇系列" name_fr="Romance Collection" name_jp="Romance Collection" img="RomanceSeriesIII_q.png"/>
+
+		<collection qty="17" file="retro_collection" name_en="Retro Collection" name_tc="復古系列" name_sc="复古系列" name_fr="Retro Collection" name_jp="Retro Collection" img="RetroCollection.png"/>
+
+		<collection qty="20" file="harmonic_collection" name_en="Harmonic Collection" name_tc="音韻系列" name_sc="音韵系列" name_fr="Harmonic Collection" name_jp="Harmonic Collection" img="harmonic_collection.png"/>
+
+		<collection qty="10" file="romance_series_1" name_en="Romance Collection" name_tc="傳奇系列" name_sc="传奇系列" name_fr="Romance Collection" name_jp="Romance Collection" img="romance_series_1.png"/>
+
+		<collection qty="8" file="rock_series_2" name_en="Rocky Collection" name_tc="洛奇系列" name_sc="洛奇系列" name_fr="Rocky Collection" name_jp="Rocky Collection" img="rock_series_2.png"/>
+
+		<collection qty="2" file="venus_collection" name_en="Venus Collection" name_tc="維納斯系列" name_sc="维纳斯系列" name_fr="Venus Collection" name_jp="Venus Collection" img="venus_collection.png"/>
+
+		<collection qty="15" file="technosports_collection" name_en="TechnoSports Collection" name_tc="迪奴系列" name_sc="迪奴系列" name_fr="TechnoSports Collection" name_jp="TechnoSports Collection" img="technosports_collection.png"/>
+
+		<collection qty="12" file="gary_quartz_series" name_en="Gary Collection" name_tc="雅仕系列" name_sc="雅仕系列" name_fr="Gary Collection" name_jp="Gary Collection" img="gary_quartz_series.png"/>
+
+		<!-- merged with gary quartz -->
+		<!--
+		<collection qty="3" file="gary_mermaid_series" name_en="Gary Mermaid Collection" name_tc="雅仕美人魚系列" name_sc="雅仕美人鱼系列" name_fr="Séries Gary Mermaid" name_jp="ゲイリーマーメイドコレクション" img="gary_mermaid_series.png"/>
+		-->
+
+		<collection qty="28" file="joss_quartz_series" name_en="Joss Collection" name_tc="喬斯系列" name_sc="乔斯系列" name_fr="Joss Collection" name_jp="Joss Collection" img="joss_quartz_series.png"/>
+
+		<collection qty="29" file="cosmic_series" name_en="Cosmic Collection" name_tc="星宇系列" name_sc="星宇系列" name_fr="Cosmic Collection" name_jp="Cosmic Collection" img="cosmic_series.png"/>
+
+		<collection qty="6" file="yally_series" name_en="Yally Collection" name_tc="雅麗系列" name_sc="雅丽系列" name_fr="Yally Collection" name_jp="Yally Collection" img="yally_series.png"/>
+
+		<collection qty="20" file="yally_series_2" name_en="Yally Collection" name_tc="雅麗系列" name_sc="雅丽系列" name_fr="Yally Collection" name_jp="Yally Collection" img="GBR5650H_03191BR_f.png"/>
+
+		<!-- same file name!!!! -->
+		<!--
+		<collection qty="0" file="starry_series" name_en="Starry Collection" name_tc="星輝系列" name_sc="星辉系列" name_fr="Starry Collection" name_jp="Starry Collection" img="starry_series.png"/>
+		-->
+
+		<collection qty="10" file="true_love_collection" name_en="True Love Collection" name_tc="真愛系列" name_sc="真爱系列" name_fr="True Love Collection" name_jp="True Love Collection" img="true_love_collection.png"/>
+
+		<!--
+		<collection qty="0" file="columbus_series_quartz" name_en="Columbus Collection" name_tc="哥倫布系列" name_sc="哥伦布系列" name_fr="Columbus Collection" name_jp="Columbus Collection" img="columbus_series_quartz.png"/>
+
+		<collection qty="0" file="voyager_series" name_en="Voyager Collection" name_tc="諾伯系列" name_sc="诺伯系列" name_fr="Voyager Collection" name_jp="Voyager Collection" img="voyager_series.png"/>
+		-->
+	</quartz>
+</data>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ernest Borel</string>
+    <string name="imageDesc"></string>
+    <string name="title_collection">Collections</string>
+    <string name="title_brand">The Brand</string>
+    <string name="title_news">Latest News</string>
+    <string name="title_stores">Retailer</string>
+    <string name="title_aftersale">After-sales Service</string>
+    <string name="title_wallpapers">Wallpapers</string>
+	<string name="title_time">Time Zone</string>   
+	
+	<string name="brand_videoheader">Corporate Video</string>
+	<string name="brand_videocopyright">Corporate video of Ernest Borel factory at Le Noirmont, Switzerland.</string>
+	<string name="brand_content">Ernest Borel was founded and established in 1856 in Neuchâtel by Jules Borel and Paul Courvoisier. 
+	     The company has a proud history of 157 years and the brand is well known for its quality and know how on the five continents.
+	     Ernest Borel consistently held the belief Solid and Durable, Accurate and Secure, Elegant and Practical. 
+	     Ernest Borel always follows the initial enterprise spirit of creating perfection.
+	     Not only is it very meaningful for the clock and watch industry but also provides an unchangeable life style for those pursuing perfection, fashion and romance.\n\n
+		 Ernest Borel\'s obedience to family strategy of foresight and sagacity enabled its product sales
+		 channels to spread to continents like America, Europe and Asia, and then the company quickly expanded to countries like Japan, China and India, these
+		 regions becoming Ernest Borel main market. Ernest Borel understands the customer\'s needs to have a watch that offers quality accuracy solidity durability at an affordable price.\n\n
+		 Our new Head Office and production facility was inaugurated in 2009 in the Noirmont, in the middle of the Franches-Montagnes, in the Swiss Jura region. 
+		 The combination of this modern production plant, equipped with the latest watch making machines and our dedicated professional, qualified, motivated team ensure efficient 
+		 production, sales and customer service. Ernest Borel\'s watchmakers strive ceaselessly to create new collections, blending cutting-edge technology with meticulous concern for detail.\n\n		 
+		 We welcome you all in our Ernest Borel World!!</string>
+	<string name="title_info">SPECIFICATION</string>   
+	
+	<string name="times_addcity">Tap here to add city</string>
+	<string name="times_searchHints">Search for a city</string>
+	<string name="times_today">Today</string>
+	<string name="times_tomorrow">Tomorrow</string>
+	<string name="times_yesterday">Yesterday</string>
+		
+	<string name="pdialog_complete">Photo saved to Album</string> 
+	<string name="pdialog_ok">ok</string>
+	
+	<string name="timezone_name_amsterdam">Amsterdam</string>
+	<string name="timezone_name_vienna">Vienna</string>
+	<string name="timezone_name_brussels">Brussels</string>
+	<string name="timezone_name_prague">Prague</string>
+	<string name="timezone_name_copenhagen">Copenhagen</string>
+	<string name="timezone_name_paris">Paris</string>
+	<string name="timezone_name_berlin">Berlin</string>
+	<string name="timezone_name_vatican">Vatican City</string>
+	<string name="timezone_name_rome">Rome</string>
+	<string name="timezone_name_monaco">Monaco</string>
+	<string name="timezone_name_oslo">Oslo</string>
+	<string name="timezone_name_warsaw">Warsaw</string>
+	<string name="timezone_name_madrid">Madrid</string>
+	<string name="timezone_name_stockholm">Stockholm</string>
+	<string name="timezone_name_berne">Berne</string>
+	<string name="timezone_name_cairo">Cairo</string>
+	<string name="timezone_name_helsinki">Helsinki</string>
+	<string name="timezone_name_athens">Athens</string>
+	<string name="timezone_name_bucharest">Bucharest</string>
+	<string name="timezone_name_ankara">Ankara</string>
+	<string name="timezone_name_kiev">Kiev</string>
+	<string name="timezone_name_istanbul">Istanbul</string>
+	<string name="timezone_name_kuwait">Kuwait City</string>
+	<string name="timezone_name_antananarivo">Antananarivo</string>
+	<string name="timezone_name_tehran">Tehran</string>
+	<string name="timezone_name_muscat">Muscat</string>
+	<string name="timezone_name_doha">Doha</string>
+	<string name="timezone_name_riyadh">Riyadh</string>
+	<string name="timezone_name_moscow">Moscow</string>
+	<string name="timezone_name_abudhabi">Abu Dhabi</string>
+	<string name="timezone_name_portlouis">Port Louis</string>
+	<string name="timezone_name_kabul">Kabul</string>
+	<string name="timezone_name_male">Malé</string>
+	<string name="timezone_name_islamabad">Islamabad</string>
+	<string name="timezone_name_newdelhi">New Delhi</string>
+	<string name="timezone_name_colombo">Colombo</string>
+	<string name="timezone_name_thimphu">Thimphu</string>
+	<string name="timezone_name_dhaka">Dhaka</string>
+	<string name="timezone_name_yangon">Yangon(Rangoon)</string>
+	<string name="timezone_name_phnompenh">Phnom Penh</string>
+	<string name="timezone_name_jakarta">Jakarta</string>
+	<string name="timezone_name_bangkok">Bangkok</string>
+	<string name="timezone_name_hanoi">Hanoi</string>
+	<string name="timezone_name_beijing">Beijing</string>
+	<string name="timezone_name_shanghai">Shanghai</string>
+	<string name="timezone_name_macau">Macau</string>
+	<string name="timezone_name_kualalumpur">Kuala Lumpur</string>
+	<string name="timezone_name_ulanbator">Ulan Bator</string>
+	<string name="timezone_name_manila">Manila</string>
+	<string name="timezone_name_singapore">Singapore</string>
+	<string name="timezone_name_taipei">Taipei</string>
+	<string name="timezone_name_hongkong">Hong Kong</string>
+	<string name="timezone_name_chongqing">Chongqing</string>
+	<string name="timezone_name_tokyo">Tokyo</string>
+	<string name="timezone_name_osaka">Osaka</string>
+	<string name="timezone_name_seoul">Seoul</string>
+	<string name="timezone_name_adelaide">Adelaide</string>
+	<string name="timezone_name_darwin">Darwin</string>
+	<string name="timezone_name_brisbane">Brisbane</string>
+	<string name="timezone_name_hagatna">Hagatna</string>
+	<string name="timezone_name_melbourne">Melbourne</string>
+	<string name="timezone_name_canberra">Canberra, ACT</string>
+	<string name="timezone_name_sydney">Sydney</string>
+	<string name="timezone_name_solomonislands">Solomon Islands</string>
+	<string name="timezone_name_newcaledonia">New Caledonia</string>
+	<string name="timezone_name_portvila">Port Vila</string>
+	<string name="timezone_name_suva">Suva, Fiji</string>
+	<string name="timezone_name_magadan">Magadan, Russian</string>
+	<string name="timezone_name_auckland">Auckland</string>
+	<string name="timezone_name_wellington">Wellington</string>
+	<string name="timezone_name_samoa">Samoa</string>
+	<string name="timezone_name_nuku">Nuku\'alofa</string>
+	<string name="timezone_name_dublin">Dublin</string>
+	<string name="timezone_name_lisbon">Lisbon</string>
+	<string name="timezone_name_london">London</string>
+	<string name="timezone_name_azores">Azores</string>
+	<string name="timezone_name_dakar">Dakar</string>
+	<string name="timezone_name_brasilia">Brasilia</string>
+	<string name="timezone_name_midatlantic">Mid-Atlantic</string>
+	<string name="timezone_name_greenland">Greenland</string>
+	<string name="timezone_name_fortaleza">Fortaleza</string>
+	<string name="timezone_name_buenosaires">Buenos Aires</string>
+	<string name="timezone_name_santiago">Santiago</string>
+	<string name="timezone_name_newfoundland">Newfoundland</string>
+	<string name="timezone_name_hamiltonbermuda">Hamilton, Bermuda</string>
+	<string name="timezone_name_britishvirginislands">British Virgin Islands</string>
+	<string name="timezone_name_sanjuanpuertorico">San Juan, Puerto Rico</string>
+	<string name="timezone_name_castries">Castries</string>
+	<string name="timezone_name_caracas">Caracas</string>
+	<string name="timezone_name_nassaubahamas">Nassau, Bahamas</string>
+	<string name="timezone_name_toronto">Toronto</string>
+	<string name="timezone_name_havana">Havana</string>
+	<string name="timezone_name_kingston">Kingston</string>
+	<string name="timezone_name_panamacity">Panama City</string>
+	<string name="timezone_name_washington">Washington</string>
+	<string name="timezone_name_sanjose">San José</string>
+	<string name="timezone_name_mexicocity">Mexico City</string> 
+	<string name="timezone_name_chicago">Chicago</string>
+	<string name="timezone_name_chihuahua">Chihuahua</string>
+	<string name="timezone_name_arizona">Arizona</string>
+	<string name="timezone_name_losangeles">Los Angeles</string>
+	<string name="timezone_name_pitcairnislands">Pitcairn Islands</string>
+	<string name="timezone_name_vancouver">Vancouver</string>
+	<string name="timezone_name_alaska">Alaska</string>
+	<string name="timezone_name_honoluluhawaii">Honolulu, Hawaii</string>
+	<string name="timezone_name_midwayatoll">Midway Atoll</string>
+	<string name="timezone_name_enderburyisland">Enderbury Island</string>
+	<string name="timezone_name_kwajaleinatoll">Kwajalein Atoll</string>
+	<string name="timezone_name_switzerland">Switzerland</string>
+	
+	<string name="instagram_not_found">Instagram not found"</string>
+</resources>

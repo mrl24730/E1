@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout 
+     xmlns:android="http://schemas.android.com/apk/res/android"
+    	android:layout_width="fill_parent" 
+		android:layout_height="fill_parent" 
+    >
+    
+    
+    <RelativeLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/MenuBar_TopBar"
+        android:background="@drawable/general_menutopbar"
+        >
+        
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/MenuBar_BackBtn"
+            android:background="@drawable/general_backbtn" 
+            android:layout_centerVertical="true"
+      	    android:layout_marginLeft="10dp"
+      	    android:visibility="invisible"
+		/>
+        
+        <TextView
+            android:id="@+id/MenuBar_Title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/title_brand"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"      
+            android:textColor="@android:color/white"
+            android:textStyle="bold"
+            android:textSize="22sp"      
+            />
+        
+    </RelativeLayout>
+       
+    <RelativeLayout 
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+    
+        	<Button	 android:layout_width="fill_parent" 
+				android:layout_height="fill_parent"			
+				android:id="@+id/MenuBar_HiddenBtn"		
+				android:background="@drawable/blk" />            
+	</RelativeLayout>
+        
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/MenuBar_BGFrame" 
+        android:layout_gravity="right"
+     >
+		
+        <Button 
+		       android:layout_width="wrap_content"
+		       android:layout_height="wrap_content"
+		       android:background="@drawable/menubar_btn"
+		       android:layout_gravity="right"
+		       android:gravity="right"
+		       android:id="@+id/MenuBar_TopMainBtn"		
+		       />		    
+	    
+	    <LinearLayout
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		  	android:gravity="right"  	
+		  	android:id= "@+id/MenuBar_Table"	  
+		    android:orientation="vertical"
+		    android:layout_gravity="right" >
+	        
+	    
+		     <Button 
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:background="@drawable/menubar_homebtn"
+		        android:id="@+id/MenuBar_HomeBtn"    
+		    />    
+		                    
+		    <Button 
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:background="@drawable/menubar_collectionsbtn"
+		        android:id="@+id/MenuBar_CollectionBtn"
+		        />
+		    
+		    <Button 
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:background="@drawable/menubar_thebrandbtn"
+		        android:id="@+id/MenuBar_BrandBtn"
+		        />
+		    
+		    <Button 
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:background="@drawable/menubar_newsbtn"
+		        android:id="@+id/MenuBar_NewsBtn"
+		        />
+		    
+		    <Button 
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:background="@drawable/menubar_storesbtn"
+		        android:id="@+id/MenuBar_StoreBtn"
+		        />
+		    
+		    <Button 
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:background="@drawable/menubar_aftersalesbtn"
+		        android:id="@+id/MenuBar_AfterSaleseBtn"
+		        />
+		    
+		     <Button 
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:background="@drawable/menubar_wallpapersbtn"
+		        android:id="@+id/MenuBar_WallpaperBtn"
+		        /> 
+		          
+			<Button 
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:background="@drawable/menubar_timezonebtn"		        
+		        android:layout_gravity="right"
+		        android:id="@+id/MenuBar_TimeBtn"
+		        /> 
+		        					 
+			<Button 
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:background="@drawable/menubar_btn"
+		        android:layout_gravity="right"
+		        android:id="@+id/MenuBar_MainBtn"
+		        />
+			
+	    </LinearLayout>	    
+    </FrameLayout>       
+    
+    
+    	
+   	<ImageView 
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+        android:background="@drawable/menubar_btn"
+        android:layout_gravity="right"
+        android:id="@+id/MenuBar_MainLayerImage"
+        android:clickable="false"
+     />
+			
+</FrameLayout>

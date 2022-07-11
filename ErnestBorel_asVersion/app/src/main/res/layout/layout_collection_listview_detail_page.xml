@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+     <ImageView
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:background="@drawable/general_bg"
+		android:contentDescription="@string/imageDesc"
+		android:layout_centerVertical="true"
+		android:layout_centerHorizontal="true"  />
+     
+    <TextView
+		android:id="@+id/Collection_Detail_WatchName"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_centerHorizontal="true"
+		android:layout_marginTop="10dp"
+		android:ellipsize="end"
+		android:gravity="center"
+		android:maxLines="1"
+		android:text=""
+		android:textColor="@android:color/white"
+		android:textSize="18sp"
+		android:textStyle="bold" />
+    
+    <TextView
+		android:id="@+id/Collection_Detail_ScrollTotalName"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:layout_centerHorizontal="true"
+		android:layout_marginBottom="10dp"
+		android:ellipsize="end"
+		android:gravity="center"
+		android:maxLines="1"
+		android:text=""
+		android:textColor="@android:color/white"
+		android:textSize="18sp"
+		android:textStyle="bold" />
+    
+    <LinearLayout
+        android:orientation="horizontal"
+		android:id="@+id/Collection_Detail_PageLineLayout"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:layout_centerHorizontal="true"
+		android:layout_marginBottom="20dp"  >
+
+    </LinearLayout>
+    
+    <RelativeLayout
+		android:id="@+id/Collection_Detail_ScrollLayout"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_centerVertical="true"
+		android:layout_centerHorizontal="true"  >
+
+    </RelativeLayout>
+    
+    <Button
+		android:id="@+id/Collection_Detail_LeftArrow"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:background="@drawable/collection_leftarrow"
+		android:layout_centerVertical="true"
+		android:layout_alignParentLeft="true"
+		android:layout_marginLeft="10dp" />
+		
+    <Button
+		android:id="@+id/Collection_Detail_RightArrow"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:background="@drawable/collection_rightarrow"
+		android:layout_centerVertical="true"
+		android:layout_alignParentRight="true"
+		android:layout_marginRight="10dp" />
+    
+</RelativeLayout>
+
+<!-- <TextView
+		android:id="@+id/Collection_Detail_ScrollTotalName"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:layout_centerHorizontal="true"
+		android:layout_marginBottom="10dp"
+		android:ellipsize="end"
+		android:gravity="center"
+		android:maxLines="1"
+		android:text=""
+		android:textColor="@android:color/white"
+		android:textSize="18sp"
+		android:textStyle="bold" /> -->
