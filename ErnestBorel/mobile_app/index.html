@@ -1,0 +1,73 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content= "瑞士依波路品牌" >
+<meta name="keywords" content="依波路" >
+<meta name="viewport" content="width=640;">
+<title>瑞士依波路表官网</title>
+<link rel="stylesheet" type="text/css" href="/css/reset-fonts-grids.css">
+<link rel="stylesheet" type="text/css" href="/css/style.css">
+<link rel="stylesheet" type="text/css" href="/css/style_ch.css">
+<style>
+body{color: #FFF;}
+#main{ margin:0 auto;width:640px;font-size:1.7em;padding-bottom:50px;background:url(/images/bg_section.jpg); min-height: 800px; position: relative;}
+#main .sLine {background:url(/images/bg_nav_grad.png);width:100%; height:12px;margin-bottom:30px;}
+#main .topBar{ background: url(/images/topBar2.jpg); height: 163px; width: 100%; background-position: center; }
+#main p {text-align:center; padding:25px; line-height:36px;margin:auto;background:url(../images/trans.gif); margin: 20px 0;}
+#main p.txt{ margin: 50px 0;}
+#main #goMainSite { font-size:1.625em; color:#CD8C67; padding:10px 63px 10px 20px; border:1px #CD8C67 solid; background:url(/images/qrcode_arrow2.png) 96% 55% no-repeat;}
+
+.txt_reminder {position: absolute; right: 20px; top: 0; padding: 20px; background-color: rgba(0, 0, 0, .7); color: #FFF; font-size: 20px; white-space: nowrap;}
+.txt_reminder .arrow{ vertical-align: middle; height: 35px; display: inline-block;}
+
+.txt_reminder span{ display: inline-block; vertical-align: top; text-align: left; }
+</style>
+<script src="/js/jquery/jquery-1.6.4.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+
+var is_iPhone = navigator.userAgent.indexOf("iPhone") != -1 ;
+var is_iPod = navigator.userAgent.indexOf("iPod") != -1 ;
+var is_iPad = (navigator.userAgent.indexOf("iPad") != -1);
+var is_Android = (navigator.userAgent.indexOf("Android") != -1);
+var is_iOS = is_iPhone || is_iPod || is_iPad ;
+var is_Mobile = is_iPhone || is_Android || is_iPod;
+var is_Webview = false;
+var txt_reminder = "Android手机用户下载APP请以浏览器开启本页";
+
+
+
+$(document).ready(function() {
+
+  if(is_Android){
+    is_Webview = navigator.userAgent.indexOf("Version") != -1 ;
+  }else if (is_iPhone){
+    var is_Safari = navigator.userAgent.indexOf("Safari") != -1 ;
+    var is_Chrome = navigator.userAgent.indexOf("Chrome") != -1 ;
+    var is_Firefox = navigator.userAgent.indexOf("Firfox") != -1 ;
+    is_Webview = !(is_Safari || is_Chrome || is_Firefox);
+  }
+  
+  $(".txt_reminder").hide();
+  if(is_Webview) $(".txt_reminder").fadeIn();
+});
+
+</script>
+
+</head>
+
+<body>
+<div id="main">
+<div class="topBar"></div>
+<div class="sLine" ></div>
+<p class="txt">瑞士依波路表手机应用程式让你随时随地<br>了解品牌历史及获得最新产品资讯。</p>
+<p><a id="goMainSite" href="https://itunes.apple.com/us/app/ernest-borel-rui-shi-yi-bo/id623750765?mt=8" target="_blank"> 下载iPhone手机应用程式 </a><br /></p>
+<p><a id="goMainSite" href="http://www.ernestborel.cn/downloads/ErnestBorel.apk" target="_blank"> 下载Android手机应用程式 </a><br /></p>
+</div>
+<div class="txt_reminder">
+  <span>Android手机用户下载APP<br>请以浏览器开启本页</span>
+  <span><img src="arrow_icon.png" class="arrow"></span>
+</div>
+</body>
+</html>

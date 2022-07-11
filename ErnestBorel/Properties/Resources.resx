@@ -1,0 +1,480 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="bc_home_en" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="bc_home_fr" xml:space="preserve">
+    <value>Accueil</value>
+  </data>
+  <data name="bc_home_jp" xml:space="preserve">
+    <value>メインページ</value>
+  </data>
+  <data name="bc_home_sc" xml:space="preserve">
+    <value>主页</value>
+  </data>
+  <data name="bc_home_tc" xml:space="preserve">
+    <value>依波路</value>
+  </data>
+  <data name="bc_watch_en" xml:space="preserve">
+    <value>Collection</value>
+  </data>
+  <data name="bc_watch_fr" xml:space="preserve">
+    <value>Collection</value>
+  </data>
+  <data name="bc_watch_jp" xml:space="preserve">
+    <value>シリーズ</value>
+  </data>
+  <data name="bc_watch_sc" xml:space="preserve">
+    <value>系列</value>
+  </data>
+  <data name="bc_watch_tc" xml:space="preserve">
+    <value>系列</value>
+  </data>
+  <data name="casual_desc_en" xml:space="preserve">
+    <value>&lt;p&gt;CASUAL SERIES is a men’s collection of Ernest Borel celebrating the effortless versatility that gives everyday styling a suave and comfortable boost for urban gentlemen to flaunt their refined but nonchalant demeanour in every occasion from desk to dinner.&lt;/p&gt;</value>
+  </data>
+  <data name="casual_desc_fr" xml:space="preserve">
+    <value>&lt;p&gt;CASUAL SERIES is a men’s collection of Ernest Borel celebrating the effortless versatility that gives everyday styling a suave and comfortable boost for urban gentlemen to flaunt their refined but nonchalant demeanour in every occasion from desk to dinner.&lt;/p&gt;</value>
+  </data>
+  <data name="casual_desc_jp" xml:space="preserve">
+    <value>&lt;p&gt;CASUAL SERIES is a men’s collection of Ernest Borel celebrating the effortless versatility that gives everyday styling a suave and comfortable boost for urban gentlemen to flaunt their refined but nonchalant demeanour in every occasion from desk to dinner.&lt;/p&gt;</value>
+  </data>
+  <data name="casual_desc_sc" xml:space="preserve">
+    <value>&lt;p&gt;CASUAL SERIES (潇洒雅仕) –– 是依波路男士腕表的产品线。&lt;/p&gt;&lt;p&gt;CASUAL SERIES意在带给都市人一枚任何场合都适合配戴、风格百搭而时尚舒适的腕表，散发出都市男士潇洒不羁的雅仕风范。  &lt;/p&gt;</value>
+  </data>
+  <data name="casual_desc_tc" xml:space="preserve">
+    <value>&lt;p&gt;CASUAL SERIES (瀟灑雅仕) –– 是依波路男士腕表的產品線。&lt;/p&gt;&lt;p&gt;CASUAL SERIES意在帶給都市人一枚任何場合都適合配戴、風格百搭而時尚舒適的腕表，散發出都市男士瀟灑不羈的雅仕風範。  &lt;/p&gt;</value>
+  </data>
+  <data name="collection_desc_all_en" xml:space="preserve">
+    <value>Romance in Heart Since 1856. Ernest Borel –  founded in Neuchatel, Switzerland. Exquisitely elegant, admirably designed automatic and quartz-movement wrist watches for men and women.</value>
+  </data>
+  <data name="collection_desc_all_fr" xml:space="preserve">
+    <value>Romance in Heart Since 1856. Ernest Borel –  founded in Neuchatel, Switzerland. Exquisitely elegant, admirably designed automatic and quartz-movement wrist watches for men and women.</value>
+  </data>
+  <data name="collection_desc_all_jp" xml:space="preserve">
+    <value>Romance in Heart Since 1856. Ernest Borel –  founded in Neuchatel, Switzerland. Exquisitely elegant, admirably designed automatic and quartz-movement wrist watches for men and women.</value>
+  </data>
+  <data name="collection_desc_all_sc" xml:space="preserve">
+    <value>瑞士手表品牌—依波路，推出最新高档手表产品包括自动系列和石英系列，分别为男士、女士分别打造不同品味的高档手表,情侣表等</value>
+  </data>
+  <data name="collection_desc_all_tc" xml:space="preserve">
+    <value>源自1856年的浪漫經典 — 依波路，發源自「鐘表王國」瑞士紐察圖，以'精益求精'的探索精神，打造出款式設計典雅精致的奢華腕表。</value>
+  </data>
+  <data name="collection_desc_type_en" xml:space="preserve">
+    <value>Ernest Borel {0} Collection : {1}</value>
+  </data>
+  <data name="collection_desc_type_fr" xml:space="preserve">
+    <value>Ernest Borel {0} Collection : {1}</value>
+  </data>
+  <data name="collection_desc_type_jp" xml:space="preserve">
+    <value>Ernest Borel - {0} : {1}</value>
+  </data>
+  <data name="collection_desc_type_sc" xml:space="preserve">
+    <value>瑞士手表品牌依波路手表，推出最新{0}名牌手表包括{1}</value>
+  </data>
+  <data name="collection_desc_type_tc" xml:space="preserve">
+    <value>瑞士手表品牌依波路手表，推出最新{0}名牌手表包括{1}</value>
+  </data>
+  <data name="collection_title_all_en" xml:space="preserve">
+    <value>Ernest Borel - Watch Collections</value>
+  </data>
+  <data name="collection_title_all_fr" xml:space="preserve">
+    <value>Ernest Borel - Watch Collections</value>
+  </data>
+  <data name="collection_title_all_jp" xml:space="preserve">
+    <value>Ernest Borel - 最新製品</value>
+  </data>
+  <data name="collection_title_all_sc" xml:space="preserve">
+    <value>依波路官方网站 - 依波路手表最新产品</value>
+  </data>
+  <data name="collection_title_all_tc" xml:space="preserve">
+    <value>依波路官方網站 - 依波路手表最新產品</value>
+  </data>
+  <data name="collection_title_type_en" xml:space="preserve">
+    <value>Ernest Borel - Watch Collections - {0}</value>
+  </data>
+  <data name="collection_title_type_fr" xml:space="preserve">
+    <value>Ernest Borel - Watch Collections - {0}</value>
+  </data>
+  <data name="collection_title_type_jp" xml:space="preserve">
+    <value>Ernest Borel - 最新製品 - {0}</value>
+  </data>
+  <data name="collection_title_type_sc" xml:space="preserve">
+    <value>依波路表官方网站 - 依波路{0}手表</value>
+  </data>
+  <data name="collection_title_type_tc" xml:space="preserve">
+    <value>依波路表官方網站 - 依波路{0}手表</value>
+  </data>
+  <data name="couple_desc_en" xml:space="preserve">
+    <value>&lt;p&gt;ROMANTIC SERIES (浪漫情侣) –– 是依波路的情侣腕表产品线，寓意世间爱情都能穿越时空，以对表传情，方寸说爱。&lt;/p&gt;&lt;p&gt;承袭品牌过百年的浪漫优雅，ROMANTIC SERIES终在时间的淬炼下把一款款精致华美的情侣对表集结成群，流芳万世。&lt;/p&gt;</value>
+  </data>
+  <data name="couple_desc_fr" xml:space="preserve">
+    <value>&lt;p&gt;ROMANTIC SERIES (浪漫情侣) –– 是依波路的情侣腕表产品线，寓意世间爱情都能穿越时空，以对表传情，方寸说爱。&lt;/p&gt;&lt;p&gt;承袭品牌过百年的浪漫优雅，ROMANTIC SERIES终在时间的淬炼下把一款款精致华美的情侣对表集结成群，流芳万世。&lt;/p&gt;</value>
+  </data>
+  <data name="couple_desc_jp" xml:space="preserve">
+    <value>&lt;p&gt;ROMANTIC SERIES (浪漫情侣) –– 是依波路的情侣腕表产品线，寓意世间爱情都能穿越时空，以对表传情，方寸说爱。&lt;/p&gt;&lt;p&gt;承袭品牌过百年的浪漫优雅，ROMANTIC SERIES终在时间的淬炼下把一款款精致华美的情侣对表集结成群，流芳万世。&lt;/p&gt;</value>
+  </data>
+  <data name="couple_desc_sc" xml:space="preserve">
+    <value>&lt;p&gt;ROMANTIC SERIES (浪漫情侣) –– 是依波路的情侣腕表产品线，寓意世间爱情都能穿越时空，以对表传情，方寸说爱。&lt;/p&gt;&lt;p&gt;承袭品牌过百年的浪漫优雅，ROMANTIC SERIES终在时间的淬炼下把一款款精致华美的情侣对表集结成群，流芳万世。&lt;/p&gt;</value>
+  </data>
+  <data name="couple_desc_tc" xml:space="preserve">
+    <value>&lt;p&gt;ROMANTIC SERIES (浪漫情侶) –– 是依波路的情侶腕表產品線，寓意世間愛情都能穿越時空，以對表傳情，方寸說愛。&lt;/p&gt;&lt;p&gt;承襲品牌過百年的浪漫優雅，ROMANTIC SERIES終在時間的淬煉下把一款款精緻華美的情侶對表集結成群，流芳萬世。&lt;/p&gt;</value>
+  </data>
+  <data name="Discount_en" xml:space="preserve">
+    <value>Discount</value>
+  </data>
+  <data name="Discount_sc" xml:space="preserve">
+    <value>试算扣率</value>
+  </data>
+  <data name="Discount_tc" xml:space="preserve">
+    <value>試算扣率</value>
+  </data>
+  <data name="emailsubject_en" xml:space="preserve">
+    <value>Your order has been received, order number: {0}</value>
+  </data>
+  <data name="emailsubject_sc" xml:space="preserve">
+    <value>已收到你的订单，订单编号: {0}</value>
+  </data>
+  <data name="emailsubject_tc" xml:space="preserve">
+    <value>已收到你的訂單，訂單編號: {0}</value>
+  </data>
+  <data name="lady_desc_en" xml:space="preserve">
+    <value>&lt;p&gt;FEMININE SERIES (优雅淑女) –– 是依波路女士腕表的产品线。&lt;/p&gt;&lt;p&gt;意在透过多种唯美耀目的细节设计，把女性端庄高雅、时尚大方、清新脱俗、雍容华贵、朴素商务等万千风韵展现人前。&lt;/p&gt;</value>
+  </data>
+  <data name="lady_desc_fr" xml:space="preserve">
+    <value>&lt;p&gt;FEMININE SERIES (优雅淑女) –– 是依波路女士腕表的产品线。&lt;/p&gt;&lt;p&gt;意在透过多种唯美耀目的细节设计，把女性端庄高雅、时尚大方、清新脱俗、雍容华贵、朴素商务等万千风韵展现人前。&lt;/p&gt;</value>
+  </data>
+  <data name="lady_desc_jp" xml:space="preserve">
+    <value>&lt;p&gt;FEMININE SERIES (优雅淑女) –– 是依波路女士腕表的产品线。&lt;/p&gt;&lt;p&gt;意在透过多种唯美耀目的细节设计，把女性端庄高雅、时尚大方、清新脱俗、雍容华贵、朴素商务等万千风韵展现人前。&lt;/p&gt;</value>
+  </data>
+  <data name="lady_desc_sc" xml:space="preserve">
+    <value>&lt;p&gt;FEMININE SERIES (优雅淑女) –– 是依波路女士腕表的产品线。&lt;/p&gt;&lt;p&gt;意在透过多种唯美耀目的细节设计，把女性端庄高雅、时尚大方、清新脱俗、雍容华贵、朴素商务等万千风韵展现人前。&lt;/p&gt;</value>
+  </data>
+  <data name="lady_desc_tc" xml:space="preserve">
+    <value>&lt;p&gt;FEMININE SERIES (優雅淑女) –– 是依波路女士腕表的產品線。&lt;/p&gt;&lt;p&gt;意在透過多種唯美耀目的細節設計，把女性端莊高雅、時尚大方、清新脫俗、雍容華貴、樸素商務等萬千風韻展現人前。&lt;/p&gt;</value>
+  </data>
+  <data name="OrderSummary_en" xml:space="preserve">
+    <value>OrderSummary</value>
+  </data>
+  <data name="OrderSummary_sc" xml:space="preserve">
+    <value>订单总结</value>
+  </data>
+  <data name="OrderSummary_tc" xml:space="preserve">
+    <value>訂單總結</value>
+  </data>
+  <data name="Qty_en" xml:space="preserve">
+    <value>Qty</value>
+  </data>
+  <data name="Qty_sc" xml:space="preserve">
+    <value>数量</value>
+  </data>
+  <data name="Qty_tc" xml:space="preserve">
+    <value>數量</value>
+  </data>
+  <data name="Reamark_tc" xml:space="preserve">
+    <value>實際結算折扣以依波路與供應商簽署合同為準</value>
+  </data>
+  <data name="Remark_en" xml:space="preserve">
+    <value>实际结算折扣以依波路舄供应商签署合同为准</value>
+  </data>
+  <data name="Remark_sc" xml:space="preserve">
+    <value>实际结算折扣以依波路與供应商签署合同为准</value>
+  </data>
+  <data name="Subtotal_en" xml:space="preserve">
+    <value>Subtotal</value>
+  </data>
+  <data name="Subtotal_sc" xml:space="preserve">
+    <value>小计</value>
+  </data>
+  <data name="Subtotal_tc" xml:space="preserve">
+    <value>小計</value>
+  </data>
+  <data name="title_en" xml:space="preserve">
+    <value>Ernest Borel - {0}</value>
+  </data>
+  <data name="title_fr" xml:space="preserve">
+    <value>Ernest Borel - {0}</value>
+  </data>
+  <data name="title_jp" xml:space="preserve">
+    <value>Ernest Borel - {0}</value>
+  </data>
+  <data name="title_sc" xml:space="preserve">
+    <value>瑞士依波路表官网 - {0}</value>
+  </data>
+  <data name="title_tc" xml:space="preserve">
+    <value>瑞士依波路表官網 - {0}</value>
+  </data>
+  <data name="Total_en" xml:space="preserve">
+    <value>Total</value>
+  </data>
+  <data name="TotalQty_en" xml:space="preserve">
+    <value>Total QTY</value>
+  </data>
+  <data name="TotalQty_sc" xml:space="preserve">
+    <value>总数量</value>
+  </data>
+  <data name="TotalQty_tc" xml:space="preserve">
+    <value>總數量</value>
+  </data>
+  <data name="Total_sc" xml:space="preserve">
+    <value>总计</value>
+  </data>
+  <data name="Total_tc" xml:space="preserve">
+    <value>總計</value>
+  </data>
+  <data name="UnitPrice_en" xml:space="preserve">
+    <value>UnitPrice</value>
+  </data>
+  <data name="UnitPrice_sc" xml:space="preserve">
+    <value>单价</value>
+  </data>
+  <data name="UnitPrice_tc" xml:space="preserve">
+    <value>單價</value>
+  </data>
+  <data name="watchfamily_casual_en" xml:space="preserve">
+    <value>Casual Series</value>
+  </data>
+  <data name="watchfamily_casual_fr" xml:space="preserve">
+    <value>Casual Series</value>
+  </data>
+  <data name="watchfamily_casual_jp" xml:space="preserve">
+    <value>CASUAL SERIES(カジュアルな紳士)</value>
+  </data>
+  <data name="watchfamily_casual_sc" xml:space="preserve">
+    <value>瀟洒雅仕</value>
+  </data>
+  <data name="watchfamily_casual_tc" xml:space="preserve">
+    <value>瀟洒雅仕</value>
+  </data>
+  <data name="watchfamily_couple_en" xml:space="preserve">
+    <value>Romantic Series</value>
+  </data>
+  <data name="watchfamily_couple_fr" xml:space="preserve">
+    <value>Romantic Series</value>
+  </data>
+  <data name="watchfamily_couple_jp" xml:space="preserve">
+    <value>ROMANTIC SERIES(ロマンチックな恋人たち)</value>
+  </data>
+  <data name="watchfamily_couple_sc" xml:space="preserve">
+    <value>浪漫情侶</value>
+  </data>
+  <data name="watchfamily_couple_tc" xml:space="preserve">
+    <value>浪漫情侶</value>
+  </data>
+  <data name="watchfamily_lady_en" xml:space="preserve">
+    <value>Feminine Series</value>
+  </data>
+  <data name="watchfamily_lady_fr" xml:space="preserve">
+    <value>Feminine Series</value>
+  </data>
+  <data name="watchfamily_lady_jp" xml:space="preserve">
+    <value>FEMININE SERIES (フェミニンな淑女)</value>
+  </data>
+  <data name="watchfamily_lady_sc" xml:space="preserve">
+    <value>優雅淑女</value>
+  </data>
+  <data name="watchfamily_lady_tc" xml:space="preserve">
+    <value>優雅淑女</value>
+  </data>
+  <data name="watchtype_automatic_en" xml:space="preserve">
+    <value>Automatic</value>
+  </data>
+  <data name="watchtype_automatic_fr" xml:space="preserve">
+    <value>Automatique</value>
+  </data>
+  <data name="watchtype_automatic_jp" xml:space="preserve">
+    <value>自動捲き式</value>
+  </data>
+  <data name="watchtype_automatic_sc" xml:space="preserve">
+    <value>自动机芯</value>
+  </data>
+  <data name="watchtype_automatic_tc" xml:space="preserve">
+    <value>自動機芯</value>
+  </data>
+  <data name="watchtype_quartz_en" xml:space="preserve">
+    <value>Quartz</value>
+  </data>
+  <data name="watchtype_quartz_fr" xml:space="preserve">
+    <value>Quartz</value>
+  </data>
+  <data name="watchtype_quartz_jp" xml:space="preserve">
+    <value>クオーツ</value>
+  </data>
+  <data name="watchtype_quartz_sc" xml:space="preserve">
+    <value>石英机芯</value>
+  </data>
+  <data name="watchtype_quartz_tc" xml:space="preserve">
+    <value>石英機芯</value>
+  </data>
+  <data name="OrderNumber_en" xml:space="preserve">
+    <value>Order Number</value>
+  </data>
+  <data name="OrderNumber_sc" xml:space="preserve">
+    <value>订单编号</value>
+  </data>
+  <data name="OrderNumber_tc" xml:space="preserve">
+    <value>訂單編號</value>
+  </data>
+  <data name="YourOrder_en" xml:space="preserve">
+    <value>Your Order</value>
+  </data>
+  <data name="YourOrder_sc" xml:space="preserve">
+    <value>你的订单</value>
+  </data>
+  <data name="YourOrder_tc" xml:space="preserve">
+    <value>你的訂單</value>
+  </data>
+  <data name="Gender_F_en" xml:space="preserve">
+    <value>Female</value>
+  </data>
+  <data name="Gender_F_sc" xml:space="preserve">
+    <value>女装</value>
+  </data>
+  <data name="Gender_F_tc" xml:space="preserve">
+    <value>女裝</value>
+  </data>
+  <data name="Gender_M_en" xml:space="preserve">
+    <value>Male</value>
+  </data>
+  <data name="Gender_M_sc" xml:space="preserve">
+    <value>男装</value>
+  </data>
+  <data name="Gender_M_tc" xml:space="preserve">
+    <value>男裝</value>
+  </data>
+  <data name="Gender_N_en" xml:space="preserve">
+    <value>Neutral</value>
+  </data>
+  <data name="Gender_N_sc" xml:space="preserve">
+    <value>中装</value>
+  </data>
+  <data name="Gender_N_tc" xml:space="preserve">
+    <value>中裝</value>
+  </data>
+  <data name="DiscountTotal_en" xml:space="preserve">
+    <value>Discounted Total</value>
+  </data>
+  <data name="DiscountTotal_sc" xml:space="preserve">
+    <value>折后总计</value>
+  </data>
+  <data name="DiscountTotal_tc" xml:space="preserve">
+    <value>折後總計</value>
+  </data>
+</root>
