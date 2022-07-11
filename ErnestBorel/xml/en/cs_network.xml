@@ -1,0 +1,1726 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<active>
+		<div class="region" title="Asia">
+			<div class="country" title="China">
+				<!-- 0 -->
+				
+				<!-- 1 -->
+				<div class="city" id="r0-c0-cc1" title="Anhui">
+					<div class="shop" id="r0-c0-cc1-s0">
+						<h4>1/F Brand Watch Store Hefei Parkson</h4>
+						<p class="address">No.77, Middle Huaihe Road, Hefei City</p>
+						<p class="contact">Tel: (86-551) 6261 6030</p>
+						<p class="lat">31.8659162</p>
+						<p class="lng">117.28319779999993</p>
+					</div>
+					<div class="shop" id="r0-c0-cc1-s1">
+						<h4>Hefei Xinyu Hendry World Brand Watch Center</h4>
+						<p class="address">Room 818, Hefei Gujing Holiday Inn，No.1104 Changjiang East Road Hefei city</p>
+						<p class="contact">Tel: (86-551) 6267 2580</p>
+						<p class="lat">331.864995</p>
+						<p class="lng">117.301744</p>
+					</div>
+				</div>
+				<!-- 2 -->
+				<div class="city" id="r0-c0-cc2" title="Beijing">
+					<div class="shop" id="r0-c0-cc2-s0">
+						<h4>Ernest Borel (Beijing) Maintenance Department</h4>
+						<p class="address">Room 805, Xincheng Culture Edifice, No.11 Chongwenmenwai Avenue ,Dongchen District, Beijing City</p>
+						<p class="contact">Tel: (86-10) 6708 3096</p>
+						<p class="lat">39.89385534320362</p>
+						<p class="lng">116.41825675964355</p>
+					</div>
+					<div class="shop" id="r0-c0-cc2-s1">
+						<h4>Beijing Hengdeli Fine Watch Service Center</h4>
+						<p class="address">B1/F, Danyao Edifice, No.172 Wangfujing Avenue, Dongcheng District, Beijing City</p>
+						<p class="lat">39.912830501606656</p>
+						<p class="lng">116.4116907119751</p>
+					</div>
+				</div>
+				<!-- 3 -->
+				<div class="city" id="r0-c0-cc3" title="Chongqing">
+					<div class="shop" id="r0-c0-cc3-s0">
+						<h4>Ruihuang Brand Watch Repair &amp; Maintenance Station</h4>
+						<p class="address">No.1 Minquan Road Yuzhong District Chongqing</p>
+						<p class="contact">Tel: (86-23) 6373 7878</p>
+						<p class="lat">29.556851</p>
+						<p class="lng">106.57703600000002</p>
+					</div>
+				</div>
+				<!-- 4 -->
+				<div class="city" id="r0-c0-cc4" title="Gansu">
+					<div class="shop" id="r0-c0-cc4-s0">
+						<h4>Lanzhou Weiyasi Watch &amp; Optician.,Ltd.</h4>
+						<p class="address">No.4, South Square Road, Chengguan District, Lanzhou City</p>
+						<p class="contact">Tel: (86-931) 8890 166</p>
+						<p class="contact">Fax: (86-931) 8890 881</p>
+						<p class="lat">36.052525273855814</p>
+						<p class="lng">103.84116411209106</p>
+					</div>
+				</div>
+				<!-- 5 -->
+				<div class="city" id="r0-c0-cc5" title="Guangdong">
+					<div class="city" title="Ernest Borel Brand Professional Repair &amp; Maintenance Center （Guangzhou）">
+					<div class="shop">
+						<h4>Ernest Borel Brand Professional Repair &amp; Maintenance Center（Guangzhou）</h4>
+						<p class="address">Room 701, Tower 1, 385 Tianhe Road, Tianhe District, Guangzhou City</p>
+						<p class="contact">Tel: 400 830 3865</p>
+						<p class="lat">23.133372461686072</p>
+						<p class="lng">113.33245038986206</p>
+					</div>
+				</div>
+					<div class="shop" id="r0-c0-cc5-s1">
+						<h4>Zhouyuzan Brand Watch Repair &amp; Maintenance Center</h4>
+						<p class="address">2nd Floor Zhuhai Department Store Jida Jingshan Road Zhuhai</p>
+						<p class="contact">Tel: (86-756) 335 0570</p>
+						<p class="lat">22.25617395551605</p>
+						<p class="lng">113.57914924621582</p>
+					</div>
+					<div class="shop" id="r0-c0-cc5-s2">
+						<h4>Hengdali Watch and Clock Co.,Ltd.</h4>
+						<p class="address">144 jinsha road(Shimao Graden, east of main entrance)</p>
+						<p class="contact">Tel: (86-754) 8843 8938</p>
+						<p class="lat">23.36674494861038</p>
+						<p class="lng">116.74360871315002</p>
+					</div>
+					<div class="shop" id="r0-c0-cc5-s3">
+						<h4>Baihua Plaza Swiss Watchmaker's Shop</h4>
+						<p class="address">4th Floor Baihua Plaza Zumiao Road Foshan</p>
+						<p class="contact">Tel: (86-757) 8610 0823</p>
+						<p class="lat">23.02651645498473</p>
+						<p class="lng">113.11172068119049</p>
+					</div>
+					<div class="shop" id="r0-c3-cc5-s4">
+						<h4>Fenmiao Clocks and watches maintenance stop</h4>
+						<p class="address">No.205 Fenjiang center road Chancheng district Foshan</p>
+						<p class="contact">Tel：(86-757) 8330 0505</p>
+						<p class="lat">23.0169860000</p>
+						<p class="lng">113.1082630000</p>
+					</div>
+					<div class="shop" id="r0-c3-cc5-s5">
+						<h4>Baiji Shijianlang Watch Shop</h4>
+						<p class="address">1/F City Plaza,No.42 South of Renmin Avenue,Xiashan District,Zhanjian City</p>
+						<p class="contact">Tel：(86-759)229 6661</p>
+						<p class="lat">21.1983484</p>
+						<p class="lng">110.40558620000002</p>
+					</div>
+					<div class="shop" id="r0-c3-cc5-s6">
+						<h4>Shaoguan Metro Plaza Shop Ernest Borel Store</h4>
+						<p class="address">No.062,1B,Metro Plaza Shop,No.1 Jiefang Road,Shaoguan City</p>
+						<p class="contact">Tel: (86-751) 881 2468</p>
+						<p class="lat">24.797925799753525</p>
+						<p class="lng">113.60002756118774</p>
+					</div>					
+
+			          <div class="shop">
+			              <h4>汕頭合勝百貨商場</h4>
+			              <p class="address">Hesheng Store (Intersection of the Tianshan Road and Changjiang Road), No.23 Changjiang Road, Longhu District, Shantou</p>
+			              <p class="contact hidden"></p>
+			              <p class="lat">23.376332</p>
+			              <p class="lng">116.722702</p>
+			          </div>
+
+
+				</div>
+				<!-- 6 -->
+				<div class="city" id="r0-c0-cc6" title="Guizhou">
+					<div class="shop" id="r0-c0-cc6-s0">
+						<h4>Guiyang Ruishi Brand Watch Service Center</h4>
+						<p class="address">No.117 Zhonghua Road center</p>
+						<p class="contact">Tel: (86-851) 521 1020</p>
+						<p class="lat">26.58217561339595</p>
+						<p class="lng">106.71237230300903</p>
+					</div>
+					<div class="shop" id="r0-c0-cc6-s1">
+						<h4>Guiyang Xingli Department Store</h4>
+						<p class="address">No.2 Fushuinan Road Guiyang</p>
+						<p class="contact">Tel: (86-851) 5827 685</p>
+						<p class="lat">26.57714546664565</p>
+						<p class="lng">106.71519935131073</p>
+					</div>
+				</div>
+				<!-- 7 -->
+				<div class="city" id="r0-c0-cc7" title="Hebei">
+					<div class="shop" id="r0-c0-cc7-s0">
+						<h4>Shijiazhuang Shibo Brand Watch Repair &amp; Maintenance Center</h4>
+						<p class="address">1/F Beiguo Mall 188 Zhongshan Road East Shijiazhuang</p>
+						<p class="contact">Tel: (86-311) 8526 1075</p>
+						<p class="lat">38.26883074269917</p>
+						<p class="lng">114.68870401382446</p>
+					</div>
+				</div>
+				<!-- 8 -->
+				<div class="city" id="r0-c0-cc8" title="Heilongjiang">
+					<div class="shop" id="r0-c3-cc8-s0">
+						<h4>New Hundred Shopping Plaza (Harbin Daoli New 100)</h4>
+						<p class="address">New Hundred Shopping Plaza, 118 Stone Street, Daoli District, Harbin, Heilongjiang</p>
+						<p class="contact">Tel: (86) 13936176035 安师傅</p>
+						<p class="lat">45.770441</p>
+						<p class="lng">126.623704</p>
+					</div>
+				</div>
+				<!-- 9 -->
+				<div class="city" id="r0-c0-cc9" title="Henan">
+					<div class="shop" id="r0-c0-cc9-s0">
+						<h4>Henan Fuhao Watch Shop Zhenzhou Xinyu Sanbo Store</h4>
+						<p class="address">Room 139, 1/F, Tower 1, No.24, Taikang Road, Zhenzhou City</p>
+						<p class="contact">Tel: (86-371) 6628 9033</p>
+						<p class="lat">34.7251907</p>
+						<p class="lng">112.79852159999996</p>
+					</div>
+				</div>
+				<!-- 10 -->
+					<div class="city" id="r0-c0-cc10" title="Hubei">
+					<div class="shop" id="r0-c0-cc10-s0">
+						<h4>Xinyu Elegant, Old Hengdali Store</h4>
+						<p class="address">2/F, Pufa Bank Tower, No.218 Xinhua Street, Wuhan, Hubei Province, PRC</p>
+						<p class="contact">Tel: (86-27) 8555 2628</p>
+						<p class="lat">30.590003</p>
+						<p class="lng">114.275075</p>
+					</div>
+				</div>
+				<!-- 11 -->
+				<div class="city" id="r0-c0-cc11" title="Hunan">
+					<div class="shop" id="r0-c0-cc11-s0">
+						<h4>Changsha Your Department Store</h4>
+						<p class="address">No.9 Renmin Road Center Changsha</p>
+						<p class="contact">Tel: (86-731) 8979 5661</p>
+						<p class="lat">28.1372918</p>
+						<p class="lng">113.62763429999995</p>
+					</div>
+				</div>
+				<!-- 12 -->
+				<div class="city" id="r0-c0-cc12" title="Inner mogolia">
+					<div class="shop" id="r0-c0-cc12-s0">
+						<h4>Baotou Wang Fu Jing (Qingshan) Department Store</h4>
+						<p class="address">1/F, Wang Fu Jing Department Store, No.3, Xingfu Road, Qingshan District, Baotou City</p>
+						<p class="contact">Tel: (86-472) 3166 634</p>
+						<p class="lat">40.669083530824935</p>
+						<p class="lng">109.87984657287598</p>
+					</div>
+					<div class="shop" id="r0-c3-cc12-s1">
+						<h4>包頭神華國際城藍天商廈一樓名表</h4>
+						<p class="address">No.1 Aerding street Kun district Baotou</p>
+						<p class="contact">Tel: (86-472) 5368 860</p>
+						<p class="lat">40.6597286007</p>
+						<p class="lng">109.8466726288</p>
+					</div>
+					<div class="shop" id="r0-c3-cc12-s2">
+						<h4>Ordos North New World</h4>
+						<p class="address">Floor 1, North New World, No.15, East Ordos Street, Dongsheng District, Ordos</p>
+						<p class="contact">Tel: (86-477) 3982 122</p>
+						<p class="lat">39.81226121816951</p>
+						<p class="lng">110.00454783439636</p>
+					</div>
+				</div>
+				<!-- 13 -->
+				<div class="city" id="r0-c0-cc13" title="Jiangsu">
+					<div class="shop" id="r0-c0-cc14-s0">
+						<h4>Suzhou Shijia Brand Watch Center</h4>
+						<p class="address">No.88 Shaomozhen Lane Guanqian Road Suzhou</p>
+						<p class="contact">Tel: (86-512) 6522 9666</p>
+						<p class="lat">31.3108455</p>
+						<p class="lng">120.6234518</p>
+					</div>
+				</div>
+				<!-- 14 -->
+				<div class="city" id="r0-c0-cc14" title="Jiangxi">
+					<div class="shop" id="r0-c0-cc19-s0">
+						<h4>Nanchang Department Store</h4>
+						<p class="address">No.1 Zhongshan Road Nanchang</p>
+						<p class="contact">Tel: (86-791) 8627 1283</p>
+						<p class="lat">28.675678</p>
+						<p class="lng">115.90305130000002</p>
+					</div>
+					<div class="shop" id="r0-c3-cc14-s1">
+						<h4>Nanchang Hendry Clock and Watch Store</h4>
+						<p class="address">No.28 Shengli Road Nanchang City</p>
+						<p class="contact"></p>
+						<p class="lat">28.676362</p>
+						<p class="lng">115.888462</p>
+					</div>
+				</div>
+				<!-- 15 -->
+				<div class="city" id="r0-c0-cc15" title="Jilin">
+					<div class="shop" id="r0-c0-cc25-s0">
+						<h4>Changchun International Trade Center</h4>
+						<p class="address">No.2059 Renmin Street Chaoyang District Changchun</p>
+						<p class="contact">Tel: (86-431) 8848 7636</p>
+						<p class="lat">43.890311</p>
+						<p class="lng">125.32435099999998</p>
+					</div>
+				</div>
+				<!-- 16 -->
+				<div class="city" id="r0-c0-cc16" title="Liaoning">
+					<!-- <div class="shop" id="r0-c0-cc16-s0">
+						<h4>遼寧晟新商貿發展有限公司</h4>
+						<p class="address">No.433 Shifu Road Shenhe District Shenyang</p>
+						<p class="contact">Tel: (86-24) 2274 4386</p>
+						<p class="lat">41.80497386705762</p>
+						<p class="lng">123.44392776489258</p>
+					</div> -->
+					<div class="shop" id="r0-c0-cc16-s1">
+						<h4>Panjin Hengdali Watch and Clock Co.,Ltd.</h4>
+						<p class="address">No.103, Zhongxing Road, Xinglong District, Panjin City</p>
+						<p class="lat">41.12832299999999</p>
+						<p class="lng">122.06821100000002</p>
+					</div>
+					<div class="shop">
+						<h4>Ernest Borel (Shenyang) Maintenance Department</h4>
+						<p class="address">Room 702 Langqin Taiyuan Center Scriptorium，No.59 Zhongshan Road, Heping District Shenyang City</p>
+						<p class="contact">Tel: (86-024) 8389 5100</p>
+						<p class="lat">41.795797</p>
+						<p class="lng">123.403902</p>
+					</div>
+				</div>
+				<!-- 17 -->
+				<div class="city" id="r0-c0-cc17" title="Shandong">
+					<div class="shop" id="r0-c0-cc17-s0">
+						<h4>Qingdao Hendry Watch &amp; Glasses Co.,Ltd.</h4>
+						<p class="address">No.144 Zhongshan Road Qingdao</p>
+						<p class="contact">Tel: (86-532) 8280 5856</p>
+						<p class="lat">36.070604203857975</p>
+						<p class="lng">120.31855881214142</p>
+					</div>
+					<div class="shop" id="r0-c0-cc17-s1">
+						<h4>Linyi Hendry Swiss Brand Watch Store</h4>
+						<p class="address">No.71 Middle Jiefang Road Linyi</p>
+						<p class="contact">Tel: (86-539) 8236 509</p>
+						<p class="lat">35.069345</p>
+						<p class="lng">118.269451</p>
+					</div>
+					<div class="shop" id="r0-c3-cc17-s2">
+						<h4>Jinan ShiMao International Plaza ERNEST BOREL watch shop</h4>
+						<p class="address">E105，1/F，No.26 Shengquan Road Jinan City</p>
+						<p class="contact">Tel： (86-531) 5571 6782</p>
+						<p class="lat">36.665187</p>
+						<p class="lng">117.029649</p>
+					</div>
+				</div>
+				<!-- 18 -->
+				<div class="city" id="r0-c0-cc18" title="Shanghai">
+					<div class="shop" id="r0-c0-cc18-s0">
+						<h4>Ernest Borel (Shanghai) Maintenance Department</h4>
+						<p class="address">Room 1702, Chunshenjiang Edifice, No.400, Middle Zhejiang Road, Shanghai City</p>
+						<p class="contact">Tel: (86-21) 6351 8017</p>
+						<p class="lat">31.236284055022406</p>
+						<p class="lng">121.47824674844742</p>
+					</div>
+					<div class="shop" id="r0-c0-cc18-s1">
+						<h4>Shanghai Sanlian Group Co.,Ltd. Brand Watch Maintenance Center</h4>
+						<p class="address">No.456 Nanjing East Road Shanghai</p>
+						<p class="contact">Tel: (86-21) 6321 1802</p>
+						<p class="lat">31.23646293891111</p>
+						<p class="lng">121.48184359073639</p>
+					</div>
+						<div class="shop" id="r0-c0-cc18-s2">
+						<h4>Shanghai Golden Bell Fine Watch Service Center</h4>
+						<p class="address">Room 1409, 14/F, Golden Bell Plaza,No.98 Middle Huaihai Road, Shanghai City</p>
+						<p class="lat">31.22556645740019</p>
+						<p class="lng">121.47922575473785</p>
+					</div>
+					<div class="shop" id="r0-c0-cc18-s3">
+						<h4>Shanghai Watch &amp; Clock Fine Watch Service Center</h4>
+						<p class="address">No.34, Yandang Road, Shanghai City</p>
+						<p class="lat">31.22042396429737</p>
+						<p class="lng">121.46982729434967</p>
+					</div>
+				</div>
+				<!-- 19 -->
+				<div class="city" id="r0-c0-cc19" title="Shaanxi">
+					<div class="shop" id="r0-c0-cc19-s0">
+						<h4>Xi'an Kaiyuan Mall Brand Watch Maintenance Center</h4>
+						<p class="address">No.6 Jiefang Market Dong Street Beilin District Xian</p>
+						<p class="contact">Tel: (86-29) 8725 6995</p>
+						<p class="lat">34.25918724104541</p>
+						<p class="lng">108.94856214523315</p>
+					</div>
+					<div class="shop" id="r0-c0-cc19-s1">
+						<h4>Xi'an Chunjiang Trading Co.,Ltd.</h4>
+						<p class="address">Room A 25/F Block C Shimao Building No.129 Zheng Street Dongguan Xian</p>
+						<p class="contact">Tel: (86-29) 8812 2091 </p>
+						<p class="lat">34.25904092918819</p>
+						<p class="lng">108.9752984046936</p>
+					</div>
+					<div class="shop" id="r0-c3-cc19-s2">
+						<h4>ERNEST BOREL watch shop</h4>
+						<p class="address">1/F ，Bell Tower Hotel，No.100 South Steet Xi‘an</p>
+						<p class="contact">Tel: (86-29) 8728 0926</p>
+						<p class="lat">34.2647092734</p>
+						<p class="lng">108.9530726725</p>
+					</div>
+					<div class="shop" id="r0-c3-cc19-s3">
+						<h4>Harmonywatch Xian Haomen Store Brand Watch Maintenance Center</h4>
+						<p class="address">No.36 Nanda Street, Beilin District, Xian City</p>
+						<p class="contact">Tel: (86-29) 8761 5329</p>
+						<p class="lat">34.255462</p>
+						<p class="lng">108.946814</p>
+					</div>
+				</div>
+				<!-- 20 -->
+				<div class="city" id="r0-c0-cc20" title="Shanxi">
+					<div class="shop" id="r0-c0-cc20-s0">
+						<h4>Taiyuan PCD Store</h4>
+						<p class="address">No.53 Mishi Road, Taiyuan, Shanxi, PRC</p>
+						<p class="contact">Tel: (86-351) 821 2206</p>
+						<p class="lat">37.86446985726342</p>
+						<p class="lng">112.56540298461914</p>
+					</div>
+				</div>
+				<!-- 21 -->
+				<div class="city" id="r0-c0-cc21" title="Shenzhen">
+					<div class="shop" id="r0-c0-cc21-s0">
+						<h4>Shenzhen Hengjili World Brand Watch Center</h4>
+						<p class="address">No.3024 Shennanzhong Road Shenzhen</p>
+						<p class="contact">Tel: (86-755) 8336 5968</p>
+						<p class="lat">22.540789</p>
+						<p class="lng">114.08267799999999</p>
+					</div>
+				</div>
+				<!-- 22 -->
+				<div class="city" id="r0-c0-cc22" title="Sichuan">					
+					<div class="shop" id="r0-c3-cc22-s2">
+						<h4>Ernest Borel (Chengdu) Stores Maintenance Center</h4>
+						<p class="address">Room M076a, Basement 1,Sino-Ocean Taikoo Li Chengdu,No.8 Zhongshamao street Jinjiang District Chengdu City</p>
+						<p class="contact">Tel: (86-28) 8671 5086</p>
+						<p class="lat">30.653123</p>
+						<p class="lng">104.081718</p>
+					</div>
+					<div class="shop" id="r0-c0-cc22-s1">
+						<h4>Yibin Xufu Shopping Mall Ernest Borel Maintenance Station</h4>
+						<p class="address">No.14 Renmin Road Yibin</p>
+						<p class="contact">Tel: (86-831) 823 9893</p>
+						<p class="lat">28.767166</p>
+						<p class="lng">104.62126699999999</p>
+					</div>
+						<div class="shop">
+			            <h4>Chengdu Shawan Kaide Square</h4>
+			            <p class="address">Shawan Kaide Square, No.10 Erhuan Road North Section, Jinniu District, Chengdu</p>
+			            <p class="contact hidden"></p>
+			            <p class="lat">30.626687</p>
+			            <p class="lng">104.028128</p>
+			         </div>
+				         <div class="shop">
+			              <h4>Neijiang Wanda Mall</h4>
+			              <p class="address">Wanda Mall, Hedong New District City District, Neijiang City, Sichuan</p>
+			              <p class="contact hidden"></p>
+			              <p class="lat">29.521984</p>
+			              <p class="lng">104.671522</p>
+			          </div>
+			          <div class="shop">
+				          <h4>Guangyuan Wanda Mall</h4>
+				          <p class="address">F1 Shoppe, Wanda Mall, Wanyuan New District, Lizhou District, Guangyuan City</p>
+				          <p class="contact hidden"></p>
+				          <p class="lat">32.428025</p>
+				          <p class="lng">105.850090</p>
+				      </div>
+										
+				</div>
+
+				<!-- 23 -->
+				<div class="city" id="r0-c0-cc23" title="Tianjin">
+					<div class="shop" id="r0-c0-cc23-s0">
+						<h4>Tianjin Hendry Maintenance Department</h4>
+						<p class="address">No.243 Heping Road Heping District</p>
+						<p class="contact">Tel: (86-22) 2711 4432</p>
+						<p class="lat">39.12686432058989</p>
+						<p class="lng">117.20176219940186</p>
+					</div>
+				</div>
+				<!-- 24 -->
+				<div class="city" id="r0-c0-cc24" title="Xinjiang">
+					<div class="shop" id="r0-c0-cc13-s0">
+						<h4>Century Watch Authorized Service Center</h4>
+						<p class="address">3/F, No.299, Zhongshan Road, Urumqi City</p>
+						<p class="contact">Tel: (86-991) 2819 620</p>
+						<p class="lat">43.79439924268015</p>
+						<p class="lng">87.61622697114944</p>
+
+					</div>
+					<div class="shop" id="r0-c0-cc24-s1">
+						<h4>Xingbao Brand Watch Co.,Ltd. Tianshan Department Store Service Center</h4>
+						<p class="address">1/F, Tianshan Department Store, No.16, North Heping Road, Urumqi City</p>
+						<p class="contact">Tel: (86-991) 2326 131</p>
+						<p class="lat">43.79386681466335</p>
+						<p class="lng">87.62645423412323</p>
+					</div>
+
+			          <div class="shop">
+			              <h4>烏魯木齊太百購物中心</h4>
+			              <p class="address">F1 Shoppe, Taibai Shopping Center, Youhao Road, Shayibake District,Wulumuqi City, Xinjiang</p>
+			              <p class="contact hidden"></p>
+			              <p class="lat">43.822595</p>
+			              <p class="lng">87.589938</p>
+			          </div>
+				</div>
+				<!-- 25 -->
+				<div class="city" id="r0-c0-cc25" title="Yunnan">
+					<div class="shop" id="r0-c0-cc25-s0">
+						<h4>Kunming GingKo Department Store Brand Watch Repai &amp; Maintenance Center</h4>
+						<p class="address">No.90, Baita Road, Kunming City</p>
+						<p class="contact">Tel: (86-871) 316 7055</p>
+						<p class="lat">25.037243</p>
+						<p class="lng">102.72549800000002</p>
+
+					</div>
+					<div class="shop" id="r0-c0-cc25-s1">
+						<h4>Kunming Department Store</h4>
+						<p class="address">5/F, Kunming Department Store, No.1, West Dongfeng Road, Kunming City</p>
+						<p class="contact">Tel: (86-871)364 3629</p>
+						<p class="lat">25.036040261853728</p>
+						<p class="lng">102.70964205265045</p>
+					</div>
+				</div>
+				<!-- 26 -->
+				<div class="city" id="r0-c0-cc26" title="Zhejiang">
+					<div class="shop" id="r0-c0-cc26-s0">
+						<h4>Hangzhou Ruibiao Trading Co.,Ltd. Tianyu Watch Shop</h4>
+						<p class="address">Lianyin building No. 885 Jiangcheng Road Chengzhan Square Hangzhou City</p>
+						<p class="contact">Tel: (86-571) 8780 0121</p>
+						<p class="lat">30.242461483954536</p>
+						<p class="lng">120.18035262823105</p>
+					</div>
+					<div class="shop" id="r0-c0-cc26-s1">
+						<h4>Hangzhou Tower</h4>
+						<p class="address">No.1 Wulin Square Hangzhou City</p>
+						<p class="contact">Tel: (86-571) 8517 3485</p>
+						<p class="lat">30.27301782226549</p>
+						<p class="lng">120.16148865222931</p>
+					</div>
+					<div class="shop" id="r0-c3-cc26-s2">
+						<h4>HangZhou GuangCheng watch co.,LTD</h4>
+						<p class="address">Room 2006 Guardian SquareQingchun Road XiaCheng District HangZhou City</p>
+						<p class="contact">Tel: (86-571) 8880 3981</p>
+						<p class="lat">30.2638369093</p>
+						<p class="lng">120.1798148090</p>
+					</div>
+					<div class="shop">
+						<h4>Jiaxing Diamend Watch Service Center</h4>
+						<p class="address">6/F, Diamend Hotel, No.366 Hexing Road, Jiaxing City</p>
+						<p class="contact">Tel: (86-573) 8207 7765</p>
+						<p class="lat">30.780879</p>
+						<p class="lng">120.745235</p>
+					</div>
+				</div>
+				<!-- 27 -->
+				<div class="city" id="r0-c3-cc27" title="Guangxi">
+					<div class="shop" id="r0-c3-cc27-s0">
+						<h4>Ernest Borel Brand Professional Repair &amp; Maintenance Center (Nanning City)</h4>
+						<p class="address">1/F, Wanda Department Store, No.118 Dong Ge Street (Extention part), Qingxiu District, Nanning</p>
+						<!-- <p class="contact">Tel: (86-771) 253 2339</p> -->
+						<p class="lat">22.8076577000</p>
+						<p class="lng">108.3359858000</p>
+					</div>
+				</div>
+				<!-- 28 -->
+				<div class="city" id="r0-c3-cc28" title="Fujian">
+					<div class="shop" id="r0-c3-cc28-s0">
+						<h4>Fuzhou Show Park Yixinjia Watches</h4>
+						<p class="address">No.9, 1/F, Tower A3, Town Show Park, Changle Center Road, Jinan District, Fuzhou City</p>
+						<p class="contact">Tel: (86-0591) 6316 0889</p>
+						<p class="lat">26.071586</p>
+						<p class="lng">119.306463</p>
+					</div>
+				</div>
+			</div>
+			<div class="country" title="China (Hong Kong)">
+				<div class="city default" title="China (Hong Kong)">
+					<div class="shop">
+						<h4>HongKong Zhouyuzan Clocks and Watches Technical Service Center</h4>
+						<p class="address">1/F, Central Financial Center, No. 131 Queen's Road Central, Hong Kong</p>						
+						<p class="lat">22.284523</p>
+						<p class="lng">114.156099</p>
+					</div>
+					<div class="shop">
+						<h4>Ernest Borel (Far East) Co. Ltd.</h4>
+						<p class="address">Suites 1101-3 &amp; 1112-14, 11/F, Tower 6, The Gateway, Harbour City, 9 Canton Road, Tsim Sha Tsui, Kowloon, Hong Kong</p>
+						<p class="contact">Tel: (852) 3628 5511</p>
+						<p class="contact">Email: enquiry@ernestborel.ch</p>
+						<p class="lat">22.29708</p>
+						<p class="lng">114.168146</p>
+					</div>
+					<div class="shop">
+						<h4>Flagship Store (Tsim Sha Tsui)</h4>
+						<p class="address">Shop C, G/F &amp; 1/F, Burlington Arcade, 94A Nathan Road, Tsim Sha Tsui, Kowloon, Hong Kong</p>
+						<p class="contact">Tel: (852) 2739 3168</p>
+						<p class="lat">22.299220</p>
+						<p class="lng">114.172294</p>
+					</div>
+					<div class="shop">
+						<h4>TIMEPLAZA</h4>
+						<p class="address">Shop UG/05, I-Square,63 Nathan Road,Tsim Sha Tsui, Kowloon</p>
+						<p class="contact">Tel: (852) 2677 8699</p>
+						<p class="lat">22.29702554316115</p>
+						<p class="lng">114.17189061641693</p>
+					</div>
+					<div id="hkisland" class="sub_region_nav hkisland">
+						<ul>
+							<li class="active"><a href="#" onClick="javascript: subregion_scroll('hkisland');" title="Hong Kong">Hong Kong</a></li>
+							<li><a href="#" onClick="javascript: subregion_scroll('hkkln');" title="Kowloon">Kowloon</a></li>
+							<li><a href="#" onClick="javascript: subregion_scroll('hknt');" title="New Territories">New Territories</a></li>
+						</ul>
+					</div>
+					<div class="shop">
+						<h4>KOWLOON WATCH CO. (CAUSEWAY BAY)</h4>
+						<p class="address">Shop H, G/F, Lai Yuen Apartment, 29-33 Lee Garden Road, Causeway Bay, Hong Kong</p>
+						<p class="contact">Tel: (852) 2890 3912</p>
+						<p class="lat">22.27897775602295</p>
+						<p class="lng">114.18336510658264</p>
+					</div>
+					<div class="shop">
+						<h4>GREAT SHANGHAI WATCH &amp; JEWELLERY CO., LTD.</h4>
+						<p class="address">G/F, 5 Lee Garden Road, Causeway Bay, Hong Kong</p>
+						<p class="contact">Tel: (852) 2831 9881</p>
+						<p class="lat">22.279769505118242</p>
+						<p class="lng">114.18327122926712</p>
+					</div>
+					<div class="shop">
+						<h4>GREAT CHINA WATCH CO.</h4>
+						<p class="address">G/F, 62 Connaught Road Central, Central, Hong Kong</p>
+						<p class="contact">Tel: (852) 2543 0968</p>
+						<p class="lat">22.28538111551405</p>
+						<p class="lng">114.15562570095062</p>
+					</div>
+					<div class="shop">
+						<h4>BROADWAY WATCH CO., LTD.</h4>
+						<p class="address">Shop A2,1 Yee Wo Street, Causeway Bay, Hong Kong</p>
+						<p class="contact">Tel: (852) 2882 2381</p>
+						<p class="lat">22.279739721534348</p>
+						<p class="lng">114.18541967868805</p>
+					</div>
+					<div class="shop">
+						<h4>BROADWAY PHOTO SUPPLY LTD (LAFORET)</h4>
+						<p class="address">Shop No.16, G/F, 26 East Point Road, Causeway Bay, Hong Kong</p>
+						<p class="contact">Tel: (852) 2890 6818</p>
+						<p class="contact">Fax: (852) 2890 7889</p>
+						<p class="lat">22.281032819627107</p>
+						<p class="lng">114.18444067239761</p>
+					</div>
+					<div class="shop">
+						<h4>ORIENTAL WATCH CO., LTD. (SHEUNG WAN)</h4>
+						<p class="address">133 Des Voeux Road, Central, Hong Kong</p>
+						<p class="contact">Tel: (852) 2545 4577</p>
+						<p class="lat">22.285207384824552</p>
+						<p class="lng">114.15522336959839</p>
+					</div>
+					<div class="shop">
+						<h4>GOLDEN WATCH CO LTD</h4>
+						<p class="address">G/F, 250 Queen's Road West, Hong Kong</p>
+						<p class="contact">Tel: (852) 2858 9232</p>
+						<p class="lat">22.286904972595643</p>
+						<p class="lng">114.14307564496994</p>
+					</div>
+					<!-- <div class="shop">
+						<h4>BROADWAY PHOTO SUPPLY LTD (HANG LUNG CENTRE)</h4>
+						<p class="address">Shop G02 &amp; F02, Hang Lung Centre, 2-20 Paterson Street, Causeway Bay, Hong Kong</p>
+						<p class="contact">Tel: (852) 3427 9819</p>
+						<p class="contact">Fax: (852) 3427 9919</p>
+						<p class="lat">22.280169100921906</p>
+						<p class="lng">114.1860044002533</p>
+					</div> -->
+					<div class="shop">
+						<h4>CHEONG TAT WATCH COMPANY</h4>
+						<p class="address">Shop 2, 18 Marble Road, North Point, Hong Kong</p>
+						<p class="contact">Tel: (852) 2563 1315</p>
+						<p class="lat">22.29171965616674</p>
+						<p class="lng">114.20004308223724</p>
+					</div>
+					<div class="shop">
+						<h4>LUXURY WATCH &amp; JEWELLERY</h4>
+						<p class="address">G/F., 64 Percival Street, Causeway Bay, Hong Kong</p>
+						<p class="contact">Tel: (852) 2836 0028 / 2838 8329</p>
+						<p class="lat">22.27956846580391</p>
+						<p class="lng">114.18283939361572</p>
+					</div>
+					<div class="shop">
+						<h4>VALUABLE WATCH AND JEWELLERY CO., LTD.</h4>
+						<p class="address">G/F, 63 Percival Street, Causeway Bay, Hong Kong</p>
+						<p class="contact">Tel: (852) 2891 6308</p>
+						<p class="lat">22.279394727892058</p>
+						<p class="lng">114.18292254209518</p>
+					</div>
+					<div class="shop">
+						<h4>BROADWAY PHOTO SUPPLY LTD (TIME SQUARE)</h4>
+						<p class="address">Shop 814-816, Times Square, Causeway Bay, Hong Kong</p>
+						<p class="contact">Tel: (852) 2506 0228</p>
+						<p class="contact">Fax: (852) 2506 2815</p>
+						<p class="lat">22.278235642299578</p>
+						<p class="lng">114.18196231126785</p>
+					</div>
+					<div class="shop">
+						<h4>YAU WING JEWELLERY &amp; WATCH COMPANY</h4>
+						<p class="address">G/F, 416 Hennessy Road,Wan Chai, Hong Kong</p>
+						<p class="contact">Tel: (852) 2833 0970</p>
+						<p class="contact">Fax: (852) 2838 4670</p>
+						<p class="lat">22.278736</p>
+						<p class="lng">114.180362</p>
+					</div>
+					<div class="shop">
+						<h4>TUNG HING WATCH CO. LTD</h4>
+						<p class="address">G/F, 162 Des Voeux Road, Hong Kong</p>
+						<p class="contact">Tel: (852) 2541 0130</p>
+						<p class="contact">Fax: (852) 2854 3534</p>
+						<p class="lat">22.285645</p>
+						<p class="lng">114.154188</p>
+					</div>
+					<!-- <div class="shop">
+						<h4>JUSTWATCH CO., LTD. (WORLD TRADE CENTRE)</h4>
+						<p class="address">Shop P123, Podium 1, World Trade Centre, 280 Gloucester Road, Causeway Bay, Hong Kong</p>
+						<p class="contact">Tel: (852) 2808 1811</p>
+						<p class="lat">22.281646</p>
+						<p class="lng">114.184141</p>
+					</div> -->
+					<div class="shop">
+						<h4>FINE ASIA WATCH (HONG KONG) CO LTD (SOGO)</h4>
+						<p class="address">Shop 2, 1/F, New Wing, Sogo, 550 Hennessy Road, Causeway Bay, Hong Kong</p>
+						<p class="contact">Tel: (852) 2834 3789</p>
+						<p class="lat">22.280301</p>
+						<p class="lng">114.184631</p>
+					</div>
+					<div class="shop">
+						<h4>TIC TAC TIME CO., LTD. (SHUN TAK CENTRE)</h4>
+						<p class="address">Shop 246, 2/F, Shun Tak Centre, 200 Connaught Road Central, Hong Kong</p>
+						<p class="contact">Tel: (852) 2857 5368</p>
+						<p class="lat">22.287909</p>
+						<p class="lng">114.151802</p>
+					</div>
+					<div class="shop">
+						<h4>ISA BOUTIQUE (SINO PLAZA)</h4>
+						<p class="address">G/F &amp; 1/F, Sino Plaza, 256-258 Gloucester Road, Causeway Bay, Hong Kong</p>
+						<p class="contact">Tel: (852) 2366 5828</p>
+						<p class="lat">22.281374</p>
+						<p class="lng">114.182439</p>
+					</div>					
+					<div class="shop">
+						<h4>BROADWAY PHOTO SUPPLY LTD (PARK LANE)</h4>
+						<p class="address">Shop C &amp; 103, Style House, The Park Lane, Causeway Bay, Hong Kong</p>
+						<p class="contact">Tel: (852) 2796 2444</p>
+						<p class="lat">22.281170</p>
+						<p class="lng">114.186361</p>
+					</div>
+					<div id="hkkln" class="sub_region_nav hkkln">
+						<ul>
+							<li><a href="#" onClick="javascript: subregion_scroll('hkisland');" title="Hong Kong">Hong Kong</a></li>
+							<li class="active"><a href="#" onClick="javascript: subregion_scroll('hkkln');" title="Kowloon">Kowloon</a></li>
+							<li><a href="#" onClick="javascript: subregion_scroll('hknt');" title="New Territories">New Territories</a></li>
+						</ul>
+					</div>
+					<!-- <div class="shop">
+						<h4>KOWLOON WATCH CO. (KWUN TONG)</h4>
+						<p class="address">G/F, 23 Mut Wah Street, Kwun Tong, Kowloon</p>
+						<p class="contact">Tel: (852) 2343 8315</p>
+						<p class="lat">22.315013928597875</p>
+						<p class="lng">114.22453165054321</p>
+					</div> -->
+					<div class="shop">
+						<h4>KOWLOON WATCH CO. (MONG KOK)</h4>
+						<p class="address">G/F, 256 Sai Yeung Choi Street, Mongkok, Kowloon</p>
+						<p class="contact">Tel: (852) 2381 0962</p>
+						<p class="lat">22.32317481418699</p>
+						<p class="lng">114.16930228471756</p>
+					</div>
+					<div class="shop">
+						<h4>KOWLOON WATCH CO. (TSIM SHA TSUI - I SQUARE)</h4>
+						<p class="address">Shop No.13, MTR/F, I Square, 63 Nathan Road, TST, Kowloon</p>
+						<p class="contact">Tel: (852) 2811 2172</p>
+						<p class="contact">Fax: (852) 2811 2256</p>
+						<p class="lat">22.297035469795514</p>
+						<p class="lng">114.17189866304398</p>
+					</div>
+					<!-- <div class="shop">
+						<h4>KOWLOON WATCH CO. (SINO CENTRE)</h4>
+						<p class="address">G28-29, Sino Centre, 582 Nathan Road, Mongkok, Kowloon</p>
+						<p class="contact">Tel: (852) 2782 3777</p>
+						<p class="lat">22.316061049754023</p>
+						<p class="lng">114.1703724861145</p>
+					</div> -->
+					<div class="shop">
+						<h4>KOWLOON WATCH CO. (ARGYLE STREET)</h4>
+						<p class="address">G/F, Oriental House, 24-26 Argyle Street, Mongkok, Kowloon</p>
+						<p class="contact">Tel: (852) 2789 3011</p>
+						<p class="lat">22.31925447263937</p>
+						<p class="lng">114.17015254497528</p>
+					</div>
+					<!-- <div class="shop">
+						<h4>PRINCE JEWELLERY &amp; WATCH CO. (OCEAN CENTRE)</h4>
+						<p class="address">Shop 316-318 &amp; 366-367, Level 3, Ocean Centre, Harbour City, Tsim Sha Tsui, Kowloon</p>
+						<p class="contact">Tel: (852) 2736 6636</p>
+						<p class="lat">22.296320750318156</p>
+						<p class="lng">114.16829645633698</p>
+					</div> -->
+					<!-- <div class="shop">
+						<h4>PRINCE JEWELLERY &amp; WATCH CO. (OCEAN TERMINAL)</h4>
+						<p class="address">Shop OT281, Level 2, Ocean Terminal, Harbour City, Tsim Sha Tsui, Kowloon</p>
+						<p class="contact">Tel: (852) 2311 4432</p>
+						<p class="lat">22.29503027533561</p>
+						<p class="lng">114.16687488555908</p>
+					</div> -->
+					<div class="shop">
+						<h4>PRINCE JEWELLERY &amp; WATCH CO. (PEKING ROAD)</h4>
+						<p class="address">Shop 3, G/F, Bo Yip Building, 10 Peking Road, Tsim Sha Tsui, Kowloon</p>
+						<p class="contact">Tel: (852) 2369 2123</p>
+						<p class="contact">Fax: (852) 2311 3755</p>
+						<p class="lat">22.296588770550596</p>
+						<p class="lng">114.17070508003235</p>
+					</div>
+					<div class="shop">
+						<h4>PRINCE JEWELLERY &amp; WATCH CO. (PRESTIGE TOWER)</h4>
+						<p class="address">Shop 1-2, G/F, Prestige Tower, 23-25 Nathan Road, Tsim Sha Tsui, Kowloon</p>
+						<p class="contact">Tel: (852) 2739 2333</p>
+						<p class="lat">22.296000614366754</p>
+						<p class="lng">114.17195230722427</p>
+					</div>
+					<!-- <div class="shop">
+						<h4>LUK FOOK JEWELLERY (JORDAN)</h4>
+						<p class="address">Shop G02, G/F, Hanford Fashion, 221B-E Nathan Road, Kowloon</p>
+						<p class="contact">Tel: (852) 2782 1777 / 2783 2522</p>
+						<p class="lat">22.303956643921786</p>
+						<p class="lng">114.17160362005234</p>
+					</div> -->
+					<div class="shop">
+						<h4>GENEVE WATCH CENTRE (NATHAN ROAD)</h4>
+						<p class="address">G/F, 64B Nathan Road, Tsim Sha Tsui, Kowloon</p>
+						<p class="contact">Tel: (852) 2369 0376</p>
+						<p class="lat">22.297082621299158</p>
+						<p class="lng">114.1724243760109</p>
+					</div>
+					<div class="shop">
+						<h4>ORIENTAL WATCH CO., LTD. (YAU MA TEI)</h4>
+						<p class="address">Shop B &amp; C, G/F, Kowloon Building, 555 Nathan Road, Kowloon</p>
+						<p class="contact">Tel: (852) 2384 8103</p>
+						<p class="lat">22.314138013161617</p>
+						<p class="lng">114.170281291008</p>
+					</div>
+					<!-- <div class="shop">
+						<h4>BEST BILLION JEWELLERY (HK) CO., LTD.</h4>
+						<p class="address">Shop 6, G/F, 375-381 Nathan Road, Kowloon</p>
+						<p class="contact">Tel: (852) 2789 2808</p>
+						<p class="lat">22.308276930505343</p>
+						<p class="lng">114.17106181383133</p>
+					</div> -->
+					<div class="shop">
+						<h4>TIME WATCH</h4>
+						<p class="address">Shop A, G/F &amp; 1/F, Railway Plaza, 39 Chatham Road, Tsim Sha Tsui, Kowloon</p>
+						<p class="contact">Tel: (852) 2723 9989</p>
+						<p class="lat">22.304991440415783</p>
+						<p class="lng">114.17149633169174</p>
+					</div>
+					<div class="shop">
+						<h4>WAH HING WATCH CO., LTD.</h4>
+						<p class="address">644-646 Nathan Road, Mongkok, Kowloon</p>
+						<p class="contact">Tel: (852) 2396 0389</p>
+						<p class="lat">22.31859693621582</p>
+						<p class="lng">114.169742166996</p>
+					</div>
+					<div class="shop">
+						<h4>WING KEE WATCH CO., LTD.</h4>
+						<p class="address">G/F, Yue Hwa Chinese Products, 301-309 Nathan Road, Kowloon</p>
+						<p class="contact">Tel: (852) 2388 0591</p>
+						<p class="lat">22.305502632017674</p>
+						<p class="lng">114.17144268751144</p>
+					</div>
+					<div class="shop">
+						<h4>DELUXE TIMEPIECE LTD.</h4>
+						<p class="address">Unit B1, G/F, Gemstar Tower, 23 Man Lok Street, Hunghom, Kowloon</p>
+						<p class="contact">Tel: (852) 2367 3222</p>
+						<p class="lat">22.30940102681421</p>
+						<p class="lng">114.18972730636597</p>
+					</div>
+					<div class="shop">
+						<h4>PRESTIGE DIAMOND WATCH LTD.</h4>
+						<p class="address">G3A &amp; 3B, G/F, Site 7, Whampoa Garden, Hunghom, Kowloon</p>
+						<p class="contact">Tel: (852) 2187 2301</p>
+						<p class="lat">22.303495077545538</p>
+						<p class="lng">114.1913178563118</p>
+					</div>
+					<div class="shop">
+						<h4>CUTE TIME</h4>
+						<p class="address">Shop C-D, G/F, 258-260 Sai Yeung Choi Street South, Kowloon</p>
+						<p class="contact">Tel: (852) 2780 3983</p>
+						<p class="lat">22.316066012394828</p>
+						<p class="lng">114.17035907506943</p>
+					</div>
+					<div class="shop">
+						<h4>FINE ASIA WATCH (HONG KONG) CO LTD</h4>
+						<p class="address">Shop, B, G/F, Crason Commercial Centre, 333 Nathan Road, Jordan, Kowloon</p>
+						<p class="contact">Tel: (852) 2374 4688</p>
+						<p class="lat">22.306694</p>
+						<p class="lng">114.171269</p>
+					</div>
+					<div class="shop">
+						<h4>SWISMENT WATCH INTERNATIONAL</h4>
+						<p class="address">Shop B 2/F Kowloon Bay Int'l Trade &amp; Exhibition Ctr, 1 Trademart Drive , Kowloon Bay, Kowloon</p>
+						<p class="contact">Tel: (852) 2155 1197</p>
+						<p class="contact">Fax: (852) 2155 9179</p>
+						<p class="lat">22.323968</p>
+						<p class="lng">114.203942</p>
+					</div>
+					<div class="shop">
+						<h4>STAR WATCH</h4>
+						<p class="address">Shop 10, G/F Star House, 3 Salisbury Road, TST, Kowloon</p>
+						<p class="contact">Tel: (852) 2367 2988</p>
+						<!-- <p class="contact">Tel: (852) 2346 9028</p> -->
+						<p class="lat">22.294687</p>
+						<p class="lng">114.168793</p>
+					</div>
+					<div class="shop">
+						<h4>TIME WATCH</h4>
+						<p class="address">Shop B, G/F, Kwung Tong Habour Plaza, No. 182 Wai Yip Street, Kwun Tong, Kowloon</p>
+						<p class="contact">Tel: (852) 2112 9696</p>
+						<p class="lat">22.309044</p>
+						<p class="lng">114.221697</p>
+					</div>
+					<!-- <div class="shop">
+						<h4>JUSTWATCH CO., LTD. (SILVERCORD CENTRE)</h4>
+						<p class="address">Shop LG73, LG, Silvercord Centre, 30 Canton Road, Tsim Sha Tsui, Kowloon</p>
+						<p class="contact">Tel: (852) 2375 1813</p>
+						<p class="lat">22.297334</p>
+						<p class="lng">114.169384</p>
+					</div> -->
+					<div class="shop">
+						<h4>ROYAL CITY</h4>
+						<p class="address">Shop 9B &amp; 10B on G/F and Upper Basement , New Mandarin Plaza, 14 Science Museum Road, TST East, Kowloon</p>
+						<p class="contact">Tel: (852) 3963 9108</p>
+						<p class="lat">22.300216</p>
+						<p class="lng">114.178216</p>
+					</div>
+					<div class="shop">
+						<h4>VALUABLE WATCH AND JEWELLERY CO., LTD. (MONG KOK)</h4>
+						<p class="address">G/F, Sun Hing Building, 603-609 Nathan Rd., Mongkok, Kowloon</p>
+						<p class="contact">Tel: (852) 2891 6682</p>
+						<p class="lat">22.316872</p>
+						<p class="lng">114.169634</p>
+					</div>
+					<div class="shop">
+						<h4>BROADWAY PHOTO SUPPLY LTD (ARGYLE STREET)</h4>
+						<p class="address">79 Argyle Street, Mongkok, Kowloon</p>
+						<p class="contact">Tel: (852) 2381 9818</p>
+						<p class="lat">22.319553</p>
+						<p class="lng">114.170326</p>
+					</div>
+					<!-- <div class="shop">
+						<h4>BROADWAY PHOTO SUPPLY LTD (CAMERON ROAD)</h4>
+						<p class="address">G/F., 56 Cameron Road, Tsim Sha Tsui, Kowloon</p>
+						<p class="contact">Tel: (852) 2890 6818</p>
+						<p class="lat">22.299217</p>
+						<p class="lng">114.175208</p>
+					</div> -->
+					<div class="shop">
+						<h4>BROADWAY PHOTO SUPPLY LTD (MK CITY CENTRE)</h4>
+						<p class="address">G/F-2/F., Mongkok City Centre, 78 Sai Yeung Choi Street South, Mongkok, Kowloon</p>
+						<p class="contact">Tel: (852) 2366 3032</p>
+						<p class="lat">22.318958</p>
+						<p class="lng">114.170270</p>
+					</div>
+					<div class="shop">
+						<h4>BROADWAY PHOTO SUPPLY LTD (OCEAN CENTRE)</h4>
+						<p class="address">Shop 341-342, Level 3, Ocean Centre, Harbour City, Tsim Sha Tsui, Kowloon</p>
+						<p class="contact">Tel: (852) 2381 6760</p>
+						<p class="lat">22.295770</p>
+						<p class="lng">114.169210</p>
+					</div>					
+					<div class="shop">
+						<h4>BROADWAY PHOTO SUPPLY LTD (BANK CENTRE)</h4>
+						<p class="address">Shop No.1, G/F, Bank Centre, 636 Nathan Road, Mongkok, Kowloon</p>
+						<p class="contact">Tel: (852) 3427 9819</p>
+						<p class="lat">22.318224</p>
+						<p class="lng">114.169919</p>
+					</div>
+					<div class="shop">
+						<h4>BROADWAY PHOTO SUPPLY LTD (GOOD HOPE BUILDING)</h4>
+						<p class="address">B2 Good Hope Building, 13 Sai Yeung Choi St Southe, Mongkok, Kowloon</p>
+						<p class="contact">Tel: (852) 2506 0228</p>
+						<p class="lat">22.317371</p>
+						<p class="lng">114.170054</p>
+					</div>
+					<div class="shop">
+                        <h4>BROADWAY PHOTO SUPPLY LTD (MONGKOK CENTRRE) </h4>
+                        <p class="address">G/F, 28 Soy Street, Mongkok, Kowloon</p>
+                        <p class="contact">Tel: (852) 2359 7899</p>
+                        <p class="lat">22.316548000000000000</p>
+                        <p class="lng">114.170754000000000000</p>
+                    </div>
+
+
+					<div class="shop">
+						<h4>ISA BOUTIQUE (HANKOW CENTRE)</h4>
+						<p class="address">Flat G18-19, Hankow Centre 4-4B Ashiley Road, Tsim Sha Tsui, Kowloon</p>
+						<p class="contact">Tel: (852) 2366 5816</p>
+						<p class="lat">22.295950</p>
+						<p class="lng">114.170983</p>
+					</div>
+                    <div class="shop">
+                        <h4>ISA BOUTIQUE (SILVERCORD CENTRE)</h4>
+                        <p class="address">Shop LG73, LG, Silvercord Centre, 30 Canton Road, Tsim Sha Tsui, Kowloon</p>
+                        <p class="contact">Tel: (852) 2366 6308</p>
+                        <p class="lat">22.297484900000000000</p>
+                        <p class="lng">114.169408500000000000</p>
+                    </div>
+                    <div class="shop">
+                        <h4>UNIVERSAL TIMEPIECE LTD</h4>
+                        <p class="address">Shop 9-49, G/F Harbour Crystal Centre, 100 Granville Road, Tsim Sha Tsui, Kowloon</p>
+                        <p class="contact">Tel: (852) 2126 7257</p>
+                        <p class="lat">22.300835500000000000</p>
+                        <p class="lng">114.178362500000000000</p>
+                    </div>
+					<div id="hknt" class="sub_region_nav hknt">
+						<ul>
+							<li><a href="#" onClick="javascript: subregion_scroll('hkisland');" title="Hong Kong">Hong Kong</a></li>
+							<li><a href="#" onClick="javascript: subregion_scroll('hkkln');" title="Kowloon">Kowloon</a></li>
+							<li class="active"><a href="#" onClick="javascript: subregion_scroll('hknt');" title="New Territories">New Territories</a></li>
+						</ul>
+					</div>
+                    <div class="shop">
+                        <h4>KOWLOON WATCH CO. (TSUEN WAN)</h4>
+                        <p class="address">Shop 190-19, 2/F Tsuen Wan Tsuen Kam Centre, 338 Castle Peak Rd, NT</p>
+                        <p class="contact">Tel: 2427 3164</p>
+                        <p class="lat">22.374217300000000000</p>
+                        <p class="lng">114.115215500000000000</p>
+                    </div>
+					<div class="shop">
+						<h4>PRINCE JEWELLERY &amp; WATCH CO. (LANDMARK NORTH)</h4>
+						<p class="address">Shop 201-203 &amp; 263-265, Level 2, Landmark North, 39 Lung Sum Avenue, Shek Wu Hui, Sheung Shui, N.T.</p>
+						<p class="contact">Tel: (852) 2323 2308</p>
+						<p class="contact">Fax: (852) 2323 2302</p>
+						<p class="lat">22.502660214744523</p>
+						<p class="lng">114.12785947322845</p>
+					</div>
+					<div class="shop">
+						<h4>KIT SHING WATCH CO., LTD.</h4>
+						<p class="address">Shop 5, G/F, 211-223 Castle Peak Road, Yuen Long, N.T.</p>
+						<p class="contact">Tel: (852) 2476 1482</p>
+						<p class="lat">22.444717632210512</p>
+						<p class="lng">114.02541249990463</p>
+					</div>
+					<div class="shop">
+						<h4>KOWLOON WATCH CO. (TSEUNG KWAN O) </h4>
+						<p class="address">F10-11, 1F, The Edge, 9 Tong Chun Street, Tseung Kwan O, NT</p>
+						<p class="contact">Tel: (852) 2323 6300</p>
+						<p class="lat">22.308523</p>
+						<p class="lng">114.261153</p>
+					</div>
+					<div class="shop">
+						<h4>FINE ASIA WATCH (HONG KONG) CO LTD (TUEN MUN)</h4>
+						<p class="address">Shop 1073, 1/F, Tuen Mun Town Plaza, Phase 1, Tuen Mun, N.T.</p>
+						<p class="contact">Tel: (852) 2116 2318</p>
+						<p class="lat">22.394140</p>
+						<p class="lng">113.976150</p>
+					</div>
+					<div class="shop">
+						<h4>KIT SHING WATCH CO., LTD.</h4>
+						<p class="address">Shop A, G/F Fung Hing Building, 33-35 Yuen Long Hong Lok Road, Yuen Long, NT</p>
+						<p class="contact">Tel: (852) 2476 8826</p>
+						<p class="lat">22.443150</p>
+						<p class="lng">114.027281</p>
+					</div>
+				</div>
+			</div>
+			<div class="country" title="China (Macau)">
+				<div class="city" title="China (Macau)">
+					<div class="shop">
+						<h4>Macau Zhouyuzan Clocks and Watches Technical Service Center</h4>
+						<p class="address">Room G,10/F,The Macau Square, No.47-53 Avenida do infante D.Henrique, Macau</p>
+						<p class="contact">Tel: (853) 2871 7323</p>
+						<p class="lat">22.191599</p>
+						<p class="lng">113.541546</p>
+					</div>
+					<div class="shop">
+						<h4>Macau Zhouyuzan Clocks and Watches Technical Service Center</h4>
+						<p class="address">Shop D, G/F &amp; M/F., The Macau Square, No.47-53 Avenida do infante D.Henrique, Macau</p>
+						<p class="contact">Tel: (853) 2871 7323</p>
+						<p class="lat">22.191599</p>
+						<p class="lng">113.541546</p>
+					</div>
+					<div class="shop">
+						<h4>TAI FUNG WATCH CO.</h4>
+						<p class="address">310-316, Avenue Almeida Ribeiro, Macau</p>
+						<p class="contact">Tel: (853) 2837 5155</p>
+						<p class="lat">22.194468175489394</p>
+						<p class="lng">113.53882491588593</p>
+					</div>
+					<div class="shop">
+						<h4>ORIENTAL WATCH (MACAU) CO., LTD. (MACAU SQUARE)</h4>
+						<p class="address">Shop D, G/F, The Macau Square, Avenida do Infante D. Henrique, No. 47-53, Macau</p>
+						<p class="contact">Tel: (853) 2871 7323</p>
+						<p class="lat">22.19097139737843</p>
+						<p class="lng">113.5419899225235</p>
+					</div>
+					<div class="shop">
+						<h4>HONG KONG MACAU INTERNATIONAL DUTY FREE SHOP</h4>
+						<p class="address">G/F - /F, Miami Building, Macau Fisherman's Wharf, Avenida Dr. Sun Yat-Sen, Macau</p>
+						<p class="contact">Tel: (853) 2872 8148</p>
+						<p class="lat">22.191840633022508</p>
+						<p class="lng">113.556307554245</p>
+					</div>
+					<div class="shop">
+						<h4>POPULAR JEWELRY</h4>
+						<p class="address">No.267-269 Avenida Doutor Mario Soares, Macau</p>
+						<p class="contact">Tel: (853) 2876 1111</p>
+						<p class="lat">22.191632016958522</p>
+						<p class="lng">113.54170024394989</p>
+					</div>
+
+					<div class="shop">
+						<h4>YU XING LONG WATCH CO., LTD.</h4>
+						<p class="address">194, Avenue Almeida Ribeiro, Macau</p>
+						<p class="contact">Tel: (853) 2835 7004</p>
+						<p class="lat">22.193631</p>
+						<p class="lng">113.539523</p>
+					</div>
+					<div class="shop">
+						<h4>ISA BOUTIQUE (MACAU TOWER)</h4>
+						<p class="address">Shop No. 1A, 1, 2, 10, 11, 16, 17, 18, 19B, 20B, 21 on Lower Ground Floor, Macau Tower Convention &amp; Entertainment Centre</p>
+						<p class="contact">Tel: (853) 2896 7880</p>
+						<p class="lat">22.179968</p>
+						<p class="lng">113.537771</p>
+					</div>
+					<div class="shop">
+						<h4>YU XING LONG WATCH CO., LTD.</h4>
+						<p class="address">Rua De S. Domingos, 23-25 R/C, Macau</p>
+						<p class="contact">Tel: (853) 2835 7004</p>
+						<p class="lat">22.1944781093941</p>
+						<p class="lng">113.54173511266708</p>
+					</div>
+					<div class="shop">
+						<h4>YU XING LONG WATCH CO., LTD.</h4>
+						<p class="address">Rua Plha , No. 10, Yu Heng Seong Cheong , R/C Macau</p>
+						<p class="contact">Tel: (853) 2836 6396</p>
+						<p class="lat">22.195036890402424</p>
+						<p class="lng">113.54064881801605</p>
+					</div>
+					<div class="shop">
+						<h4>NEWAGE WATCH LTD</h4>
+						<p class="address">Avenida de D. Joao IV No. 17-D R/C, Macau</p>
+						<p class="contact">Tel: (853) 2828 2201</p>
+						<p class="lat">22.192012</p>
+						<p class="lng">113.543239</p>
+					</div>
+					<div class="shop">
+						<h4>IAT CHI TIMEPIECES</h4>
+						<p class="address">A9, No.8, Rua De Peqium Edificio, I CHAN KOR R/C, Macau</p>
+						<p class="contact">Tel: (853) 2833 8455</p>
+						<p class="lat">22.191002</p>
+						<p class="lng">113.546483</p>
+					</div>
+				</div>
+			</div>
+			<div class="country" title="India">
+				<div class="city" title="Mumbai, Maharashtra">
+					<div class="shop">
+						<h4>Bayside Labels Pvt Ltd</h4>
+						<p class="address">104, Navkar chambers marol naka metro station andheri east, 40001 Mumbai, Maharashtra, India</p>
+						<p class="contact">Tel: +91 022 40039299</p>
+                        <p class="contact">Web: www.baysidelabels.com</p>
+						<p class="lat">19.108188</p>
+						<p class="lng">72.879556</p>
+					</div>
+				</div>
+			</div>
+			<div class="country" title="Malaysia">
+				<div class="city" title="Malaysia">
+					<div class="shop">
+						<h4>All Watches Times Square</h4>
+						<p class="address">Berjaya Times Square #01-63, No.1 Jalan Imbi 55100 Kuala Lumpur</p>
+						<p class="contact">Tel: (603) 2142 8128</p>
+						<p class="lat">3.142661</p>
+						<p class="lng">101.710397</p>
+					</div>
+				</div>
+			</div>
+			<div class="country" title="Singapore">
+				<div class="city" title="Singapore">
+					<div class="shop">
+						<h4>All Watches Bugis</h4>
+						<p class="address">Bugis Junction, 200 Victoria St #01‐104 Singapore 188021</p>
+						<p class="contact">Tel: (65) 6337 0669</p>
+						<p class="lat">1.299416</p>
+						<p class="lng">103.855594</p>
+					</div>
+					<div class="shop">
+						<h4>Singapore Flagship Store</h4>
+						<p class="address">Chinatown Point, 133 New Bridge Rd #01-21 Singapore 059413</p>
+						<p class="contact">Tel: (65) 6636 3376</p>
+						<p class="contact">Fax: (65) 6543 6125</p>
+						<p class="lat">1.285326</p>
+						<p class="lng">103.844916</p>
+					</div>			
+					<div class="shop">
+						<h4>All Watches Lucky</h4>
+						<p class="address">304 Orchard Rd, #B1-128 Lucky Plaza, Singapore 238863</p>
+						<p class="contact">Tel: (65) 6732 7673</p>
+						<p class="contact">Fax: (65) 6734 8816</p>
+						<p class="lat">1.3045584</p>
+						<p class="lng">103.83388220000006</p>
+					</div>					
+					<div class="shop">
+						<h4>All Watches OG</h4>
+						<p class="address">OG Dept Store Level 2, Albert Complex, 60 Albert St Singapore 189969</p>
+						<p class="contact">Tel: (65) 6339 3771</p>
+						<p class="lat">1.302371</p>
+						<p class="lng">103.853896</p>
+					</div>
+					<div class="shop">
+						<h4>All Watches Wisma</h4>
+						<p class="address">Wisma Atria, 435 Orchard Rd #01‐16/17 Singapore 238877</p>
+						<p class="contact">Tel: (65) 6733 2823</p>
+						<p class="lat">1.303803</p>
+						<p class="lng">103.833125</p>
+					</div>
+					<div class="shop">
+						<h4>Aptimos BHG</h4>
+						<p class="address">BHG Dept Store Level 1, Bugis Junction, 230 Victoria St Singapore 188024</p>
+						<p class="contact">Tel: (65) 6337 5075</p>
+						<p class="lat">1.299399</p>
+						<p class="lng">103.855489</p>
+					</div>
+					<div class="shop">
+						<h4>Aptimos Lucky</h4>
+						<p class="address">Lucky Plaza, 304 Orchard Rd #B1‐116/117 Singapore 238863</p>
+						<p class="contact">Tel: (65) 6732 6386</p>
+						<p class="lat">1.304567</p>
+						<p class="lng">103.833941</p>
+					</div>
+				</div>
+			</div>
+			<div class="country" title="Taiwan">
+				<div class="city" id="r0-c4-cc0" title="New Taipei City">
+					<div class="shop" id="r0-c4-cc0-s0">
+						<h4>Readily International Timepieces LTD.</h4>
+						<p class="address">2F-2, No.18, Lane 609, Sec.5, Chongxin Road, Sanchong District, New Taipei City 24159, Taiwan R.O.C.(Tomson Plaza)</p>
+						<p class="contact">Tel: (02) 2999 1331</p>
+						<p class="lat">25.045950190213286</p>
+						<p class="lng">121.46703779697418</p>
+					</div>
+				</div>
+			</div>
+			<div class="country" title="Vietnam">
+				<div class="city" title="Ha Noi">
+					<div class="shop">
+						<h4>Vietnam Flagship Store</h4>
+						<p class="address">3 Hang Khay street, Hoan Kiem District, Ha Noi, Viet Nam</p>
+						<p class="contact">Tel: (84) 3936 6701</p>
+						<p class="lat">21.025508730141873</p>
+						<p class="lng">105.8532178401947</p>
+					</div>
+					<div class="separateLine">
+					</div>
+					<div class="shop">
+						<h4>Galle Watch</h4>
+						<p class="address">41 Thi Sach street, Hai Ba Trung District, Ha Noi, Viet Nam</p>
+						<p class="contact">Tel: (84) 3978 4500</p>
+						<p class="lat">20.93234214154338</p>
+						<p class="lng">105.86058855056763</p>
+					</div>
+					<div class="shop">
+						<h4>Galle Watch</h4>
+						<p class="address">BigC Center, 222 Tran Duy Hung, Cau Giay District, Ha Noi, Viet Nam</p>
+						<p class="contact">Tel: (84) 3783 0732</p>
+						<p class="lat">21.007230</p>
+						<p class="lng">105.794918</p>
+					</div>
+					<div class="shop">
+						<h4>Galle Watch</h4>
+						<p class="address">25 Hang Khay street , Hoan Kiem District, Ha Noi, Viet Nam</p>
+						<p class="contact">Tel: (84) 3936 6701</p>
+						<p class="lat">21.025658947844768</p>
+						<p class="lng">105.85295230150223</p>
+					</div>
+					<div class="shop">
+						<h4>Galle Watch</h4>
+						<p class="address">1st Level, Vincom Center, 191 Ba Trieu street, Hai Ba Trung District, Ha Noi, Viet Nam</p>
+						<p class="contact">Tel: (84) 3974 4525</p>
+						<p class="lat">21.011392</p>
+						<p class="lng">105.850035</p>
+					</div>
+					<div class="shop">
+						<h4>Galle Watch</h4>
+						<p class="address">B1/R4/K11 Royal City Center, 72A Nguyen Trai, Thanh Xuan District, Ha Noi, Viet Nam</p>
+						<p class="contact">Tel: (84) 6262 0168</p>
+						<p class="lat">20.985704</p>
+						<p class="lng">105.795232</p>
+					</div>
+					<div class="shop">
+						<h4>Galle Watch</h4>
+						<p class="address">B1/D1/K8 Times City Center, 458 Minh Khai street, Hai Ba Trung District, Ha Noi, Viet Nam</p>
+						<p class="contact">Tel: (84) 3200 1689</p>
+						<p class="lat">20.997598</p>
+						<p class="lng">105.866851</p>
+					</div>
+					<div class="shop">
+						<h4>Galle Watch</h4>
+						<p class="address">202 Thai Ha street, Dong Da District, Ha Noi, Viet Nam</p>
+						<p class="contact">Tel: (84) 3538 1882</p>
+						<p class="lat">21.038499</p>
+						<p class="lng">105.829003</p>
+					</div>
+					<div class="shop">
+                        <h4>Galle Watch</h4>
+                        <p class="address">F3-B11 Tang 3 TTTM Lotte, 54 Lieu Giai, Ba Dinh, Ha Noi, Viet Nam</p>
+                        <p class="contact">Tel: (84) 3267 6031</p>
+                        <p class="contact">Tel: (84) 3267 6032</p>
+                        <p class="lat">21.032201</p>
+                        <p class="lng">105.812639</p>
+                    </div>
+                </div>
+				<div class="city" id="r0-c5-cc1" title="Ho Chi Minh">
+					<div class="shop">
+						<h4>Galle Watch</h4>
+						<p class="address">L1-45 Level, Vicom Center, 72 Le Thanh Ton street, One District, Ho Chi Minh, Viet Nam</p>
+						<p class="contact">Tel: (84) 3936 9727</p>
+						<p class="lat">10.777091</p>
+						<p class="lng">106.701781</p>
+					</div>
+					<div class="shop">
+						<h4>Galle Watch</h4>
+						<p class="address">Maximark 3/2 Center, 3-3C, 3/2 street, Ten District, Ho Chi Minh, Viet Nam</p>
+						<p class="contact">Tel: (84) 3832 9092</p>
+						<p class="lat">10.776183</p>
+						<p class="lng">106.680840</p>
+					</div>
+					<div class="shop">
+						<h4>Galle Watch</h4>
+						<p class="address">BigC Center, 202B Hoang Van Thu street, Phu Nhuan Distict, Ho Chi Minh, Viet Nam</p>
+						<p class="contact">Tel: (84) 3997 3748</p>
+						<p class="lat">10.801904</p>
+						<p class="lng">106.669608</p>
+					</div>
+					<div class="shop">
+						<h4>Galle Watch</h4>
+						<p class="address">BigC Pandora, 1/1 Truong Chinh street, Tan Phu District, Ho Chi Minh, Viet Nam</p>
+						<p class="contact">Tel: (84) 3842 9764</p>
+						<p class="lat">10.765236</p>
+						<p class="lng">106.672102</p>
+					</div>
+					<div class="shop">
+						<h4>Galle Watch</h4>
+						<p class="address">352 Le van Sy street, Fourteen Ward, Three District, Ho Chi Minh, Viet Nam</p>
+						<p class="contact">Tel: (84) 6290 4132</p>
+						<p class="lat">10.787835</p>
+						<p class="lng">106.677552</p>
+					</div>
+					<div class="shop">
+						<h4>Galle Watch</h4>
+						<p class="address">129, 15-17 Cong Hoa street, Four Ward, Ho Chi Minh, Viet Nam</p>
+						<p class="contact">Tel: (84) 3948 3307</p>
+						<p class="lat">10.769643</p>
+						<p class="lng">106.689252</p>
+					</div>
+					<div class="shop">
+						<h4>Galle Watch</h4>
+						<p class="address">717 Cach mang Thang Tam Street, Six Ward, Tan Binh District, Ho Chi Minh, Viet Nam</p>
+						<p class="contact">Tel: (84) 6297 2138</p>
+						<p class="lat">10.780106</p>
+						<p class="lng">106.677576</p>
+					</div>
+					<div class="shop">
+                        <h4>Galle Watch</h4>
+                        <p class="address">L1-K3 TTTM Vincom Center Thu Duc, 216 Vo Van Ngan, P Binh Tho, Q Thu Duc, TP Ho Chi Minh</p>
+                        <p class="contact">Tel: (84) 3722 5262</p>
+                        <p class="contact">Tel: (84) 3722 5263</p>
+                        <p class="lat">10.850008</p>
+                        <p class="lng">106.765278</p>
+                    </div>
+				</div>
+			</div>
+			<div class="country" title="Korea">
+				<div class="city" id="r0-c6-cc1" title="Gyeonggi-do">
+					<div class="shop" id="r0-c6-cc1-s0">
+						<h4>TBOSS CORPORATION (TBOSS Corp.)</h4>
+						<p class="address">2F, O-RYONG Bldg., 625-4, E-dong, Sangrok-gu, Ansan-si, Gyeonggi-do, Korea</p>
+						<p class="contact">Tel: (82) 1661 5705</p>
+						<p class="contact">Fax: (82) 505 977 9997</p>
+						<p class="lat">37.314978</p>
+						<p class="lng">126.844512</p>
+					</div>
+				</div>
+			</div>
+			<div class="country" title="Myanmar">
+				<div class="city" id="r0-c7-cc1" title="Yangon">
+					<div class="shop" id="r0-c7-cc1-s0">
+						<h4>Tin Sein Watch Gallery</h4>
+						<p class="address">No.89, U Chit Mg Stree, Bahan Township Yangon</p>
+						<p class="contact">Tel: (95) 165 1386</p>
+						<p class="contact">Fax: (82) 165 1386</p>
+						<p class="lat">16.859214</p>
+						<p class="lng">96.122336</p>
+					</div>
+				</div>
+			</div>
+			<div class="country" title="Indonesia">
+				<div class="city" id="r0-c8-cc1" title="Pekanbaru">
+					<div class="shop" id="r0-c8-cc1-s0">
+						<h4>Verona Exclusive Fashion</h4>
+						<p class="address">Jl. Jend Ahmad Yani, No. 2H-21 Pekanbaru, Indonesia</p>
+						<p class="contact">Tel: (62) 0761855561</p>
+						<p class="lat">0.527729</p>
+						<p class="lng">101.442478</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="region" title="Europe">
+			<div class="country" title="Switzerland">
+				<div class="city" title="Le Noirmont">
+					<div class="shop">
+						<h4>Ernest Borel SA</h4>
+						<p class="address">Rue des Perrières 8, 2340 Le Noirmont, Switzerland</p>
+						<p class="contact">+41 32 926 17 26</p>
+		                <p class="contact">Email: info@ernestborel.ch</p>
+		                <p class="contact">Web: www.ernestborel.ch</p>
+						<p class="lat">47.224169</p>
+						<p class="lng">6.955173</p>
+					</div>					
+				</div>				
+            </div>
+            <div class="country" title="Northern Ireland">
+				<div class="city" title="Belfast - Belfast">
+					<div class="shop">
+						<h4>Gardiner Brothers Limited</h4>
+						<p class="address">44-46 Waring Street, BT1 2ED Belfast, Northern Ireland</p>
+						<p class="contact">+44 28 9023 42 71</p>
+		                <p class="contact">Email: info@ernestborel.ch</p>
+		                <p class="contact">Web: www.ernestborel.ch</p>
+						<p class="lat">47.224169</p>
+						<p class="lng">6.955173</p>
+					</div>					
+				</div>				
+            </div>
+            <div class="country" title="The Netherlands">
+				<div class="city" title="AN Amsterdam">
+					<div class="shop">
+						<h4>HQ-Time</h4>
+						<p class="address">P.O. Box 75590, 1070 Amsterdam, The Netherlands</p>
+						<p class="contact">+31 65 589 0504</p>
+		                <p class="contact">Email: info@hq-time.com</p>
+		                <p class="contact">Web: www.hq-time.com</p>
+						<p class="lat"></p>
+						<p class="lng"></p>
+					</div>					
+				</div>				
+            </div>
+            <div class="country" title="Belgium">
+				<div class="city" title="AN Amsterdam">
+					<div class="shop">
+						<h4>HQ-Time</h4>
+						<p class="address">P.O. Box 75590, 1070 Amsterdam, The Netherlands</p>
+						<p class="contact">+31 65 589 0504</p>
+		                <p class="contact">Email: info@hq-time.com</p>
+		                <p class="contact">Web: www.hq-time.com</p>
+						<p class="lat"></p>
+						<p class="lng"></p>
+					</div>					
+				</div>				
+            </div>
+            <div class="country" title="Luxembourg">
+				<div class="city" title="AN Amsterdam">
+					<div class="shop">
+						<h4>HQ-Time</h4>
+						<p class="address">P.O. Box 75590, 1070 Amsterdam, The Netherlands</p>
+						<p class="contact">+31 65 589 0504</p>
+		                <p class="contact">Email: info@hq-time.com</p>
+		                <p class="contact">Web: www.hq-time.com</p>
+						<p class="lat"></p>
+						<p class="lng"></p>
+					</div>					
+				</div>				
+            </div>
+            <div class="country" title="Bulgaria">
+				<div class="city" title="Sofia">
+					<div class="shop">
+						<h4>Juliany</h4>
+						<p class="address">70 Rakovski, Sofia, Bulgaria</p>
+						<p class="contact">+359 (0)2 980 6310</p>
+		                <p class="contact">Email: office@julliany.com</p>
+		                <p class="contact">Web: www.julliany.com</p>
+						<p class="lat">42.699370</p>
+						<p class="lng">23.329430</p>
+					</div>					
+				</div>				
+            </div>
+            <div class="country" title="Spain">
+				<div class="city" title="Barcelona">
+					<div class="shop">
+						<h4>Luxus</h4>
+						<p class="address">Passeig de Gracia 118, Principal, 8008 Barcelona, Spain</p>
+						<p class="contact">+932 553 104</p>
+		                <p class="contact">Email: f.battle@luxus-fb.com</p>
+						<p class="lat">41.397342</p>
+						<p class="lng">2.158986</p>
+					</div>					
+				</div>				
+            </div>
+            <div class="country" title="Hungary">
+				<div class="city" title="Budapest">
+					<div class="shop">
+						<h4>Swiss-Time Ltd.</h4>
+						<p class="address">Jàsz u. 83-87, 1135 Budapest, Hungary</p>
+						<p class="contact">+36 1 330 51 49</p>
+		                <p class="contact">Email: info@swisstime.hu</p>
+						<p class="lat">47.535305</p>
+						<p class="lng">19.086176</p>
+					</div>					
+				</div>				
+            </div>            
+            <div class="country" title="France">
+				<div class="city" title="Levallois Perret">
+					<div class="shop">
+						<h4>Tendance 2 Luxe</h4>
+						<p class="address">110 Boulevard du President Wilson, 92300 Levallois Perret, France</p>
+						<p class="contact">+33 6 41941281</p>
+		                <p class="contact">Email: contact@tendances2luxe.com</p>
+						<p class="lat">48.896695</p>
+						<p class="lng">2.286597</p>
+					</div>					
+				</div>				
+            </div>            
+            <div class="country" title="Germany">
+				<div class="city" title="Madrid">
+					<div class="shop">
+						<h4>Time Square Development</h4>
+						<p class="address">C/ Ligonde 3, Pl, 2°B, 28050 Madrid, Spain</p>
+						<p class="contact">+34 659 633 407</p>
+		                <p class="contact">Email: bezos@timesqd.com</p>
+						<p class="lat"></p>
+						<p class="lng"></p>
+					</div>					
+				</div>				
+            </div>            
+            <div class="country" title="Sweden">
+				<div class="city" title="Madrid">
+					<div class="shop">
+						<h4>Time Square Development</h4>
+						<p class="address">C/ Ligonde 3, Pl, 2°B, 28050 Madrid, Spain</p>
+						<p class="contact">+34 659 633 407</p>
+		                <p class="contact">Email: bezos@timesqd.com</p>
+						<p class="lat"></p>
+						<p class="lng"></p>
+					</div>					
+				</div>				
+            </div>
+            <div class="country" title="Ukraine">
+				<div class="city" title="Kiev">
+					<div class="shop">
+						<h4>Veltim Technokom</h4>
+						<p class="address">Str. Turgenevskaya, 25 of #15, 4050 Kiev, Ukraine</p>
+						<p class="contact"></p>
+		                <p class="contact">Email: andrew_hit15@yahoo.com</p>
+						<p class="lat">50.452081</p>
+						<p class="lng">30.491094</p>
+					</div>					
+				</div>				
+            </div>
+		</div>
+
+		<div class="region" title="Middle East">
+			<div class="country" title="UAE, Qatar, Iran, Kuwait, Oman, Saudi arabia">
+				<div class="city" title="Dubai">
+					<div class="shop">
+						<h4>Enjoy Bijoux Dubai</h4>
+						<p class="address">Dubai Airport Free Zone, East Wing 2E 209, PO BOX 54487</p>
+						<p class="contact">Tel: +971 4 299 6500</p>
+						<p class="contact">Email: office@enjoybijouxdubai.com</p>
+						<p class="contact">web: www.enjoyyourbrands.com</p>
+						<p class="lat">25.260765</p>
+						<p class="lng">55.374983</p>
+					</div>
+				</div>
+			</div>
+			<!-- <div class="country" title="Qatar">
+				<div class="city" title="Dubai">
+					<div class="shop">
+						<h4>Enjoy Bijoux Dubai</h4>
+						<p class="address">Dubai Airport Free Zone, East Wing 2E 209, PO BOX 54487</p>
+						<p class="contact">Tel: +971 4 299 6500</p>
+						<p class="contact">Email: office@enjoybijouxdubai.com</p>
+						<p class="contact">web: www.enjoyyourbrands.com</p>
+						<p class="lat">25.260765</p>
+						<p class="lng">55.374983</p>
+					</div>
+				</div>
+			</div>
+			<div class="country" title="Iran">
+				<div class="city" title="Dubai">
+					<div class="shop">
+						<h4>Enjoy Bijoux Dubai</h4>
+						<p class="address">Dubai Airport Free Zone, East Wing 2E 209, PO BOX 54487</p>
+						<p class="contact">Tel: +971 4 299 6500</p>
+						<p class="contact">Email: office@enjoybijouxdubai.com</p>
+						<p class="contact">web: www.enjoyyourbrands.com</p>
+						<p class="lat">25.260765</p>
+						<p class="lng">55.374983</p>
+					</div>
+				</div>
+			</div>
+			<div class="country" title="Kuwait">
+				<div class="city" title="Dubai">
+					<div class="shop">
+						<h4>Enjoy Bijoux Dubai</h4>
+						<p class="address">Dubai Airport Free Zone, East Wing 2E 209, PO BOX 54487</p>
+						<p class="contact">Tel: +971 4 299 6500</p>
+						<p class="contact">Email: office@enjoybijouxdubai.com</p>
+						<p class="contact">web: www.enjoyyourbrands.com</p>
+						<p class="lat">25.260765</p>
+						<p class="lng">55.374983</p>
+					</div>
+				</div>
+			</div>
+			<div class="country" title="Oman">
+				<div class="city" title="Dubai">
+					<div class="shop">
+						<h4>Enjoy Bijoux Dubai</h4>
+						<p class="address">Dubai Airport Free Zone, East Wing 2E 209, PO BOX 54487</p>
+						<p class="contact">Tel: +971 4 299 6500</p>
+						<p class="contact">Email: office@enjoybijouxdubai.com</p>
+						<p class="contact">web: www.enjoyyourbrands.com</p>
+						<p class="lat">25.260765</p>
+						<p class="lng">55.374983</p>
+					</div>
+				</div>
+			</div>
+			<div class="country" title="Saudi arabia">
+				<div class="city" title="Dubai">
+					<div class="shop">
+						<h4>Enjoy Bijoux Dubai</h4>
+						<p class="address">Dubai Airport Free Zone, East Wing 2E 209, PO BOX 54487</p>
+						<p class="contact">Tel: +971 4 299 6500</p>
+						<p class="contact">Email: office@enjoybijouxdubai.com</p>
+						<p class="contact">web: www.enjoyyourbrands.com</p>
+						<p class="lat">25.260765</p>
+						<p class="lng">55.374983</p>
+					</div>
+				</div>
+			</div> -->
+		</div>
+
+		<div class="region" title="North America">
+			<div class="country" title="Canada">
+				<div class="city" title="Montreal, Quebec">
+					<div class="shop">
+						<h4>Valangin Inc.</h4>
+						<p class="address">1435 Rue Saint-Alexandre, H3A 2G4 Montreal, Quebec, Canada</p>
+						<p class="contact">Tel: +1 514 845 2259</p>
+						<p class="contact">Email: admin@valangin.com</p>
+						<p class="contact">Web: http://www.valangin.com/</p>
+						<p class="lat">50.452081</p>
+						<p class="lng">30.491094</p>
+					</div>
+				</div>
+			</div>
+			<div class="country" title="United States">
+				<div class="city" title="Montreal, Quebec">
+					<div class="shop">
+						<h4>Valangin Inc.</h4>
+						<p class="address">1435 Rue Saint-Alexandre, H3A 2G4 Montreal, Quebec, Canada</p>
+						<p class="contact">Tel: +1 514 845 2259</p>
+						<p class="contact">Email: admin@valangin.com</p>
+						<p class="contact">Web: http://www.valangin.com/</p>
+						<p class="lat">50.452081</p>
+						<p class="lng">30.491094</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="region" title="Oceania">
+			<div class="country" title="Australia">
+				<div class="city" title="Glen Huntly, VIC">
+					<div class="shop">
+						<h4>Lion Brands</h4>
+						<p class="address">1068-1070 Glenhuntly Rd, 3163 Glen Huntly, VIC, Australia</p>
+						<p class="contact">Tel: +61 4 0913 8607</p>
+						<p class="contact">Email: service@lionbrandsaustralia.com.au</p>
+						<p class="contact">Web: www.lionbrandsaustralia.com.au</p>
+						<p class="lat">-37.889157</p>
+						<p class="lng">145.037981</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</active>
+	<inactive>
+		<div class="country" id="r0-c5" title="Taiwan">
+				<div class="city" id="r0-c5-cc0" title="Taipei City">
+					<div class="shop" id="r0-c5-cc0-s0">
+						<h4>Galaxy Watch Limited</h4>
+						<p class="address">1/F.,No.6,Ln.180,Sec.6, Minquan E Rd. Neihu Dist., Taipei City 114,Taiwan (R.O.C.)</p>
+						<p class="contact">Tel: 02 7743 7966 Fax: 02 7721 0298</p>
+					</div>
+					<div class="shop" id="r0-c5-cc0-s1">
+						<h4>Hengdeli</h4>
+						<p class="address">2F, No. 142, Sec. 4, Zhongxiao E. Rd., 106 Taipei City, Taiwan</p>
+						<p class="contact">Tel: 02 2781 8222</p>
+					</div>
+				</div>
+			</div>
+
+		<div class="region" id="i-r0" title="Asia">
+			<div class="country" id="i-r0-c0" title="China">
+				<div class="city" id="i-r0-c0-cc0" title="Neimenggu">
+					<div class="shop" id="i-r0-c0-cc0-s0">
+						<h4>Hohhot Weiduoli Mall Clock &amp; Watch Center</h4>
+						<p class="address">No.39 Zhongshan Road West Hohhot</p>
+						<p class="contact">Tel: (86-471)226 3319</p>
+					</div>
+					<div class="shop" id="i-r0-c0-cc0-s1">
+						<h4>Baotou Wangfujing Department Store Co. Ltd.</h4>
+						<p class="address">No.71 Gangtie Street Baotou City</p>
+						<p class="contact">Tel: (86-472)251 3343</p>
+					</div>
+					<div class="shop" id="i-r0-c0-cc0-s2">
+						<h4>Brand Watch 1/F，Lantian Building Shenhua International City Baot</h4>
+						<p class="address">No.1 Aerding Street Kun District </p>
+						<p class="contact">Baotou Tel: (86-472)536 8860</p>
+					</div>
+					<div class="shop" id="i-r0-c0-cc0-s3">
+						<h4>Ordos Aiguo Brand Watch Store</h4>
+						<p class="address">No.3 Yijinhuoluo Street East Ordos City </p>
+						<p class="contact">Tel: (86-477) 399 9022</p>
+					</div>
+				</div>
+				<div class="city" id="i-r0-c0-cc1" title="Beijing">
+					<div class="shop" id="i-r0-c0-cc1-s0">
+						<h4>Beijing Landao Building Department Store</h4>
+						<p class="address">A8 Chaowai Street, ChaoYang District, Beijing, China.</p>
+						<p class="contact">Tel: (86-10) 5821-4031</p>
+					</div>
+					<div class="shop" id="i-r0-c0-cc1-s1">
+						<h4>Beijing Wangfujing Danyao Hendry Watches Store</h4>
+						<p class="address">Dangyao Building, No. 176 Wangfujing Street, East Area Beijing City, China.</p>
+						<p class="contact">Tel: (86-10) 6528 6155</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="region" id="i-r1" title="North America">
+		</div>
+		<div class="region" id="i-r2" title="Europe">
+			<div class="country" id="i-r2-c0" title="Switzerland">
+				<div class="city" id="i-r2-c0-cc0" title="Switzerland">
+					<div class="shop" id="i-r2-c0-cc0-s0">
+						<h4>Ernest Borel S.A.</h4>
+						<p class="address">Case postale 234 rue des Perrieres 8 CH-2340 Le Noirmont Switzerland</p>
+						<p class="contact">Tel: +41 (0)32 926 17 26 Fax: +41 (0)32 926 17 29<br />Web: www.ernestborel.ch<br />Email: info@ernestborel.ch</p>
+					</div>
+					<div class="shop" id="i-r2-c0-cc0-s1">
+						<h4>Juwelia Watches Souvenirs</h4>
+						<p class="address">Denkmalstrasse 1-3 CH-6006 Luzern Switzerland</p>
+						<p class="contact">Tel: +41 (0)41 410 53 29 Fax:(041)410 61 19</p>
+					</div>
+				</div>
+			</div>
+			<div class="country" id="i-r2-c1" title="Russia">
+				<div class="city" id="i-r2-c1-cc0" title="Russia">
+					<div class="shop" id="i-r2-c1-cc0-s0">
+						<h4>Fregat LTD</h4>
+						<p class="address">Electrodnaya st. 2, 20 111141 Moscow Russia</p>
+						<p class="contact">Tel: +7 495 637 96 06<br />Email: nadin@fregat-ltd.ru</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="region" id="i-r3" title="Middle East">
+		</div>
+	</inactive>
+</data>
