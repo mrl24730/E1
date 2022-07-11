@@ -1,0 +1,50 @@
+/* Variable Declaration */
+#CartPage .step {
+  display: none;
+}
+
+#CartPage .step.active {
+  display: block;
+}
+
+#CartPage #discount {
+  min-width: 80px;
+}
+
+#CartPage .qty-select[disabled="disabled"], #CartPage .qty-select[readonly="readonly"] {
+  border: none;
+  background-color: transparent;
+  color: #000;
+}
+
+#CartPage .total-card {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+#CartPage .order-info {
+  background-color: #cbcbcb;
+  color: #808080;
+}
+
+#CartPage .save-btn .save,
+#CartPage .save-btn .saving,
+#CartPage .save-btn .saved {
+  display: none;
+}
+
+#CartPage .save-btn .save.active,
+#CartPage .save-btn .saving.active,
+#CartPage .save-btn .saved.active {
+  display: inline;
+}
+
+#CartPage .error {
+  color: #F00;
+}
+
+#CartPage #totalContainer .col-form-label {
+  padding-top: .375rem;
+  padding-bottom: .375rem;
+}
+/*# sourceMappingURL=cart.css.map */

@@ -1,0 +1,19 @@
+/* Variable Declaration */
+#ConfirmPage .discount-tag, #FinishPage .discount-tag {
+  font-weight: 600;
+  color: #808080;
+  margin: 0;
+  line-height: .1;
+  text-align: right;
+}
+
+#ConfirmPage .total-discount, #FinishPage .total-discount {
+  font-weight: 600;
+  color: #808080;
+}
+
+#ConfirmPage .total-discount .form-control-plaintext, #FinishPage .total-discount .form-control-plaintext {
+  color: #808080;
+  font-weight: 600;
+}
+/*# sourceMappingURL=confirm.css.map */

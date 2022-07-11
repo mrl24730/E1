@@ -1,0 +1,31 @@
+/* Variable Declaration */
+@media (max-width: 992px) {
+  #CollecPage .finder-inline {
+    display: none; } }
+#CollecPage .mini-title {
+  padding-bottom: 5px !important;
+  padding-top: 10px;
+  margin: 0; }
+#CollecPage .brand-desc {
+  font-size: 0.8em;
+  margin: 0 auto;
+  padding-bottom: 68px; }
+  @media (max-width: 992px) {
+    #CollecPage .brand-desc {
+      width: 85%;
+      padding-bottom: 30px;
+      text-align: justify; } }
+#CollecPage .product-type {
+  font-size: .8em; }
+#CollecPage .product-type, #CollecPage .product-coll {
+  color: #808080; }
+#CollecPage .product-model {
+  color: #af845d;
+  font-size: .8em;
+  font-weight: 700; }
+#CollecPage .product-price {
+  color: #808080;
+  font-size: .8em;
+  font-weight: 700; }
+
+/*# sourceMappingURL=collection.css.map */

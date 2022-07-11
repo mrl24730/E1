@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,0BAA0B;ACIxB,2BAAW;EACT,cAAc,EAAE,SAAS;AAGzB,4BAAC;EACC,aAAa,EAAE,CAAC;EAChB,SAAS,EAAE,KAAK;AD4CrB,yBAA8C;ECzC7C,0BAAW;IAEV,KAAK,EAAE,GAAG;IACP,MAAM,EAAE,IAAI;IACZ,UAAU,EAAE,OAAO;AAGvB,gCAAgB;EACd,eAAe,EAAE,IAAI;EACrB,KAAK,EDdK,OAAO;ACgBnB,wCAAwB;EACtB,KAAK,EDrBC,OAAO;ECsBb,SAAS,EAAE,IAAI",
+"sources": ["_utils.scss","collectionlist.scss"],
+"names": [],
+"file": "collectionlist.css"
+}

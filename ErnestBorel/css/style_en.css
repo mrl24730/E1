@@ -1,0 +1,13 @@
+#mainPage #main-theme #searchWrapper {
+    width: 198px;
+    padding: 5px 16px;
+}
+
+:lang(en) #Ambassador .cover .desc {
+    padding: 20px 30px;
+}
+
+:lang(en) #Ambassador .suggest .spec {
+    width: 255px;
+    margin-right: 0;
+}

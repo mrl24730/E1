@@ -1,0 +1,54 @@
+.tbl_search th {
+  font-weight: bold; }
+.tbl_search th, .tbl_search td {
+  padding: 5px; }
+.tbl_search input {
+  width: 200px; }
+  .tbl_search input[type=submit] {
+    width: 100px; }
+
+.result_wrapper {
+  margin-top: 30px; }
+
+.tbl_searchResult {
+  width: 100%; }
+  .tbl_searchResult th {
+    font-weight: bold;
+    background-color: #CCC;
+    padding: 5px; }
+  .tbl_searchResult td {
+    border-bottom: 1px #eee solid;
+    width: 300px;
+    padding: 2px; }
+  .tbl_searchResult tr:nth-child(even) {
+    background: #f8f8f8; }
+
+.WarrantyPage {
+  width: 1200px !important;
+  min-height: 500px; }
+  .WarrantyPage #header {
+    height: auto; }
+    .WarrantyPage #header h2 {
+      padding: 5px 0;
+      color: #A20B0B;
+      font-size: 22px;
+      font-weight: bold; }
+  .WarrantyPage h3 {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 25px 0 5px; }
+  .WarrantyPage .template {
+    display: none; }
+  .WarrantyPage #consolePanel {
+    margin-top: 20px;
+    border: 1px #ccc solid;
+    width: 100%;
+    min-height: 200px; }
+  .WarrantyPage #FormUpload > div {
+    margin-top: 10px; }
+  .WarrantyPage #message {
+    color: #F00;
+    text-align: center;
+    margin: 30px; }
+
+/*# sourceMappingURL=admin_warranty.css.map */

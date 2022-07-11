@@ -1,0 +1,51 @@
+@charset "utf-8";
+@import "_utils";
+
+#CollecPage {
+
+    @include lg {
+        .finder-inline {
+			display: none;
+        }
+    }
+
+    .mini-title {
+        padding-bottom: 5px !important;
+        padding-top: 10px;
+        margin: 0;
+    }
+
+	.brand-desc {
+		font-size: 0.8em;
+		margin: 0 auto;
+		padding-bottom: 68px;
+
+		@include lg {
+			width: 85%;
+			padding-bottom: 30px;
+            text-align: justify;
+		}
+    }
+
+    .product-type {
+        font-size: .8em;
+    }
+
+    .product-type, .product-coll {
+        color: $cr_grey;
+    }
+
+    .product-model {
+        color: $cr_gold;
+        // font-size: 1.111em;
+        font-size: .8em;
+        font-weight: 700;
+    }
+
+    .product-price {
+        color: $cr_grey;
+        font-size: .8em;
+        font-weight: 700;
+    }
+
+}

@@ -1,0 +1,25 @@
+@charset "utf-8";
+@import "_utils";
+
+#AmbassadorPage {
+	#breadcrumb-nav {
+		margin-top: 40px;
+	}
+
+	p.title{font-weight: bold;}
+
+	.brand-desc {
+		
+		width: 85%;
+		margin: 0 auto;
+		padding-top: 20px;
+		padding-bottom: 20px;
+		
+
+		@include min-lg {
+			width: 65%;
+			padding-top: 40px;
+			padding-bottom: 68px;
+		}
+	}
+}

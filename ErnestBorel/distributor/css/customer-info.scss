@@ -1,0 +1,45 @@
+@charset "utf-8";
+@import "_utils";
+
+
+/* Change chrome auto-complete input field bg color ;) */
+input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0 30px $cr_smokewhite inset;
+}
+
+.customer-container{
+    input[disabled="disabled"], input[readonly="readonly"]{
+        border:none;
+        background-color: $cr_smokewhite !important;
+        color: #000;
+    }
+
+    .error{
+        color: #F00;
+        display: none;
+        &.active{
+            display: block;
+        }
+    }
+}
+.customer-info__txt-remark{
+    margin: 0;
+    color: $cr_grey;
+
+}
+.customer-info__form{
+    max-width: map-get($breakpoints, sm);
+    margin: auto;
+}
+.customer-info__btn-back, .btn-grey{
+    @include btn-factory($cr_grey, #FFF, false);
+    max-width: 390px;
+    width: 100%;
+    margin: 0 auto;
+}
+.customer-info__btn-next, .btn-blue{
+    @include btn-factory($cr_blue, #FFF, false);
+    max-width: 390px;
+    width: 100%;
+    margin: 0 auto;
+}

@@ -1,0 +1,90 @@
+﻿@charset "utf-8";
+@import "_utils";
+
+#breadcrumb-nav {
+    margin-top: 40px;
+}
+
+#OrderPage {
+    section {
+        @include min-lg {
+            min-height: 540px;
+        }
+    }
+
+    .text-field {
+        padding: 10px; 
+
+        &::placeholder {
+            opacity: .7;
+        }
+
+        @include lg {
+            text-align: center;
+            font-size: .933em;
+        }
+    }
+
+    .order-decor {
+        margin: 0;
+        color: $cr_grey;
+    }
+
+    .next-btn {
+        @include btn-factory($cr_blue, #FFF, false);
+        font-size: 1.2em;
+        padding: 10px;
+
+        @include lg {
+
+            margin-bottom: 80px;
+        }
+    }
+
+    .error{
+        color: #F00;
+        display: none;
+        &.active{
+            display: block;
+        }
+    }
+}
+
+#ListingPage {
+
+	// Force container taking up the full width
+	@include lg {
+		.container {
+			padding: 0;
+			min-width: 100%;
+		}
+
+		.row {
+			margin: 0;
+		}
+
+		*[class^="col-"] {
+			margin: 0;
+			padding: 0;
+		}
+
+
+    }
+
+	#breadcrumb-nav {
+		margin-top: 40px;
+	}
+
+	.item-card .order-subtotal{
+		@include min-lg{
+			margin: 0;
+		}
+	}
+
+    .back-btn {
+        @include btn-factory($cr_grey, #FFF, false);
+        width: 100%;
+        margin-bottom: 25px;
+    }
+
+}

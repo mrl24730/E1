@@ -1,0 +1,29 @@
+@charset "utf-8";
+@import "_utils";
+
+#CollectionList{
+  .mini-title{
+    text-transform: uppercase;
+  }
+  .mini-desc{
+    p{
+      margin-bottom: 0;
+      font-size: .8rem;
+    }
+  }
+  .mini-desc {
+		@include lg {
+			width: 85%;
+      margin: auto;
+      text-align: justify;
+    }
+  }
+  .collection-item{
+    text-decoration: none;
+    color: $cr_charcoal;
+  }
+  .collection-item__qtyTxt{
+    color: $cr_grey;
+    font-size: .8em;
+  }
+}

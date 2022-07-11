@@ -1,0 +1,110 @@
+@charset "UTF-8";
+body {
+  background-color: transparent;
+  font-size: 18px; }
+
+.main-container {
+  background-color: #FFF;
+  margin-top: 20px;
+  min-height: 70vh; }
+
+.step {
+  display: none; }
+  .step.active {
+    display: block; }
+
+.search-wrapper label {
+  min-width: 150px; }
+
+.list-wrapper, .detail-wrapper {
+  margin-top: 20px; }
+
+table.list-table .header {
+  text-align: center;
+  position: relative; }
+  table.list-table .header:after {
+    content: "⭥";
+    position: absolute;
+    right: 5px; }
+  table.list-table .header.headerSortDown {
+    background-color: #c88888; }
+    table.list-table .header.headerSortDown:after {
+      content: "⭱"; }
+  table.list-table .header.headerSortUp {
+    background-color: #c88888; }
+    table.list-table .header.headerSortUp:after {
+      content: "⭳"; }
+table.list-table td {
+  font-size: 14px; }
+table.list-table thead tr {
+  background-color: #CCC; }
+table.list-table thead td {
+  padding: 5px;
+  text-align: center; }
+table.list-table tbody tr:nth-of-type(odd) {
+  background-color: #F0F0F0; }
+table.list-table tbody td {
+  padding: 5px;
+  text-align: center; }
+
+.summary-table td {
+  vertical-align: top; }
+
+.table-head {
+  background-color: #CCC;
+  font-weight: bold;
+  font-size: 14px;
+  padding: 10px 0; }
+
+.cell {
+  border-bottom: #F0F0F0 1px solid;
+  font-size: 14px;
+  padding-top: 15px;
+  padding-bottom: 15px; }
+  .cell .visible-xs-block, .cell .btn-detail {
+    font-weight: bold;
+    margin-top: 8px; }
+  .cell .btn-detail {
+    display: inline-block;
+    background-color: #000;
+    color: #FFF;
+    padding: 10px 0;
+    border-radius: 8px;
+    width: 100%;
+    text-align: center; }
+
+.cell:nth-of-type(odd) {
+  background-color: #F0F0F0; }
+
+.btn-back {
+  display: block;
+  background-color: #000;
+  color: #FFF;
+  padding: 10px 0;
+  border-radius: 8px;
+  width: 100%;
+  max-width: 300px;
+  margin: 20px auto;
+  text-align: center; }
+
+.cust-wrapper {
+  max-width: 700px;
+  margin: 10px auto;
+  background-color: #F0F0F0;
+  padding: 15px;
+  text-align: left; }
+  .cust-wrapper .cust-title {
+    font-weight: bold; }
+
+.no-record-msg {
+  display: none;
+  margin-top: 30px; }
+
+@media only screen and (max-width: 750px) {
+  .main-table {
+    width: 100%; }
+
+  .cust-wrapper {
+    text-align: center; } }
+
+/*# sourceMappingURL=order.css.map */

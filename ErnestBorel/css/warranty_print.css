@@ -1,0 +1,58 @@
+#doc {
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center; }
+  #doc h3 {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 10px auto; }
+  #doc h4 {
+    font-size: 12px;
+    margin-bottom: 30px; }
+  #doc p {
+    margin: 10px auto; }
+  #doc .bold {
+    font-weight: bold; }
+  #doc .center {
+    text-align: center; }
+  #doc #logo {
+    margin: 20px auto; }
+  #doc #info {
+    width: 760px;
+    margin: 0 auto;
+    border: 2px solid #133563;
+    text-align: left;
+    background: url(../images/bg_watch_detail.jpg); }
+  #doc .certificate {
+    width: 100%;
+    border: 1px solid #133563;
+    text-align: left;
+    padding: 20px 0;
+    margin: 0 auto;
+    font-size: 12px;
+    margin-bottom: 30px; }
+    #doc .certificate .col {
+      width: 49%;
+      display: inline-block;
+      vertical-align: top;
+      padding: 0 20px;
+      box-sizing: border-box; }
+      #doc .certificate .col.right {
+        width: 50%;
+        border-left: 1px dotted #133563; }
+      #doc .certificate .col hr {
+        border: none;
+        border-top: 1px dotted #133563; }
+      #doc .certificate .col span {
+        display: inline-block;
+        vertical-align: top; }
+      #doc .certificate .col span.title {
+        width: 120px;
+        color: #133563;
+        text-align: right;
+        padding-right: 8px;
+        font-weight: bold; }
+
+/*# sourceMappingURL=warranty_print.css.map */

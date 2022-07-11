@@ -1,0 +1,11 @@
+h2{font-size:2em;}
+/*h2, h3{font-family:Arial, Helvetica, sans-serif;}*/
+#nav { font-size:1.083em;}
+h4{ font-size:1.083em;}
+.boxgrid p { font-style:normal;}
+.newsblock_dt h3 { padding-bottom:8px;}
+body{font-family:Microsoft YaHei,Arial, Helvetica, sans-serif;}
+
+
+h2, h3{font-family:Microsoft YaHei,Arial, Helvetica, sans-serif;}
+select, input, button, textarea{font-family:Microsoft YaHei,Arial, Helvetica, sans-serif;}

@@ -1,0 +1,168 @@
+/* Variable Declaration */
+@media (max-width: 992px) {
+  #WatchPage .finder-inline {
+    display: none; } }
+#WatchPage #mobileFilter {
+  display: none; }
+  @media (max-width: 992px) {
+    #WatchPage #mobileFilter {
+      display: block; } }
+#WatchPage .watch-dets {
+  padding-top: 20px;
+  position: relative; }
+  @media (max-width: 992px) {
+    #WatchPage .watch-dets {
+      padding-top: 0; } }
+  #WatchPage .watch-dets .watch-dets__btn-back {
+    background-color: gray;
+    color: #fff;
+    font-size: 40px;
+    height: 40px;
+    line-height: 30px;
+    position: absolute;
+    width: 40px;
+    z-index: 3;
+    left: 10px;
+    top: 10px; }
+  #WatchPage .watch-dets .watch-zoomer {
+    display: inline-block;
+    position: relative; }
+    #WatchPage .watch-dets .watch-zoomer .zoomImg {
+      background-color: #fff; }
+    #WatchPage .watch-dets .watch-zoomer::before {
+      opacity: 0; }
+    #WatchPage .watch-dets .watch-zoomer.mimic_hover::before {
+      background: #fff;
+      content: "";
+      height: 100%;
+      left: 0;
+      opacity: 1;
+      position: absolute;
+      top: 0;
+      width: 100%; }
+    @media (min-width: 992px) {
+      #WatchPage .watch-dets .watch-zoomer:hover::before {
+        background: #fff;
+        content: "";
+        height: 100%;
+        left: 0;
+        opacity: 1;
+        position: absolute;
+        top: 0;
+        width: 100%; } }
+    #WatchPage .watch-dets .watch-zoomer img {
+      max-height: 100%;
+      max-width: 100%; }
+      @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+        #WatchPage .watch-dets .watch-zoomer img {
+          max-width: 450px;
+          max-height: 500px; } }
+  #WatchPage .watch-dets .is-mobile .watch-zoomer::before {
+    opacity: 0; }
+  #WatchPage .watch-dets .is-mobile .watch-zoomer.mimic_hover::before {
+    opacity: 1; }
+#WatchPage .coll-title {
+  color: #af845d;
+  font-weight: 700; }
+#WatchPage .model {
+  padding: 25px 0 20px 0;
+  line-height: .25; }
+  #WatchPage .model p:not(:first-child) {
+    color: #808080; }
+#WatchPage .spec {
+  line-height: .25; }
+  #WatchPage .spec .detail-spec p {
+    color: #808080; }
+  #WatchPage .spec .gender span {
+    display: none; }
+    #WatchPage .spec .gender span.active {
+      display: inline; }
+#WatchPage .desc-title {
+  color: #af845d;
+  font-weight: 700; }
+#WatchPage .watch-price {
+  font-size: 30px;
+  color: #808080;
+  padding: 10px 0 35px 0; }
+#WatchPage .add-select {
+  padding: 15px;
+  width: 90%;
+  text-align: center; }
+#WatchPage .add-btn {
+  background-color: #133563;
+  color: #FFF;
+  padding: 15px;
+  border-radius: 0;
+  border: none;
+  width: 100%;
+  margin-bottom: 50px;
+  cursor: pointer; }
+#WatchPage .sub-title {
+  font-weight: bolder;
+  margin: 0;
+  padding: 1.2rem 0 1.2rem;
+  text-align: center; }
+  #WatchPage .sub-title #include min-lg {
+    padding: 2rem 0 2rem; }
+#WatchPage .couple {
+  background-color: #f0f0f0;
+  padding-bottom: 30px; }
+  #WatchPage .couple .img-container {
+    height: 218px;
+    text-align: center;
+    line-height: 218px; }
+  #WatchPage .couple .img-container img {
+    max-height: 195px;
+    vertical-align: middle; }
+  #WatchPage .couple .couple-type,
+  #WatchPage .couple .couple-coll {
+    color: #808080;
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0;
+    line-height: 1; }
+  #WatchPage .couple .couple-type {
+    font-size: .8rem; }
+    @media (max-width: 992px) {
+      #WatchPage .couple .couple-type {
+        padding-top: 50px; } }
+  #WatchPage .couple .couple-model {
+    margin: 0;
+    color: #af845d;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 2; }
+  #WatchPage .couple .couple-price {
+    margin: 0;
+    color: #808080;
+    font-size: 18px;
+    font-weight: bold; }
+#WatchPage #avbl-mobels {
+  position: relative;
+  padding-bottom: 1.2rem; }
+  #WatchPage #avbl-mobels .swiper-pagination {
+    position: static;
+    width: 100%;
+    padding-top: 1.2rem; }
+  @media (min-width: 992px) {
+    #WatchPage #avbl-mobels {
+      padding-bottom: 2rem; }
+      #WatchPage #avbl-mobels .swiper-pagination {
+        padding-bottom: 2rem; } }
+#WatchPage .back-btn {
+  background-color: #133563;
+  color: #FFF;
+  padding: 15px;
+  border-radius: 0;
+  border: none;
+  width: 80%;
+  max-width: 300px;
+  margin-bottom: 60px;
+  cursor: pointer; }
+#WatchPage #watchAddedModal .modal-header,
+#WatchPage #watchAddedModal .modal-footer {
+  border: none; }
+#WatchPage #watchAddedModal .btn {
+  margin-bottom: 0; }
+
+/*# sourceMappingURL=watch_detail.css.map */

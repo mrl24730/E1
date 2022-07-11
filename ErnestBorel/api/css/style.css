@@ -1,0 +1,6 @@
+/* CSS Document */
+html, body{padding:0; margin:0; background: #133563;}
+#mainWrapper{ width:480px; min-height:500px; margin:auto; }
+a{
+	color: white !important;
+}

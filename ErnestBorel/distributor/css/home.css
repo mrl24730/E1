@@ -1,0 +1,82 @@
+/* Variable Declaration */
+#HomePage #home__hero-wrapper {
+  width: 100%;
+  height: 100%;
+}
+
+#HomePage #home__hero-wrapper img {
+  display: block;
+  margin: 0 auto;
+}
+
+#HomePage #bannerBullets {
+  width: 100%;
+  margin-top: 10px;
+}
+
+@media (min-width: 992px) {
+  #HomePage #bannerBullets {
+    margin-top: 50px;
+  }
+}
+
+#HomePage #collection {
+  color: #808080;
+  font-size: 1em;
+  font-weight: bold;
+  margin-top: 40px;
+}
+
+#HomePage #collection a {
+  color: #808080;
+  text-decoration: none;
+}
+
+@media (min-width: 992px) {
+  #HomePage #collection {
+    margin-top: 115px;
+  }
+}
+
+#HomePage #new-product {
+  position: relative;
+}
+
+#HomePage #new-product h2 {
+  font-size: 1.667em;
+  font-weight: 700;
+  text-align: center;
+  padding-top: 2.778em;
+  padding-bottom: 1.556em;
+  color: #af845d;
+}
+
+#HomePage #new-product p {
+  width: 80%;
+  margin: 0 auto;
+}
+
+#HomePage #new-product .product-coll, #HomePage #new-product .product-type {
+  font-size: 1em;
+  color: #808080;
+  font-weight: 400;
+}
+
+#HomePage #new-product .product-model {
+  font-size: 1em;
+  color: #af845d;
+  font-weight: 700;
+}
+
+#HomePage #new-product .product-price {
+  font-size: 1em;
+  color: #808080;
+  font-weight: 700;
+}
+
+#HomePage #productBullets {
+  position: static;
+  margin: 2.2em 0;
+  width: 100%;
+}
+/*# sourceMappingURL=home.css.map */

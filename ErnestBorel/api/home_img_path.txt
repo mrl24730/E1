@@ -1,0 +1,4 @@
+{
+	"iphone": "home_banner_20200729_iphone",
+	"android": "home_banner_20200729_android"
+}

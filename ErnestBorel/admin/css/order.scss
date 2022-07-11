@@ -1,0 +1,136 @@
+﻿body{
+	background-color: transparent; font-size: 18px;
+}
+
+.main-container{
+	background-color: #FFF;  margin-top:20px; min-height: 70vh;
+}
+
+.step{
+	display: none;
+	&.active{
+		display: block;
+	}
+}
+
+.search-wrapper{
+	label{ min-width: 150px;}
+}
+.list-wrapper, .detail-wrapper{
+	margin-top: 20px;
+}
+
+table.list-table{
+	.header{
+		text-align: center;
+		position: relative;
+		&:after{
+			content: "⭥";
+			position: absolute;
+			right: 5px;
+		}
+		&.headerSortDown{
+			background-color: #c88888;
+			&:after{
+				content: "⭱";
+			}
+		}
+		&.headerSortUp{
+			background-color: #c88888;
+			&:after{
+				content: "⭳";
+			}
+		}
+	}
+	td{font-size: 14px;}
+
+	thead{
+		tr{
+			background-color: #CCC;
+		}
+		td{
+			padding: 5px;
+			text-align: center;
+		}
+
+	}
+	tbody{
+		tr:nth-of-type(odd){
+		    background-color:#F0F0F0;
+		}
+		td{
+			padding:5px;
+			text-align: center;
+		}
+	}
+}
+.summary-table{
+	td{vertical-align: top;}
+}
+.table-head{
+	background-color: #CCC;
+	font-weight: bold;
+	font-size: 14px;
+	padding:10px 0;
+}
+
+.cell{
+	border-bottom: #F0F0F0 1px solid;
+	font-size: 14px;
+	padding-top:15px;
+	padding-bottom:15px;
+	.visible-xs-block, .btn-detail{
+		font-weight: bold;
+		margin-top: 8px;
+	}
+	.btn-detail{
+		display: inline-block;
+		background-color: #000;
+		color:#FFF;
+		padding: 10px 0;
+		border-radius: 8px;
+		width: 100%;
+		text-align: center;
+		&:active, &:focus{
+
+		}
+	}
+}
+.cell:nth-of-type(odd){
+    background-color:#F0F0F0;
+}
+
+.btn-back{
+	display: block;
+	background-color: #000;
+	color:#FFF;
+	padding: 10px 0;
+	border-radius: 8px;
+	width: 100%;
+	max-width: 300px;
+	margin: 20px auto;
+	text-align: center;
+}
+
+.cust-wrapper{
+	max-width: 700px;
+	margin: 10px auto;
+	background-color: #F0F0F0;
+	padding:15px;
+	.cust-title{
+		font-weight: bold;
+	}
+	text-align: left;
+}
+
+.no-record-msg{
+	display: none;
+	margin-top: 30px;
+}
+
+@media only screen and (max-width: 750px) {
+	.main-table{width:100%;}
+	.cust-wrapper{
+		text-align: center;
+	}
+}

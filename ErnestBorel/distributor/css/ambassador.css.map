@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACAA,0BAA0B;ADG1B,AACC,eADc,CACd,eAAe,CAAC;EACf,UAAU,EAAE,IAAI;CAChB;;AAHF,AAKC,eALc,CAKd,CAAC,AAAA,MAAM,CAAA;EAAC,WAAW,EAAE,IAAI;CAAG;;AAL7B,AAOC,eAPc,CAOd,WAAW,CAAC;EAEX,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,MAAM;EACd,WAAW,EAAE,IAAI;EACjB,cAAc,EAAE,IAAI;CAQpB;;ACmDD,MAAM,EAAE,SAAS,EAAE,KAAK;EDvEzB,AAOC,eAPc,CAOd,WAAW,CAAC;IASV,KAAK,EAAE,GAAG;IACV,WAAW,EAAE,IAAI;IACjB,cAAc,EAAE,IAAI;GAErB",
+    "sources": [
+        "ambassador.scss",
+        "_utils.scss"
+    ],
+    "names": [],
+    "file": "ambassador.css"
+}

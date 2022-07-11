@@ -1,0 +1,53 @@
+/* Variable Declaration */
+/* Change chrome auto-complete input field bg color ;) */
+input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 30px #f0f0f0 inset;
+}
+
+.customer-container input[disabled="disabled"], .customer-container input[readonly="readonly"] {
+  border: none;
+  background-color: #f0f0f0 !important;
+  color: #000;
+}
+
+.customer-container .error {
+  color: #F00;
+  display: none;
+}
+
+.customer-container .error.active {
+  display: block;
+}
+
+.customer-info__txt-remark {
+  margin: 0;
+  color: #808080;
+}
+
+.customer-info__form {
+  max-width: 576px;
+  margin: auto;
+}
+
+.customer-info__btn-back, .btn-grey {
+  background-color: #808080;
+  color: #FFF;
+  padding: 15px;
+  border-radius: 0;
+  border: none;
+  max-width: 390px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.customer-info__btn-next, .btn-blue {
+  background-color: #133563;
+  color: #FFF;
+  padding: 15px;
+  border-radius: 0;
+  border: none;
+  max-width: 390px;
+  width: 100%;
+  margin: 0 auto;
+}
+/*# sourceMappingURL=customer-info.css.map */

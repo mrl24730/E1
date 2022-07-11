@@ -1,0 +1,41 @@
+@charset "utf-8";
+@import "_utils";
+
+#ListingPage {
+
+	// Force container taking up the full width
+	@include lg {
+		.container {
+			padding: 0;
+			min-width: 100%;
+		}
+
+		.row {
+			margin: 0;
+		}
+
+		*[class^="col-"] {
+			margin: 0;
+			padding: 0;
+		}
+
+
+    }
+
+	#breadcrumb-nav {
+		margin-top: 40px;
+	}
+
+	.item-card .order-subtotal{
+		@include min-lg{
+			margin: 0;
+		}
+	}
+
+    .back-btn {
+        @include btn-factory($cr_grey, #FFF, false);
+        width: 100%;
+        margin-bottom: 25px;
+    }
+
+}

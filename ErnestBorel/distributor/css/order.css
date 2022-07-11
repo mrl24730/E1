@@ -1,0 +1,102 @@
+/* Variable Declaration */
+#breadcrumb-nav {
+  margin-top: 40px;
+}
+
+@media (min-width: 992px) {
+  #OrderPage section {
+    min-height: 540px;
+  }
+}
+
+#OrderPage .text-field {
+  padding: 10px;
+}
+
+#OrderPage .text-field::-webkit-input-placeholder {
+  opacity: .7;
+}
+
+#OrderPage .text-field:-ms-input-placeholder {
+  opacity: .7;
+}
+
+#OrderPage .text-field::-ms-input-placeholder {
+  opacity: .7;
+}
+
+#OrderPage .text-field::placeholder {
+  opacity: .7;
+}
+
+@media (max-width: 992px) {
+  #OrderPage .text-field {
+    text-align: center;
+    font-size: .933em;
+  }
+}
+
+#OrderPage .order-decor {
+  margin: 0;
+  color: #808080;
+}
+
+#OrderPage .next-btn {
+  background-color: #133563;
+  color: #FFF;
+  padding: 15px;
+  border-radius: 0;
+  border: none;
+  font-size: 1.2em;
+  padding: 10px;
+}
+
+@media (max-width: 992px) {
+  #OrderPage .next-btn {
+    margin-bottom: 80px;
+  }
+}
+
+#OrderPage .error {
+  color: #F00;
+  display: none;
+}
+
+#OrderPage .error.active {
+  display: block;
+}
+
+@media (max-width: 992px) {
+  #ListingPage .container {
+    padding: 0;
+    min-width: 100%;
+  }
+  #ListingPage .row {
+    margin: 0;
+  }
+  #ListingPage *[class^="col-"] {
+    margin: 0;
+    padding: 0;
+  }
+}
+
+#ListingPage #breadcrumb-nav {
+  margin-top: 40px;
+}
+
+@media (min-width: 992px) {
+  #ListingPage .item-card .order-subtotal {
+    margin: 0;
+  }
+}
+
+#ListingPage .back-btn {
+  background-color: #808080;
+  color: #FFF;
+  padding: 15px;
+  border-radius: 0;
+  border: none;
+  width: 100%;
+  margin-bottom: 25px;
+}
+/*# sourceMappingURL=order.css.map */

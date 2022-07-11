@@ -1,0 +1,35 @@
+/* Variable Declaration */
+/* Login Page Style */
+#LoginPagehtml, #LoginPage body {
+  background: url(../images/1_login_bg_m.jpg) no-repeat center;
+  background-size: cover;
+  height: 100%;
+}
+
+#LoginPage .login-page__logo {
+  margin-bottom: 20px;
+}
+
+#LoginPage .login-page__input-wrapper input[type="password"] {
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+}
+
+#LoginPage .login-page__input-wrapper .login-page__submit {
+  background: #133563;
+  color: #FFF;
+  border: none;
+  padding: 10px;
+  width: 100%;
+}
+
+#LoginPage .error {
+  color: #FF0;
+  display: none;
+}
+
+#LoginPage .error.active {
+  display: block;
+}
+/*# sourceMappingURL=login.css.map */

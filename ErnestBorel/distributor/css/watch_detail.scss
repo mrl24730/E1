@@ -1,0 +1,251 @@
+@charset "utf-8";
+@import "_utils";
+
+#WatchPage {
+
+    @include lg {
+        .finder-inline {
+            display: none;
+        }
+    }
+
+    #mobileFilter {
+        display: none;
+        @include lg {
+            display: block;
+        }
+    }
+
+    .watch-dets {
+        padding-top: 20px;
+        position: relative;
+
+        @include lg {
+            padding-top: 0;
+        }
+
+        @mixin box-btn {
+            background-color: gray;
+            color: #fff;
+            font-size: 40px;
+            height: 40px;
+            line-height: 30px;
+            position: absolute;
+            width: 40px;
+            z-index: 3;
+        }
+
+        .watch-dets__btn-back {
+            @include box-btn;
+            left: 10px;
+            top: 10px;
+        }
+
+        @mixin zoomerHover() {
+            &::before {
+                background: #fff;
+                content: "";
+                height: 100%;
+                left: 0;
+                opacity: 1;
+                position: absolute;
+                top: 0;
+                width: 100%;
+            }
+        }
+        .watch-zoomer {
+
+            display: inline-block;
+            position: relative;
+
+            .zoomImg{
+              background-color: #fff;
+            }
+
+            &::before {
+                opacity: 0;
+            }
+
+
+            &.mimic_hover {
+                @include zoomerHover();
+            }
+            &:hover{
+              @include min-lg {
+                @include zoomerHover();
+              }
+            }
+
+            img {
+                max-height: 100%;
+                max-width: 100%;
+
+                @include ie-10 {
+                    max-width: 450px;
+                    max-height: 500px;
+                }
+            }
+
+        }
+        .is-mobile .watch-zoomer {
+            &::before {
+                opacity: 0;
+            }
+            &.mimic_hover::before {
+                opacity: 1;
+            }
+        }
+    }
+
+    .coll-title {
+        color: $cr_gold;
+        font-weight: 700;
+    }
+
+    .model {
+        padding: 25px 0 20px 0;
+        line-height: .25;
+
+        p:not(:first-child) {
+            color: $cr_grey;
+        }
+    }
+
+    .spec {
+        line-height: .25;
+
+        p:not(:first-child) {
+            //color: $cr_grey;
+        }
+        .detail-spec p {
+            color: $cr_grey;
+        }
+
+        .gender span {
+            display: none;
+            &.active {
+                display: inline;
+            }
+        }
+    }
+
+    .desc-title {
+        color: $cr_gold;
+        font-weight: 700;
+    }
+
+    .watch-price {
+        font-size: 30px;
+        color: $cr_grey;
+        padding: 10px 0 35px 0;
+    }
+
+    .add-select {
+        padding: 15px;
+        width: 90%;
+        text-align: center;
+    }
+
+    .add-btn {
+        @include btn-factory($cr_blue, #FFF, false);
+        width: 100%;
+        margin-bottom: 50px;
+        cursor: pointer;
+    }
+
+    .sub-title {
+        font-weight: bolder;
+        margin: 0; //padding: 60px 0 50px 0;
+        padding: 1.2rem 0 1.2rem;
+        text-align: center;
+        #include min-lg {
+            padding: 2rem 0 2rem;
+        }
+    }
+
+    .couple {
+        //min-height: 514px;
+        background-color: $cr_smokewhite;
+        padding-bottom: 30px;
+
+        .img-container {
+            height: 218px;
+            text-align: center;
+            line-height: 218px;
+        }
+
+        .img-container img {
+            max-height: 195px;
+            vertical-align: middle;
+        }
+
+        .couple-type,
+        .couple-coll {
+            color: $cr_grey;
+            font-size: 18px;
+            font-weight: 600;
+            margin: 0;
+            line-height: 1;
+        }
+
+        .couple-type {
+            //padding-top: 3rem;
+            font-size: .8rem;
+            @include lg {
+                padding-top: 50px;
+            }
+        }
+
+        .couple-model {
+            margin: 0;
+            color: $cr_gold;
+            font-size: 18px;
+            font-weight: bold;
+            line-height: 2;
+        }
+
+        .couple-price {
+            margin: 0;
+            color: $cr_grey;
+            font-size: 18px;
+            font-weight: bold;
+        }
+    }
+
+    #avbl-mobels {
+        // min-height: 470px;
+        position: relative;
+        padding-bottom: 1.2rem;
+
+        .swiper-pagination {
+            position: static;
+            width: 100%;
+            padding-top: 1.2rem;
+        }
+
+        @include min-lg {
+            padding-bottom: 2rem;
+            .swiper-pagination {
+                padding-bottom: 2rem;
+            }
+        }
+    }
+
+    .back-btn {
+        @include btn-factory($cr_blue, #FFF, false);
+        width: 80%;
+        max-width: 300px;
+        margin-bottom: 60px;
+        cursor: pointer;
+    }
+
+    #watchAddedModal {
+        .modal-header,
+        .modal-footer {
+            border: none;
+        }
+        .btn {
+            margin-bottom: 0;
+        }
+    }
+}

@@ -1,0 +1,29 @@
+@charset "utf-8";
+@import "_utils";
+
+#ConfirmPage, #FinishPage {
+
+    .discount-tag {
+        font-weight: 600;
+        color: $cr_grey;
+        margin: 0;
+        line-height: .1;
+        text-align: right;
+
+        
+    }
+
+    .total-discount {
+        font-weight: 600;
+        color: $cr_grey;
+
+
+
+        .form-control-plaintext {
+            color: $cr_grey;
+            font-weight: 600;
+
+
+        }
+    }
+}

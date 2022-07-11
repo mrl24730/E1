@@ -1,0 +1,36 @@
+@charset "utf-8";
+@import "_utils";
+
+/* Login Page Style */
+#LoginPage{
+
+	&html, body{
+		background: url(../images/1_login_bg_m.jpg) no-repeat center;
+		background-size:cover;
+		height: 100%;
+	}
+	.login-page__logo{
+		margin-bottom: 20px;
+	}
+	.login-page__input-wrapper{
+		input[type="password"]{
+			width: 100%;
+			text-align: center;
+			padding: 10px;
+		}
+		.login-page__submit{
+			background: $cr_blue;
+			color: #FFF;
+			border:none;
+			padding:10px;
+			width: 100%;
+		}
+	}
+	.error{
+		color: $cr_error;
+		display: none;
+		&.active{
+			display: block;
+		}
+	}
+}

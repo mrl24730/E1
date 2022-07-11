@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+#home-2col{ position:relative;}
+#nav{}
+.navGrad{left:-475px;}
+
+.collection .overlayer{ height:300px;}
+
+#watch-content{ width:880px; height:550px;}
+#watchTypePage{ width:900px;}
+
+#accordionNav .navContainer .scroll-pane .watchspec.selected{ background:none;}
+
+#accordionNav .navContainer .scroll-pane .paneListItem li.selected { padding-bottom:0;}
+
+
+
+.heritageCnt, .yearCol { margin-top:0;}

@@ -1,0 +1,18 @@
+h2{font-size:2em;}
+.boxcaption p { font-size:1em;}
+#nav { font-size:1.083em;}
+h4{ font-size:1.083em;}
+.boxgrid p { font-style:normal;}
+.newsblock_dt h3 { padding-bottom:8px;}
+body{font-family:Microsoft YaHei,Arial, Helvetica, sans-serif;}
+
+
+h2, h3{font-family:Microsoft YaHei,Arial, Helvetica, sans-serif;}
+select, input, button, textarea{font-family:Microsoft YaHei,Arial, Helvetica, sans-serif;}
+.history_cont .latest { left:-74px;} 
+
+.steps .step h5 { font-size:0.833em;}
+
+.iphoneApp .download_btn{
+	font-size: 1.25em;
+}

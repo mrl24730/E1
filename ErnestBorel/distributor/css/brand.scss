@@ -1,0 +1,33 @@
+@charset "utf-8";
+@import "_utils";
+
+#BrandPage {
+	#breadcrumb-nav {
+		margin-top: 40px;
+	}
+
+	.brand-desc {
+		
+		margin: 0 auto;
+		padding-top: 50px;
+		padding-bottom: 68px;
+		width: 65%;
+
+		@include lg {
+			width: 80%;
+			padding-top: 20px;
+			padding-bottom: 15px;
+		}
+	}
+
+	.brand-history p{
+		width: 80%;
+		margin: 0 auto;
+
+		@include min-lg {
+			width: 65%;
+			margin: 0 auto 35px;
+		}
+	}
+
+}

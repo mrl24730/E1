@@ -1,0 +1,24 @@
+/* Variable Declaration */
+#AmbassadorPage #breadcrumb-nav {
+  margin-top: 40px;
+}
+
+#AmbassadorPage p.title {
+  font-weight: bold;
+}
+
+#AmbassadorPage .brand-desc {
+  width: 85%;
+  margin: 0 auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+@media (min-width: 992px) {
+  #AmbassadorPage .brand-desc {
+    width: 65%;
+    padding-top: 40px;
+    padding-bottom: 68px;
+  }
+}
+/*# sourceMappingURL=ambassador.css.map */

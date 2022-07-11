@@ -1,0 +1,52 @@
+@charset "utf-8";
+@import "_utils";
+
+#CartPage {
+
+  .step{
+    display: none;
+    &.active{
+      display: block;
+    }
+  }
+
+  #discount{
+    min-width: 80px;
+  }
+
+  .qty-select[disabled="disabled"], .qty-select[readonly="readonly"]{
+    border:none;
+    background-color: transparent;
+    color:#000;
+  }
+
+  .total-card{
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .order-info{
+    background-color: $cr_lightgrey;
+    color: $cr_grey;
+  }
+
+  .save-btn{
+    .save,
+    .saving,
+    .saved{
+      display: none;
+      &.active{display: inline;}
+    }
+  }
+
+  .error{
+    color:#F00;
+  }
+
+  #totalContainer{
+    .col-form-label{
+      padding-top: .375rem;
+      padding-bottom: .375rem;
+    }
+  }
+}
